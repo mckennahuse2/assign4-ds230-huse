@@ -33,30 +33,14 @@ def treatFile(filelist):
     addltime = regex.compile("^(\"\",)")
 
     for line in filelist:
-        findendc = regex.findall(endcommas, line)
+        #findendc = regex.findall(endcommas, line)
         if ''.join(line[-6:]) == ",,,,,," or ''.join(line[-7:]) == ",,,,,,,":
             pass
         elif line[0][0] == 'Course':
             pass
         else:
             ultlist.append(line)
-
-
-
-        if findendc:
-            print(line)
-            baditems.append(line)
-        #elif len(line[0]) == 2:
-        #    print(line)
-        #    alttimes.append(line)
-        elif line[0][0] == '"':
-            findquoted = regex.findall(quotes, line)
-            if findquoted:
-                line = findquoted[0]
-                alttimes.append(line)
-        else:
-            ultlist.append(line)
-    return ultlist,alttimes
+    return ultlist
 
 def readToSQL(listlines):
     for l in listlines:
@@ -97,6 +81,6 @@ def createSchTable():
     return q
 
 filecontents = openFile(file)
-txcontent,altcontent = treatFile(filecontents)
-readToSQL(txcontent)
-print(altcontent)
+txcontent = treatFile(filecontents)
+#readToSQL(txcontent)
+print(txcontent)
