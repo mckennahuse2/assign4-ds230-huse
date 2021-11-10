@@ -8,6 +8,9 @@ import os
 import requests
 import json
 import regex
+import csv
+
+
 
 # task 1: DB creation of student schedules
 
@@ -16,28 +19,55 @@ file = 'F21CourseSchedule.csv' #keep in same folder
 def openFile(file):
     filelist = []
     with open(file) as f:
-        lines = f.readlines()
-        for l in lines:
-            filelist.append(l)
-        print(filelist)
+        linecsv = csv.reader(f)
+        for row in linecsv:
+            filelist.append(row)
     return filelist
 
 def treatFile(filelist):
     ultlist = []
     baditems = []
-    for line in filelist:
-        #print(line)
-        doub = regex.compile('([\w\s\W]*)(?:,,)')
-        x= regex.findall(doub,line)
-        if x:
-            print(x[0])
-            if ',' in x[0]:
-                x[0].replace(',', '')
-                baditems.append(x[0])
+    alttimes = []
+    endcommas = regex.compile(',{5,7}')
+    quotes = regex.compile("^\"(.*)\"")
+    addltime = regex.compile("^(\"\",)")
 
-        #ultlist.append(line)
-    #print(ultlist)
-    print(baditems)
+    for line in filelist:
+        findendc = regex.findall(endcommas, line)
+        if ''.join(line[-6:]) == ",,,,,," or ''.join(line[-7:]) == ",,,,,,,":
+            pass
+        elif line[0][0] == 'Course':
+            pass
+        else:
+            ultlist.append(line)
+
+
+
+        if findendc:
+            print(line)
+            baditems.append(line)
+        #elif len(line[0]) == 2:
+        #    print(line)
+        #    alttimes.append(line)
+        elif line[0][0] == '"':
+            findquoted = regex.findall(quotes, line)
+            if findquoted:
+                line = findquoted[0]
+                alttimes.append(line)
+        else:
+            ultlist.append(line)
+    return ultlist,alttimes
+
+def readToSQL(listlines):
+    for l in listlines:
+        breakdown = l.split(',')
+
+        print(breakdown)
+
+
+def insertTable(table,row):
+    q = "INSERT INTO " + str(table) + " (" \
+        "VALUES ("
 
 
 def dropTables():
@@ -48,13 +78,25 @@ def createDB():
         pass
 
 def createSchTable():
-    q = """ CREATE TABLE schedule (
-    "Course Number/Title" VARCHAR(20), "Instructor" VARCHAR(20),
-    "Days" SET("M","T","W","R","F"),"Begin Time" CHAR(8),"End Time" CHAR(8),
-    "Bldg Room" VARCHAR(20),"Credits" DECIMAL(10,2)
+    q1 = """ CREATE TABLE schedule (
+    "CourseID" INT PRIMARY KEY, 
+    "Dept" VARCHAR(4),
+    "Num" CHAR(3),
+    "section" VARCHAR(6),
+    "Title" VARCHAR(60), "Instructor" VARCHAR(20),
+    "Credits" DECIMAL(10,2)
     );
     """
+
+    q2 = """ CREATE TABLE meeting (
+    "meetingID" INT PRIMARY KEY,
+    "Days" SET("M","T","W","R","F"),"Begin Time" CHAR(8),"End Time" CHAR(8),
+    "Bldg Room" VARCHAR(20),
+    """
+
     return q
 
 filecontents = openFile(file)
-treatFile(filecontents)
+txcontent,altcontent = treatFile(filecontents)
+readToSQL(txcontent)
+print(altcontent)
