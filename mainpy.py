@@ -93,7 +93,7 @@ def readToSQL(listlines):
 
 def dropTables(db):
     drop =  """DROP TABLE schedule;
-    DROP TABLE meeting"""
+    DROP TABLE meeting;"""
 
     myc = db.cursor()
     try:
@@ -141,18 +141,20 @@ def fillTable(db,row): #row is a list of all the items in a row
     begin = row[6]
     end = row[7]
     bldg = row[8]
-    credits = row[9]
-    q = 'INSERT INTO schedule (Dept,Num,Section,Title,Instructor,Credits) VALUES ('\
-        + cdept + ',' + ccode + ',' + csect +',' + ctitle + ',' + prof + ',' + credits + ');' + \
-        'INSERT INTO meeting (Days,BeginTime,EndTime,Bldg) VALUES (' + \
-            days + ',' + begin + ',' + end + ',' + bldg + ');'
+    credithr = row[9]
+    q = 'INSERT INTO schedule (Dept,Num,Section,Title,Instructor,Credits) VALUES ("'\
+        + cdept + '","' + ccode + '","' + csect +'","' + ctitle + '","' + prof + '","' + credithr + '"); '
+    q1 = 'INSERT INTO meeting (Days,BeginTime,EndTime,Bldg) VALUES ("' + \
+            days + '","' + begin + '","' + end + '"","' + bldg + '");'
     mycursor = db.cursor()
     try:
-        results = mycursor.execute(q, multi = True)
+        results = mycursor.execute(q)
         db.commit()
+        #results1 = mycursor.execute(q1)
+        #db.commit()
         print('successful insert')
-        for r in results:
-            print(r)
+
+
     except:
         print('error:', mysql.connector.Error)
 
@@ -167,7 +169,7 @@ def createDB():
         print('error - est DB')
     return mydb
 
-def loadSQL():
+def loadSQL(db):
     filecontents = openFile(file)
     txcontent = cleanFile(filecontents)
     # readToSQL(txcontent)
@@ -176,13 +178,13 @@ def loadSQL():
         rowitems = []
         try:
             cdept, ccode, csect, ctitle = splitCourseCodes(t)
-            rowitems.append([cdept, ccode, csect, ctitle, t[1:]])
+            rowitems = [cdept, ccode, csect, ctitle, *t[1:]]
             print(rowitems)
-            fillTable(mydb, rowitems)
+            fillTable(db, rowitems)
         except:
             print('insert failed')
 
 mydb = createDB()
 dropTables(mydb)
 createSchTable(mydb)
-
+loadSQL(mydb)
