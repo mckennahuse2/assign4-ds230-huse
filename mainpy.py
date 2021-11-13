@@ -207,8 +207,12 @@ def loadSQL(db):
             print('insert failed')
 
 
+def taskpt1():
+    mydb = createDB()
+    dropTables(mydb)
+    createSchTable(mydb)
+    loadSQL(mydb)
 
-mydb = createDB()
-dropTables(mydb)
-createSchTable(mydb)
-loadSQL(mydb)
+def taskpt2():
+    # simple queries w/ schedule
+
