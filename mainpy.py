@@ -154,7 +154,6 @@ def fillTable(db,row): #row is a list of all the items in a row
         #db.commit()
         print('successful insert')
 
-
     except:
         print('error:', mysql.connector.Error)
 
@@ -183,6 +182,8 @@ def loadSQL(db):
             fillTable(db, rowitems)
         except:
             print('insert failed')
+
+
 
 mydb = createDB()
 dropTables(mydb)
