@@ -124,7 +124,7 @@ def createSchTable(db):
     q1 = """CREATE TABLE schedule (
     CourseID INT PRIMARY KEY NOT NULL AUTO_INCREMENT, 
     Dept VARCHAR(4),
-    Num VARCHAR(3),
+    Num VARCHAR(4),
     section VARCHAR(6),
     Title VARCHAR(80), Instructor VARCHAR(20),
     Credits VARCHAR(5)
@@ -132,6 +132,7 @@ def createSchTable(db):
     
     CREATE TABLE meeting (
     meetingID INT PRIMARY KEY NOT NULL AUTO_INCREMENT,
+    CourseID INT,
     Days VARCHAR(8),BeginTime VARCHAR(8),EndTime VARCHAR(8),
     Bldg VARCHAR(20)
     );
@@ -167,6 +168,9 @@ def fillTable(db,row): #row is a list of all the items in a row
 
     q = 'INSERT INTO schedule (Dept,Num,Section,Title,Instructor,Credits) VALUES ("'\
         + cdept + '","' + ccode + '","' + csect +'","' + ctitle + '","' + prof + '","' + credithr + '"); '
+
+    qcID = 'SELECT CourseID from schedule where Dept = "' + str(cdept) + '" AND Num  = "' + str(ccode) + '";'
+
     q1 = 'INSERT INTO meeting (Days,BeginTime,EndTime,Bldg) VALUES ("' + \
             days + '","' + begin + '","' + end + '"","' + bldg + '");'
     mycursor = db.cursor()
@@ -213,6 +217,11 @@ def taskpt1():
     createSchTable(mydb)
     loadSQL(mydb)
 
-def taskpt2():
-    # simple queries w/ schedule
+### task 2
+# simple queries w/ schedule
 
+def courseDept():
+    q = '''SELECT 
+    '''
+
+taskpt1()
