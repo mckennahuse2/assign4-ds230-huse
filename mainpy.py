@@ -134,7 +134,7 @@ def createSchTable(db):
     meetingID INT PRIMARY KEY NOT NULL AUTO_INCREMENT,
     CourseID INT,
     Days VARCHAR(8),BeginTime VARCHAR(8),EndTime VARCHAR(8),
-    Bldg VARCHAR(20)
+    Bldg VARCHAR(30)
     );
     """
 
@@ -162,23 +162,29 @@ def fillTable(db,row): #row is a list of all the items in a row
     end = row[7]
     bldg = row[8]
     credithr = row[9]
-    for i in row:
-        print(row)
-        print(i)
 
     q = 'INSERT INTO schedule (Dept,Num,Section,Title,Instructor,Credits) VALUES ("'\
         + cdept + '","' + ccode + '","' + csect +'","' + ctitle + '","' + prof + '","' + credithr + '"); '
 
-    qcID = 'SELECT CourseID from schedule where Dept = "' + str(cdept) + '" AND Num  = "' + str(ccode) + '";'
+    qcID = 'SELECT CourseID from schedule where Dept = "' + str(cdept) + \
+           '" AND Num  = "' + str(ccode) + '" and section = "'+ str(csect)+'";'
 
-    q1 = 'INSERT INTO meeting (Days,BeginTime,EndTime,Bldg) VALUES ("' + \
-            days + '","' + begin + '","' + end + '"","' + bldg + '");'
+    q1 = 'INSERT INTO meeting (CourseID,Days,BeginTime,EndTime,Bldg) VALUES ("' + \
+         '(SELECT CourseID from schedule where Dept = "' + str(cdept) + \
+         '" AND Num = "' + str(ccode) + '" and section = "'+ str(csect)+'"),"' + \
+            days + '","' + begin + '","' + end + '","' + bldg + '");'
+
+    qall = 'INSERT INTO schedule (Dept,Num,Section,Title,Instructor,Credits) VALUES ("'\
+        + cdept + '","' + ccode + '","' + csect +'","' + ctitle + '","' + prof + '","' + credithr + '"); ' \
+     + 'INSERT INTO meeting (CourseID,Days,BeginTime,EndTime,Bldg) VALUES (' + \
+         'SELECT CourseID from schedule s where s.Dept = "' + cdept + \
+         '" AND s.Num = "' + ccode + '" AND s.section = "'+ csect+'", "' + \
+            days + '","' + begin + '","' + end + '","' + bldg + '");'
+
     mycursor = db.cursor()
     try:
-        results = mycursor.execute(q)
+        results = mycursor.execute(qall, multi=True)
         db.commit()
-        #results1 = mycursor.execute(q1)
-        #db.commit()
         print('successful insert')
 
     except:
@@ -191,7 +197,7 @@ def fixCreditsVals(rowlist):
     if len(str(credits)) > 4:
         newcredits = credits[-4:]
         rowlist[-1] = newcredits
-        print(rowlist[-1])
+
 
 
 def loadSQL(db):
