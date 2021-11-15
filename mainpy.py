@@ -38,9 +38,6 @@ def cleanFile(filelist):
     ultlist = []
     baditems = []
     alttimes = []
-    endcommas = regex.compile(',{5,7}')
-    quotes = regex.compile("^\"(.*)\"")
-    addltime = regex.compile("^(\"\",)")
 
     blanks = []
     for line in filelist:
@@ -62,25 +59,28 @@ def cleanFile(filelist):
                 for i in blanks:
                     if line[i] == '':
                         line = line[:i] + line[i+1:]
+            if line[0] == '':
+                line[0] = prevcourseinfo
+            prevcourseinfo = line[0]
+
+            credits = line[-1]
+            if len(str(credits)) > 4:  # 4 characters including the decimal
+                if len(str(credits)) > 5:
+                    room = credits[:-5]
+                    print(line[-2])
+
+                line[-1] = credits[-4:]
+
+                elif str(credits) == '':
+                    line[-1] = prevcredits
+
+            prevcredits = line[-1]
             print(line)
             ultlist.append(line)
+
     return ultlist
 
-def splitCourseCodesREGEX(courselist):
-    coursedept = regex.compile('[A-Z][A-Z]?[A-Z]_')
-    coursecode = regex.compile('[0-9]{3}?L_')
-    coursesect = regex.compile('[0-9]{2}?W')
-    for c in courselist:
-        courseinfo = c[0]
-        print(courseinfo)
-        ccode = regex.match(coursecode,courseinfo)
-        csect = regex.match(coursesect,courseinfo)
-        cdept = regex.match(coursedept,courseinfo)
-        csplit = courseinfo.split()
-        title = ' '.join(csplit[3:])
-        print(title)
-        print('ccode: ',ccode)
-        print('csect:',csect)
+
 
 def splitCourseCodes(courseItem): # input - a row (note: all items extracted are in one list item originally
     courseinfo = courseItem[0]
@@ -169,34 +169,30 @@ def fillTable(db,row): #row is a list of all the items in a row
     qcID = 'SELECT CourseID from schedule where Dept = "' + str(cdept) + \
            '" AND Num  = "' + str(ccode) + '" and section = "'+ str(csect)+'";'
 
-    q1 = 'INSERT INTO meeting (CourseID,Days,BeginTime,EndTime,Bldg) VALUES ("' + \
-         '(SELECT CourseID from schedule where Dept = "' + str(cdept) + \
-         '" AND Num = "' + str(ccode) + '" and section = "'+ str(csect)+'"),"' + \
+    q1 = 'INSERT INTO meeting (CourseID,Days,BeginTime,EndTime,Bldg) VALUES (' + \
+         '(SELECT CourseID from schedule where Dept = "' + cdept + \
+         '" AND Num = "' + ccode + '" AND section = "'+ csect+'"), "' + \
             days + '","' + begin + '","' + end + '","' + bldg + '");'
 
-    qall = 'INSERT INTO schedule (Dept,Num,Section,Title,Instructor,Credits) VALUES ("'\
-        + cdept + '","' + ccode + '","' + csect +'","' + ctitle + '","' + prof + '","' + credithr + '"); ' \
-     + 'INSERT INTO meeting (CourseID,Days,BeginTime,EndTime,Bldg) VALUES (' + \
-         'SELECT CourseID from schedule s where s.Dept = "' + cdept + \
-         '" AND s.Num = "' + ccode + '" AND s.section = "'+ csect+'", "' + \
-            days + '","' + begin + '","' + end + '","' + bldg + '");'
-
+    print(q)
     mycursor = db.cursor()
     try:
-        results = mycursor.execute(qall, multi=True)
+        results = mycursor.execute(q, multi=True)
         db.commit()
         print('successful insert')
 
     except:
         print('error:', mysql.connector.Error)
 
+    try:
+        print('attempt:', q1)
+        res = mycursor.execute(q1)
+        db.commit()
+        print('successful meeting insert')
+    except mysql.connector.Error as e:
+        print(e)
+        print('failed meeting insert')
 
-
-def fixCreditsVals(rowlist):
-    credits = rowlist[-1]
-    if len(str(credits)) > 4:
-        newcredits = credits[-4:]
-        rowlist[-1] = newcredits
 
 
 
@@ -211,7 +207,7 @@ def loadSQL(db):
             cdept, ccode, csect, ctitle = splitCourseCodes(t)
             rowitems = [cdept, ccode, csect, ctitle, *t[1:]]
             print(rowitems)
-            fixCreditsVals(rowitems)
+            #fixCreditsVals(rowitems)
             fillTable(db, rowitems)
         except:
             print('insert failed')
