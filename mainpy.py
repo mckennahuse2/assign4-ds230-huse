@@ -65,14 +65,17 @@ def cleanFile(filelist):
 
             credits = line[-1]
             if len(str(credits)) > 4:  # 4 characters including the decimal
-                if len(str(credits)) > 5:
+                if len(str(credits)) > 4:
                     room = credits[:-5]
                     print(line[-2])
-
                 line[-1] = credits[-4:]
-
-                elif str(credits) == '':
-                    line[-1] = prevcredits
+            if str(credits) == '':
+                if 'Athletics and' in str(line[-2]):
+                    bldgARC = line[-2][:-5]
+                    creditARC = line[-2][-4:]
+                    line[-2] = bldgARC
+                    line[-1] = creditARC
+                #line[-1] = prevcredits
 
             prevcredits = line[-1]
             print(line)
@@ -177,9 +180,10 @@ def fillTable(db,row): #row is a list of all the items in a row
     print(q)
     mycursor = db.cursor()
     try:
-        results = mycursor.execute(q, multi=True)
-        db.commit()
-        print('successful insert')
+        if credithr != '':
+            results = mycursor.execute(q, multi=True)
+            db.commit()
+            print('successful insert')
 
     except:
         print('error:', mysql.connector.Error)

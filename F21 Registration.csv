@@ -1,0 +1,4344 @@
+ID,L_Name,F_Name,Class,Major 1,Major 2,Minor 1,Advisor
+AAM  287  01
+18048807,Groat,Lucas,01,EXP,,,Rydze
+13330778,Cadien,Lauden,04,EXP,,,Falk
+10700808,Lenoch,Thomas,01,EXP,,,Kelley
+17736790,Frana,Sean,02,BIO,ENV,,Ellis
+13562798,Buck,LaNyia,03,EXP,,,Eichhorn
+15446813,Moran,Shae,01,EXP,,,Carr
+12493813,Dickson,Anisa,01,EXP,,,Miller
+19005767,Kline,Addie,03,EXP,,,Johnson
+13351785,Ekstrom,Analise,04,PSY,AAM,,Brown
+10168782,John,Alexa,04,BUS,,PHL,Donofrio
+13390775,Hower,Supy,04,HIS,,,Atwater
+10718789,Hein-Harrison,Estela,04,ECO,BUS,,Baranowski
+16685796,Varner,Cael,04,AAM,HIS,,McNabb
+19769809,Jadkarim,Andrew,01,EXP,,,Johnson
+11218772,Wilhelmi,Daniyal,04,PSY,AAM,,Kelly
+19667788,Collins,Ashley,03,KIN,,SPA,Rydze
+11550793,Linnear,Josie,02,EXP,,,Falk
+10918788,Prostine,Aidan,04,HIS,,SEC,Arnold
+18466780,Hyatt,Talia,04,PSY,KIN,,Rydze
+17808814,Montoya,Toobejay,01,EXP,,,Westberg
+10107774,Ward,Victoria,04,AAM,SCJ,HIS,Rodgers
+10038786,Smith,Jelani,04,POL,EVS,,Lanegran
+14473796,Plesha,Will,02,EXP,,,Atwater
+10088787,Kuehner,Bryce,04,PSY,KIN,,Kelly
+AAM  137  01   W
+11601808,Craig,Leah,01,EXP,,,Miller
+14314800,Williams,Jordan,01,ELM,AAM,SPA,Johnson
+15654794,Costello,Valerie,02,EXP,,,Kensky
+16056801,Drahozal,Sarah,02,EXP,,,Leonardo
+18638801,Voss,Joi-Damaris,02,EXP,,,Rydze
+14853797,Fink,Gregory,02,BUS,,,Nguyen
+12481793,Singleton,Qariah,03,PSY,,CRW,Kelly
+11281804,Barreras,Brayden,01,EXP,,,Barnett
+19529802,Askew,Tamara,02,EXP,,,Stobb
+ACC  171  01
+18687799,Shelby,Diedrich,01,EXP,,,Atwater
+11121808,Loza,Adam,01,EXP,,,Rydze
+19420812,Arduser,Ryan,01,EXP,,,Brown
+12339771,Frost,Katherine,,EXP,,,Eichhorn
+15715803,Floyd,Lilly,01,EXP,,,Barnett
+15135808,Strauel,James,01,EXP,,,Lanegran
+11232815,Stevenson,Qariah,01,EXP,,,Atwater
+14015811,Gosch,Taylor,01,EXP,,,Chen
+18438808,Epps,Katie,01,EXP,,,St. Clair
+14453791,Hardman,Will,02,EXP,,,Perry
+19309808,Cavanagh,Risako,01,EXP,,,St. Clair
+12901798,Osterman,Majad,02,EXP,,,Westberg
+18166784,Krueger,Adolfo,04,ECO,,,Lensing
+14235815,Thomasson,John,01,EXP,,,Johnson
+10740809,Meyer,Alexander,01,EXP,,,Lanegran
+10760809,Petrovic,Trisan,01,EXP,,,Atwater
+15886812,Chaney-Pruitt,Delano,01,EXP,,,Rodriguez Moreno
+11561801,Camargo,Nicholas,02,EXP,,,Atwater
+19886777,Chambless,James,02,EXP,,,Kuennen
+11242815,Christiansen,Kaylei,01,EXP,,,Chaimov
+13813807,Welch,Sophie,01,EXP,,,Nguyen
+14115814,Powell,Myrna,01,EXP,,,Chen
+18479813,Kintopf,John,01,EXP,,,Chaimov
+14783793,Lona Garcia,Olivia,02,CS,,,Hostetler
+18519810,Arens,Abigail,01,EXP,,,Westberg
+12251797,Green,Jessica,03,EXP,,,Rydze
+12743812,Manternach,Alex,01,EXP,,,Christensen
+19678797,Piceno,Sami,03,COM,PR,ART,Carstens
+11942813,Eggert,Julia,02,EXP,,,Carstens
+ACC  171  02
+19109806,Nelson,Skye,01,EXP,,,Brown
+18058807,Hernandez,Harry,01,EXP,,,Atwater
+19629807,Finch,Torrie,01,EXP,,,Herron
+19889807,Petzold,Jayla,01,EXP,,,Hausknecht
+10790808,Tredway,Will,01,EXP,,,Chen
+11291803,Lawson,Gavin,02,EXP,,,Rydze
+11351808,Hesley,Chris,01,EXP,,,Chen
+10251815,Shchekin,Adrianna,02,EXP,,,Eichhorn
+14735813,Stitt,Lydia,01,EXP,,,Herron
+14745813,Floyd,Lirio,01,EXP,,,Atwater
+14474804,Benson,Cole,02,EXP,,,Barrow
+15645808,Twight,Abigail,01,EXP,,,Chen
+18819811,McCoy,Skyler,01,EXP,,,Brown
+11621809,Stiles,Adam,01,EXP,,,Miller
+16057812,Staley,Gracie,01,EXP,,,Carr
+17698811,Comparato,Abigail,01,EXP,,,Atwater
+19279803,Anthony,Patrick,01,EXP,,,Bragatto
+18399811,Koons,Thomas,01,EXP,,,Cross
+14345811,McCrary,Leilani,01,EXP,,,Lanegran
+19559801,Butler,Mikayla,02,EXP,,,Bragatto
+14475810,Mouring,Jarad,01,EXP,,,Hausknecht
+13842793,He,Kalynn,03,EXP,,,Kuennen
+14675814,Ellsworth,Kellie,01,EXP,,,Westberg
+11792812,Sar,Sunny,01,EXP,,,Herron
+11182814,Boettger,Cassidy,01,EXP,,,Chihak
+19800810,Mahler,Kane,01,EXP,,,Bragatto
+15195804,Ausenhus,Jelica,02,EXP,,,Baranowski
+10060803,Webb,Alexandra,01,EXP,,,Stead
+11182815,Northrop,Jack,01,EXP,,,Johnson
+11162811,McCune,Aubree,01,EXP,,,Rydze
+ACC  171  03
+12803815,Collins,Izabel,01,EXP,,,Atwater
+18838807,Jowosimi,Kaleb,01,EXP,,,Chen
+18618804,Huynh,Jaden,01,EXP,,,Kensky
+14205815,Jones,Moet,02,EXP,,,Melcher
+13783808,Nepple,Bree,01,EXP,,,Perry
+18109812,Jankowski,Peculiar,01,EXP,,,St. Clair
+13414813,Chaney-Pruitt,Logan,01,EXP,,,Brown
+14384803,Coleman,Jasmine,02,ECO,,,Barrow
+18219815,Morrison,Fiona,01,EXP,,,Chen
+17837806,Mills,Paige,01,EXP,,,Herron
+14875815,Sosa,Dylan,01,EXP,,,Chaimov
+10481815,Garcia,Diana,01,EXP,,,Cross
+14374806,Bechdol,Lucas,02,EXP,,,Hayes
+16186809,Goode,Tory,01,EXP,,,Chaimov
+15433789,Yuma,Luke,01,EXP,,,Brown
+14565815,Lawton,James,01,EXP,,,Hausknecht
+18968809,Richards,MJ,01,EXP,,,Nesmith
+19719809,Ridenour,Chloe,01,EXP,,,Miller
+12623810,Bicknell,Cailyn,01,EXP,,,Herron
+14975811,Schuler,Max,01,EXP,,,Carr
+10890804,Noor,Elise,02,EXP,,,Christensen
+10900804,Brazell,Garima,01,EXP,,,Recker
+16557815,Arens,Garrison,02,EXP,,,Kuennen
+16567815,Salmi-Perry,Jerry,01,EXP,,,St. Clair
+18439810,Reimnitz,Raymond,01,EXP,,,Johnson
+18939812,Silver,Luke,01,EXP,,,Perry
+18539815,Vroman,Shannon,01,EXP,,,Rydze
+13004814,Tidman,Lilly,01,EXP,,,Atwater
+ACC  215  01
+16635799,Washington,Katie,02,EXP,,,Leonardo
+13582790,Johanns,Clayton,02,EXP,,,Atwater
+12760788,Chieng,Berrigan,03,BUS,PR,,Carstens
+16155790,Ortega,Ethan,03,EXP,,,Chen
+19718799,Becher,Jack,02,EXP,,,Melcher
+11621804,Schiesher,Meagan,02,BUS,COM,,Eichhorn
+15675803,Hughes,John,02,EXP,,,Melcher
+18688803,Patel,Monét,01,EXP,,,Rydze
+12512806,Velez,Addie,01,EXP,,,Westberg
+18728803,Brockmeyer,Adam,02,EXP,,,Libby
+19019800,Klein,Alex,02,EXP,,,Carstens
+18477795,DuFour,Sophie,03,EXP,,,Chen
+14732785,Ward,Mikel,04,BUS,PR,,Carstens
+18707795,Dohms,Taylor,03,EXP,,,Chen
+14184804,Gard,Shea,02,EXP,,,Cross
+11339781,Mosinski,John,02,COM,,,Westberg
+11201804,Johnson,Chloe,02,BUS,ACM,,Lanegran
+17358812,Petrovic,Reagan,02,EXP,,,Westberg
+10689796,Fleck,Sarah,02,ACM,,,Melcher
+14732782,Rivera,Julia,04,BUS,POL,REL,Donofrio
+16877812,Guthrie,Madelyn,01,EXP,,,Rodriguez Moreno
+18188802,Sly,Kaylynn,02,EXP,,,Perry
+14684806,Davis,Gabriella,01,EXP,,,Nguyen
+12612807,Glandt,Gable,02,EXP,,,Hoover
+ACC  301  01
+19838799,MacFarland,Lauren,02,ACP,ACM,ECO,Perry
+10340800,Baugh,Reagan,02,EXP,,,Perry
+10450800,Mcluen,Cassandra,01,ACP,,,Perry
+13423803,Escalante,Cassie,01,EXP,,,Nguyen
+13092791,Hommowun,Allison,03,BUS,ACM,ECO,Perry
+13902791,Hatfield,Keena,03,ART,,,Perry
+17127800,Jones,Katie,02,EXP,,,Perry
+13503804,Cota,Jasmine,02,EXP,,,Leonardo
+11821804,Johnson,Ella,02,EXP,,,Carson
+13233805,Palmer,Keegan,02,ACP,BUS,,Cross
+14624803,Robertson,Avery,02,EXP,,,Chen
+17847803,Stebral,Alfredo,02,ACP,,,Baranowski
+17037802,Hoppenjans,Lauren,02,ACP,BUS,,Perry
+13183806,Henderson,Sydney,02,ACP,DS,,Rodgers
+14104803,Lawrence,Alli,02,BUS,ECO,,Cross
+10688788,Ties,Kate,03,EXP,,,Melcher
+19299802,Brown,Kayla,02,ACP,BUS,SPA,Melcher
+17117803,Idohl,Daniel,02,EXP,,,Atwater
+ACC  415  01
+17325784,Kepros Caballero,Grifen,04,ACM,BUS,ECO,Baranowski
+18957790,Schipper,Wyatt,03,BUS,ACM,COM,Christensen
+15994794,Deaton,Madison,03,EXP,,,Chen
+16054782,Fedrick,Xavier,04,ACM,BUS,ECO,Melcher
+11328779,La Rosa,Kayla,04,ACM,BUS,,Kuennen
+13962795,Dickerson,Paige,04,ACM,BUS,,Melcher
+ACC  422  01
+11330797,Cook,Kieran,04,ACP,BUS,,Melcher
+17086797,Thomasson,Tyler,03,EXP,,,Atwater
+11009784,Baker,Melodie,04,ACP,,POL,Melcher
+18837791,Nguyen,Alexander,03,EXP,,,Chen
+12000788,Rashed,Aaron,04,ACP,BUS,,Nguyen
+18907795,Westercamp,Caelan,03,ACP,BUS,,Melcher
+16465797,Rivera,Jaiden,04,ACP,BUS,,Carstens
+13842796,Schloe,Donae,03,ACP,BUS,,Eichhorn
+15133782,Cook,Hailey,04,ACP,BUS,,Cross
+12241793,Pazour,Molly,02,ACP,BUS,,Chen
+15343787,Jackson,Easton,04,ACP,BUS,,Nguyen
+ANT  109  01
+11340794,An,Sophia,02,EXP,,,Kensky
+11529788,Kempf,Felicia,04,BIO,ENV,ANT,Ellis
+13113805,Mba,Mckenzie,01,EXP,,,Johnson
+10380808,Heer,Katie,01,EXP,,,Libby
+14512787,McFadden,Emma,04,PHY,,CS,Affatigato
+14345815,Singleton,Luis,02,EXP,,,St. Clair
+11911800,Wagner,Maddox,02,HIS,,,Keenan
+14114808,Nguyen,AJ,01,EXP,,,Perry
+18109812,Jankowski,Peculiar,01,EXP,,,St. Clair
+13763800,Billings,Tyler,02,EXP,,,Hausknecht
+14234800,Doak,Tory,02,EXP,,,Akgun
+18237795,Haynes,Molly,03,ELM,,,Kress
+17577800,Buffington,Alexander,01,EXP,,,Akgun
+18268800,Jones,Tyler,02,HIS,,ANT,Keenan
+18779812,Menakaya,Kayla,01,EXP,,,Nordmann
+17367809,Fedrick,Joseph,01,EXP,,,Perry
+18506781,Romero,Emma,04,IS,,ANT,Lanegran
+18718809,Scott,Cael,01,EXP,,,Brown
+11899781,Mathis,Philip,04,HIS,,,Buckaloo
+19909801,Singleton,Daniel,02,HIS,,MUS,Buckaloo
+14294802,Collachia,Brady,02,EXP,,,Barnett
+13863804,Ishimwe,Micah,01,EXP,,,Stead
+15596812,Morris,Abdi,01,EXP,,,Keenan
+17317802,Fox,Chance,02,HIS,,,Buckaloo
+18858802,Hoppenjans,Parker,02,HIS,,CLA,Ziskowski
+ANT  116  01
+14002788,Russell,Natalie,04,BUS,ACM,,Melcher
+11680794,Hangartner,Carley,03,EXP,,,Eichhorn
+19179807,Verchimak,Nils,01,EXP,,,Christensen
+15034790,Schulte,Emily,03,EXP,,,Chaplin
+18427799,Delgado,Chase,02,BIO,SCJ,,Sanchini
+16865790,Floyd,Nils,01,EXP,,,Cross
+17996790,Ramos,John,04,BIO,,,Ellis
+18377790,Thatcher,Olivia,04,PHY,BIO,MTH,Affatigato
+12811794,Noel,Megan,03,PSY,SOC,,Rodgers
+14215812,Menakaya,Amanda,01,EXP,,,Johnson
+14015811,Gosch,Taylor,01,EXP,,,Chen
+17572758,Goodwin,Matthew,04,HIS,ART,,Buckaloo
+12503813,Fang,Orion,01,EXP,,,Rodriguez Moreno
+13951781,Southard,John,02,EXP,,,Baker
+18617791,Bowles,Blake,03,BIO,ENV,,St. Clair
+18937791,Salrin,Claire,03,EXP,,,Cross
+13693809,Pecharich,Joely,01,EXP,,,Hausknecht
+13983806,Buckley,Taylor,01,EXP,,,Chaimov
+12050782,Andeway,Gloria,04,KIN,,,Atwater
+12651792,Fedrick,Kaiya,03,ELM,,,Kress
+16086809,Davis,Marissa,01,EXP,,,Chihak
+10780802,Corcoran,Anna,01,MTH,,,Miller
+15302775,Bartell,Xavier,04,SOC,,CRW,Rodgers
+19769804,Meehan,Tori,03,KIN,,,Atwater
+11942813,Eggert,Julia,02,EXP,,,Carstens
+ANT  116  02
+10398783,Dixon,Ashley,04,CHM,,PHY,St. Clair
+13992790,Hanrahan,Philip,03,SCJ,,PHL,Rodgers
+13690776,Carrasco,Amanda,04,THE,EVS,,White
+16117815,Schipper,Skyler,02,EXP,,,Storer
+18728803,Brockmeyer,Adam,02,EXP,,,Libby
+13621782,Castellanos,Cristina,04,PHY,CHM,,Akgun
+14104807,Slagle,Kaalyn,02,EXP,,,Chihak
+16686804,Comparato,Shar,01,EXP,,,Chaimov
+18419814,Dubon,Josh,01,EXP,,,Kelley
+19699805,Hilderbrand,Bryant,02,EXP,,,Lueth
+18918809,Austin,Allie,01,EXP,,,Hausknecht
+15512777,Tarbert,Madison,04,ACM,BUS,MUS,Melcher
+11782810,Kolade,Hailey,01,EXP,,,Christensen
+16256803,Eichhorn,Celestte,01,EXP,,,Barnett
+18207794,Kohl,Adolfo,02,EXP,,,Lensing
+11181807,Preheim,Zachary,03,EXP,,,Hughes
+17258815,Kempf,Meagan,02,EXP,,,Umbarger-Mackey
+18907794,Ridgway,Meagan,02,EXP,,,Storer
+19158795,Empen,Bianca,03,BUS,,ECO,Rydze
+17278813,Barnes,Nicholas,02,EXP,,,Kress
+11229786,Malin,Cameron,03,ART,,,Thompson
+16975793,Dahl,Eric,02,SOC,ENV,,Rodgers
+ANT  215  01   W
+16454784,Urbatsch,Sarah,03,BIO,,ANT,Cozine
+11280799,Olney,Rebecca,03,MOL,,ANT,Sanchini
+ANT  284  01
+14174805,Kruse,Joey,01,BIO,,REL,Cozine
+14543794,Franzen,Nia,02,BIO,SCJ,,Sanchini
+11331809,Watkins,Jerry,01,EXP,,,Perry
+17445786,Carter,Lauren,03,NEU,BIO,,Brown
+16417814,Fedrick,Jared,01,EXP,,,Rodriguez Moreno
+15855805,Christiansen,Mackenzie,02,POL,IS,,Chaimov
+ARH  107  01
+14715814,Ridenour,Anthony,01,EXP,,,Affatigato
+15703782,Nosekabel,Tia,04,CS,,MTH,Hughes
+19137782,Pham,Claudia,04,PR,COM,GSS,Janca-Aji
+15595800,Stitt,Devin,01,EXP,,,Russell
+16074786,Baker,Taryn,03,EXP,,,Nguyen
+19957780,Brazell,Mark,04,HIS,,ARH,Keenan
+18566786,Roireau,David,04,REL,,HIS,Kensky
+19547782,Haufle,Jay,04,BIO,NEU,CHM,Cozine
+14975811,Schuler,Max,01,EXP,,,Carr
+11609786,Arrigoni,Joseph,04,ART,,,Goodson
+18737794,Renaud,Cassie,03,POL,SPA,GSS,Lanegran
+13743802,Folsom,Olivia,02,EXP,,,Carr
+14624803,Robertson,Avery,02,EXP,,,Chen
+12971798,Gonzalez,Reagan,03,EXP,,,Akgun
+14192784,Swetlik,Karen,04,PSY,,GS,Brown
+13154813,Sheldon,Judas,01,EXP,,,Rodriguez Moreno
+19618796,Carter,Cristina,03,BUS,,,Lensing
+19730810,Hendrickson,Brianna,01,EXP,,,St. Clair
+10237778,Harrelson,Eric,04,ARH,,GS,Lueth
+14914806,Schobert,Allyssa,01,ART,,ARH,Rogers
+ARH  128  01
+17387807,Sisk,Mickaela,01,EXP,,,Kelley
+18258807,Hines,Jaylon,01,EXP,,,Affatigato
+10699798,Findly,Gavin,03,BUS,,ART,Carstens
+10009797,Christians,Anja,03,ENV,CRW,ART,St. Clair
+11181809,Gonzalez,Sydney,01,EXP,,,Farrell
+12383814,McCrary,Ellinor,01,EXP,,,Affatigato
+17617803,White,Kelly,02,EXP,,,Bursch
+12992801,Norris,Anna,01,DS,BUS,ECO,Baranowski
+15793780,Villegas,Zachary,04,ECO,REL,,Westberg
+15905804,Kirk,Cassandra,02,BSN,,,Brown
+16405794,Kelley,Jared,03,POL,ART,,Thompson
+13624813,Mclaughlin,Piper,01,EXP,,,Christensen
+19699805,Hilderbrand,Bryant,02,EXP,,,Lueth
+10308781,Brown,Myrna,04,THE,,,Wolverton
+18907794,Ridgway,Meagan,02,EXP,,,Storer
+19357780,Morgan,Allison,04,EVS,PHL,SPA,St. Clair
+19020814,Hangartner,Trisan,01,EXP,,,Christensen
+11899782,Cook,Cas,04,POL,PHL,HIS,Hoover
+10688788,Ties,Kate,03,EXP,,,Melcher
+16667811,Parenteau,Talia,01,EXP,,,Chaimov
+ARH  307  01   W
+14612786,Meskell,Diate,03,PSY,ART,,Brown
+15334791,Moore,Jeana,03,EXP,,,Chaplin
+13202795,Karwowski,Olivia,03,ART,,,Thompson
+16835797,Velez,Amilya,03,ART,COM,,Lueth
+ARH  313  01
+17572758,Goodwin,Matthew,04,HIS,ART,,Buckaloo
+16343776,Hodges,Alec,03,ARH,,ART,Lueth
+13462795,Huitink,Jordan,03,ARH,REL,ART,Lueth
+15593784,Tigges,Elsie,04,ART,,SEC,Chaimov
+11229786,Malin,Cameron,03,ART,,,Thompson
+ARH  323  01
+12279775,Mirelez,Parker,04,ART,,SEC,Thompson
+ART  100  01
+16916807,Bilkey,James,01,EXP,,,St. Clair
+11261800,Hall,Landen,02,ART,,SEC,Rogers
+15055800,Schmitt,Max,02,EXP,,,Russell
+16327814,Bartley,Hannah,01,EXP,,,Affatigato
+14495812,Win,Melanie,01,EXP,,,Brown
+14694801,Mahler,Allesyn,02,EXP,,,Bursch
+19719809,Ridenour,Chloe,01,EXP,,,Miller
+17915788,Brockmeyer,Jason,04,ART,,ARH,Rogers
+18727792,Cargille,Caitlin,03,ELM,,,Kress
+13933803,Tostado,Brady,01,EXP,,,Umbarger-Mackey
+11281804,Barreras,Brayden,01,EXP,,,Barnett
+17968810,Watkins,Aaminah,01,EXP,,,Hausknecht
+12903811,Mills,John,01,EXP,,,Libby
+ART  115  01
+17387807,Sisk,Mickaela,01,EXP,,,Kelley
+12920782,Fox,Harry,04,BIO,,CHM,Duru
+10699798,Findly,Gavin,03,BUS,,ART,Carstens
+12012808,Oware,Hannah,01,EXP,,,Johnson
+16317814,Martin,Ana,02,EXP,,,Shanley
+19027783,Schott,Kayla,04,BIO,ENV,HSS,Singleton
+16686804,Comparato,Shar,01,EXP,,,Chaimov
+13314814,Gorden Mercer,Laina,01,EXP,,,Cross
+11162810,Gonzalez,Tamara,01,EXP,,,Lanegran
+17568815,Hanrahan,Reagan,01,EXP,,,Farrell
+16256803,Eichhorn,Celestte,01,EXP,,,Barnett
+17437802,Dohms,Shannon,02,MTH,,ART,Miller
+10901815,Eichhorn,Ali,01,EXP,,,Kelley
+ART  135  01
+ART  145  01
+13471785,Fitzgerrel,Ella,04,PSY,SCJ,,Recker
+12882807,Button,Makayla,01,FLM,,,Lanegran
+14235815,Thomasson,John,01,EXP,,,Johnson
+15886812,Chaney-Pruitt,Delano,01,EXP,,,Rodriguez Moreno
+16757812,Bruggers,Ruben,01,EXP,,,Nordmann
+12360788,Browne,Dolan,04,CS,ECO,,Eichhorn
+10410804,Irvin,Ethan,02,HIS,,ECO,Buckaloo
+12279775,Mirelez,Parker,04,ART,,SEC,Thompson
+16127812,Adelsberger,Cierra,01,EXP,,,St. Clair
+18617792,Barnes,Casey,02,FLM,,,Nesmith
+18156781,Martinez,Cassie,04,ENG,COM,,Donofrio
+17678810,Sandmire,Jania,01,EXP,,,Rodriguez Moreno
+ART  151  01
+19429807,Washington-Castro,Wallace,01,EXP,,,Johnson
+15554797,Grech,Tamara,03,ELM,,ART,Hayes
+14215812,Menakaya,Amanda,01,EXP,,,Johnson
+14255812,Miranda-Estrada,Ariel,01,EXP,,,Carr
+12693811,Arnold,Felicia,01,EXP,,,Wolgast
+15334791,Moore,Jeana,03,EXP,,,Chaplin
+17315784,Brokaw,Brady,04,BUS,,,Kuennen
+12012801,Kerns,Shelby,02,EXP,,,Brown
+16007813,Helmkamp,Natalie,01,EXP,,,Wolgast
+19579804,Allison,Randy,02,EXP,,,Cross
+11780793,Eastman,MyKeisha,03,BIO,NEU,CHM,Bragatto
+14555811,Kinsler,Thanh,01,EXP,,,Cross
+ART  175  01
+18877799,Gary,Tracy,01,ART,,,Barnett
+15896812,Niemeyer,Jacob,01,EXP,,,Libby
+16987812,Mills,Kenidi,01,EXP,,,Christensen
+18779812,Menakaya,Kayla,01,EXP,,,Nordmann
+16576809,Flatland,Brody,01,EXP,,,Farrell
+10090802,Hite,Chloe,02,EXP,,,Hatchell
+15593784,Tigges,Elsie,04,ART,,SEC,Chaimov
+14192784,Swetlik,Karen,04,PSY,,GS,Brown
+15302775,Bartell,Xavier,04,SOC,,CRW,Rodgers
+11792812,Sar,Sunny,01,EXP,,,Herron
+16875795,Freeman,Kaitlyn,03,PSY,,,Farrell
+16835797,Velez,Amilya,03,ART,COM,,Lueth
+14914806,Schobert,Allyssa,01,ART,,ARH,Rogers
+ART  191  01
+11679781,Squires,Danielle,04,ART,PR,,Goodson
+15135808,Strauel,James,01,EXP,,,Lanegran
+13763800,Billings,Tyler,02,EXP,,,Hausknecht
+14092788,Hiebert,Antonia,03,PHY,,,Akgun
+14523794,Martinez,Jacob,03,SCJ,,PHL,McNabb
+10550809,Feldman,John,01,EXP,,,Rodriguez Moreno
+13393804,Decker,Brianda,02,PHL,POL,,Barnett
+11411801,Marinelli,Patrick,02,EXP,,,Chaimov
+14732785,Ward,Mikel,04,BUS,PR,,Carstens
+12501792,Hamm,Adin,03,FLM,,THE,Hausknecht
+13133802,Appleby-Sparrow,Alayna,02,EXP,,,Hausknecht
+15003786,Kittinger,Anastasia,04,MTH,FLM,,Miller
+ART  231  01
+14612786,Meskell,Diate,03,PSY,ART,,Brown
+13902791,Hatfield,Keena,03,ART,,,Perry
+16074786,Baker,Taryn,03,EXP,,,Nguyen
+16343776,Hodges,Alec,03,ARH,,ART,Lueth
+12321792,Ball,Amber,03,MTH,,ART,Miller
+14253792,Krueger,Rami,03,ART,CS,,Rogers
+12140782,Groat,Hailee,03,ENG,,ART,Aspengren
+10580807,Vickers,Michaela,01,EXP,,,Chaimov
+ART  291  01
+17572758,Goodwin,Matthew,04,HIS,ART,,Buckaloo
+14942785,Kimbrough,Lindsay,04,ART,CRW,,Aspengren
+11609786,Arrigoni,Joseph,04,ART,,,Goodson
+11229786,Malin,Cameron,03,ART,,,Thompson
+ASC  186  01
+17396799,Kappeler,Victoria,01,EXP,,,Leonardo
+11291803,Lawson,Gavin,02,EXP,,,Rydze
+19420812,Arduser,Ryan,01,EXP,,,Brown
+12752800,Tranel,Avery,02,EXP,,,Hughes
+12542803,Cook,Peculiar,02,EXP,,,Atwater
+11259785,Hanson,McKenna,04,BUS,,ECO,Buckaloo
+11551803,Peterson,Matt,02,EXP,,,Baranowski
+19399808,Lister,Will,01,EXP,,,Johnson
+19377782,Hanrahan,Bennett,04,HIS,SPA,,Arnold
+18658800,Hardman,Cole,02,KIN,,,Atwater
+16074786,Baker,Taryn,03,EXP,,,Nguyen
+17315784,Brokaw,Brady,04,BUS,,,Kuennen
+19508791,Haastrup,Ali,03,IS,ASC,FRE,Chaimov
+10318783,Frantz,Eilish,04,BUS,,,Baranowski
+15905804,Kirk,Cassandra,02,BSN,,,Brown
+12501792,Hamm,Adin,03,FLM,,THE,Hausknecht
+10749798,Zheng,Spencer,02,EXP,,,Leonardo
+16305792,Butali,Andrea,02,KIN,,,Hausknecht
+10090802,Hite,Chloe,02,EXP,,,Hatchell
+14382784,Robinson,Olivia,04,ENG,,ASC,Shaw
+16465797,Rivera,Jaiden,04,ACP,BUS,,Carstens
+13361782,Bryant,Dharma,03,HIS,,ANT,Hoover
+14783793,Lona Garcia,Olivia,02,CS,,,Hostetler
+10751811,Beal,Luke,01,EXP,,,Herron
+BIO  100  01
+17875788,Lopez,Dylan,03,PSY,,,Farrell
+11570794,Cruz,Taylor,03,EXP,,,Farrell
+13802790,Ahmed,Fernanda,03,PSY,ENG,GS,Kelly
+17105788,Villegas,Annika,03,EXP,,,Rydze
+17415783,Decker,Sydney,04,PSY,,CRW,Kelly
+16384786,Seidel,Cameron,04,MUE,,,Falk
+11009784,Baker,Melodie,04,ACP,,POL,Melcher
+10410804,Irvin,Ethan,02,HIS,,ECO,Buckaloo
+14223792,Maske,Isabella,03,POL,SCJ,SOC,Lanegran
+13462795,Huitink,Jordan,03,ARH,REL,ART,Lueth
+17866792,Perkins,Cailyn,03,EXP,,,Barnett
+11229786,Malin,Cameron,03,ART,,,Thompson
+18918802,Corcoran,Faith,02,ELM,,SPA,Russell
+BIO  120  01
+14423790,Stiles,Shotaro,02,EXP,,,Chen
+11112812,Suboh,Ashley,01,EXP,,,Chihak
+13690776,Carrasco,Amanda,04,THE,EVS,,White
+12742800,Hite,Miu,02,EXP,,,Aspengren
+14644808,Chaney-Pruitt,Piper,01,EXP,,,Libby
+14704808,Lemke,Erica,01,EXP,,,Chihak
+12040787,Shapley,Drew,03,EXP,,,Westberg
+18738808,Greiner,Marguerite,01,EXP,,,Farrell
+17394776,Finstrom,Colton,03,GEN,,SEC,Rydze
+12502809,Kinsler,Christal,01,EXP,,,Westberg
+16477812,Fleck,Alexander,01,EXP,,,Atwater
+15325809,Schuler,Aaron,01,EXP,,,Herron
+10031815,Norris,Makenna,01,EXP,,,Rodriguez Moreno
+13314814,Gorden Mercer,Laina,01,EXP,,,Cross
+19249809,Carter,Gabe,01,EXP,,,Perry
+12772806,Cobb,Thanh,01,BIO,,HSS,Keenan
+19579804,Allison,Randy,02,EXP,,,Cross
+11662810,Aucutt,Allie,01,EXP,,,Nordmann
+14965811,Foreman,Glenna,01,EXP,,,Chaimov
+10608787,McBride,Jayla,03,PSY,,SPA,Farrell
+16177812,Barnes,Amaia,01,EXP,,,Kelley
+18489813,Brazell,Grace,01,EXP,,,Johnson
+14525811,Parenteau,Mark,01,EXP,,,Rydze
+18279810,Petit,Emily,01,EXP,,,Chaplin
+BIO  145  01
+18618807,Powell,Samantha,01,EXP,,,Wolgast
+18728807,Langerud,Jania,01,EXP,,,Lanegran
+10420808,Lyons,Jordan,01,EXP,,,Chaimov
+14095812,Koenen,Gavin,01,EXP,,,Rydze
+11361808,Kim,Pramisha,01,EXP,,,Chaplin
+17256790,Hanrahan,Avery,02,PSY,NEU,CRW,Baker
+13294815,Kotula,Kat,01,EXP,,,Atwater
+15475808,Carey,Victoria,01,EXP,,,St. Clair
+11141806,Chang,Jacob,02,EXP,,,Storer
+16146800,Jankowski,Bridgette,02,PSY,NEU,,Baker
+18758808,Gienapp,Peyton,01,EXP,,,Johnson
+12312809,Doromal,Jonah,01,EXP,,,Westberg
+14375814,Rayford,Jocelyn,01,EXP,,,St. Clair
+13123809,Souvannamacho,Marlee,01,EXP,,,Christensen
+18719812,Guyton,Garrett,01,EXP,,,Christensen
+18158805,Yuma,Erica,02,EXP,,,Stead
+14274809,Grigsby,Stevie,01,EXP,,,Farrell
+15655809,Mosinski,John,01,EXP,,,Perry
+16086809,Davis,Marissa,01,EXP,,,Chihak
+17447809,Arrigoni,Tristan,01,EXP,,,Affatigato
+16466809,McCrary,Jay,01,EXP,,,Chaimov
+16576809,Flatland,Brody,01,EXP,,,Farrell
+19257783,Meyer,Chloe,03,BIO,NEU,,Duru
+15526812,Sanchez,Cassi,10,EXP,,,Umbarger-Mackey
+14445813,Duran-Montero,Jennifer,01,EXP,,,Carr
+12273813,Ragins,Yarelis,01,EXP,,,Cross
+11782810,Kolade,Hailey,01,EXP,,,Christensen
+16607811,Stucke,Kendra,01,EXP,,,Nordmann
+11982815,Sar,Milinda,02,EXP,,,Cozine
+14275815,Gonzalez,Diana,01,EXP,,,Nesmith
+12493810,Kruse,Kyle,01,EXP,,,Christensen
+12843811,McCollum,Graham,01,EXP,,,Nordmann
+13554810,Inuzuka,Jayla,01,EXP,,,Nordmann
+17258815,Kempf,Meagan,02,EXP,,,Umbarger-Mackey
+15316810,Christiansen,Marquis,01,EXP,,,Christensen
+13632793,Goldsmith,James,02,KIN,,,Chandler
+16667810,Tatum,Ashley,01,EXP,,,Rodriguez Moreno
+16747810,Auen,Chance,01,EXP,,,St. Clair
+BIO  145  01
+18719810,Jones,Karen,01,EXP,,,Chaplin
+10071811,Seymour,Madalyn,01,EXP,,,Kelley
+10511811,Duron,Kaitlyn,01,EXP,,,Rydze
+17818814,Sosa,Xavier,01,EXP,,,Nesmith
+BIO  145  02
+18258807,Hines,Jaylon,01,EXP,,,Affatigato
+19179807,Verchimak,Nils,01,EXP,,,Christensen
+19539807,Griswold,Jill,01,EXP,,,Nesmith
+11351808,Hesley,Chris,01,EXP,,,Chen
+11751808,Decker,Clayten,01,EXP,,,Brown
+12232808,Krob,Vanessa,01,EXP,,,Carr
+13923808,McLean,Adam,01,EXP,,,Brown
+14114808,Nguyen,AJ,01,EXP,,,Perry
+16626808,Houtz,Camden,01,EXP,,,Chaplin
+17037808,Morganti,Rami,01,EXP,,,Perry
+14174805,Kruse,Joey,01,,,,Cozine
+17667808,Kolpin,Melanie,01,EXP,,,Johnson
+15586815,Niemeyer,Amirah,01,EXP,,,St. Clair
+19169808,Hensley,Andrea,01,EXP,,,Carr
+19869808,Elliott,Nico,01,EXP,,,Rodriguez Moreno
+12383814,McCrary,Ellinor,01,EXP,,,Affatigato
+13093809,Neppl,Micah,01,EXP,,,Rodriguez Moreno
+13713809,Barnes,Caelan,02,EXP,,,Brown
+15336811,Goldsmith,Jay,01,EXP,,,Herron
+14205811,Baney,Andrew,01,EXP,,,Libby
+14624809,Schnurr,Gracie,01,EXP,,,Nordmann
+17267809,Hawbaker,Luke,01,EXP,,,Farrell
+17367809,Fedrick,Joseph,01,EXP,,,Perry
+17567809,Shipman,Moet,01,EXP,,,Affatigato
+17767809,Niemeyer,Lauren,01,EXP,,,Rydze
+17006794,Petrovic,Ryan,03,EVS,BIO,MUS,Ellis
+18718809,Scott,Cael,01,EXP,,,Brown
+18918809,Austin,Allie,01,EXP,,,Hausknecht
+15926813,South,Trevor,01,EXP,,,Carr
+12263813,Zheng,Katie,01,EXP,,,Westberg
+16977810,Rausch,Hailee,01,EXP,,,Westberg
+13554815,Thurow,Xavier,02,BSN,,,Bursch
+18339814,Pohren,Robert,01,EXP,,,Kelley
+17777803,Cobb,Jacob,02,CHM,NEU,,Bragatto
+17327805,Martinez-Jimenez,Skye,01,EXP,,,Cozine
+14374802,Nunez,Hailey,03,KIN,PSY,HSS,LeMay-Lewis
+12693814,McLean,Christian,01,EXP,,,Nesmith
+BIO  145  02
+15246815,Hernandez,Amanda,02,EXP,,,Leonardo
+17488810,Patton,Jp,01,EXP,,,Chaplin
+17728810,Powers,Isabelle,01,EXP,,,Cross
+17968810,Watkins,Aaminah,01,EXP,,,Hausknecht
+12903811,Mills,John,01,EXP,,,Libby
+12753812,Whaley,Madison,01,EXP,,,Carr
+14555811,Kinsler,Thanh,01,EXP,,,Cross
+13004815,Plesha,Kellie,01,EXP,,,Rydze
+BIO  145  03
+18048807,Groat,Lucas,01,EXP,,,Rydze
+12583811,Krob,James,01,EXP,,,Nesmith
+12623811,Nido,Patrick,01,EXP,,,Westberg
+11091808,Kolpin,Luis,01,EXP,,,Westberg
+18279811,Leotte da Silva,Skyler,01,EXP,,,Christensen
+14345815,Singleton,Luis,02,EXP,,,St. Clair
+15446813,Moran,Shae,01,EXP,,,Carr
+14524808,Granderson,Crystal,01,EXP,,,Herron
+14844808,Hasselbacher,Madalynn,01,EXP,,,Christensen
+12542803,Cook,Peculiar,02,EXP,,,Atwater
+12663811,Weber,Rosella,01,EXP,,,Miller
+15455808,Alzuwaini,Josh,01,EXP,,,Rydze
+10800806,Griffin,Alex,02,EXP,,,Barnett
+11242812,Esposito,Emma,01,EXP,,,Libby
+19259808,Marshall,Sage,01,EXP,,,St. Clair
+10020809,Lister,Daniela,01,EXP,,,Johnson
+11281805,Noor,Luke,01,EXP,,,Atwater
+12182809,Brockmeyer,Isabelle,01,EXP,,,Nesmith
+13223809,Verchimak,Jazmin,01,EXP,,,Miller
+13413809,Rajkarnikar,Brady,01,EXP,,,Perry
+13553809,Kunkel,Johncarlos,01,EXP,,,Wolgast
+16987812,Mills,Kenidi,01,EXP,,,Christensen
+10631813,Booker,Simon,01,EXP,,,Chen
+16977813,Starry,Ella,01,EXP,,,Christensen
+16736809,Walker,Jonathan,01,EXP,,,Herron
+14555815,Wood,Claire,01,EXP,,,Kelley
+18288803,Madigan,Kalynn,01,EXP,,,Recker
+17327809,Welna,Dominic,01,EXP,,,Herron
+17977809,Atz,Chance,01,EXP,,,Libby
+11492812,Clay,Alex,01,EXP,,,Westberg
+18108809,Kendle,Will,01,EXP,,,Atwater
+18578809,Eckardt,Kiersten,01,EXP,,,Cross
+19339809,Partain,Victoria,01,EXP,,,Nordmann
+19369809,Kurimski,Myah,01,EXP,,,Atwater
+14874807,Leon-Flores,Murphy,01,EXP,,,Chaplin
+16033779,Kintopf,Sabian,04,BIO,,CHM,Ellis
+12933810,Manternach,Allison,01,EXP,,,Libby
+BIO  145  03
+14145810,Mayes,Lirio,01,EXP,,,Atwater
+14155810,Miller,Michaela,01,EXP,,,Affatigato
+11582815,Leon-Flores,Dylan,01,EXP,,,Rodriguez Moreno
+11602815,Langley,Kei'Yona,02,NEU,BIO,,Baker
+16947810,Philpott,Ali,01,EXP,,,Chihak
+17778810,Wever,Jack,01,EXP,,,Kelley
+15626812,Mahlberg,Abby,01,EXP,,,Carr
+19020814,Hangartner,Trisan,01,EXP,,,Christensen
+19320810,Darling,Samantha,01,EXP,,,Lanegran
+12159771,Richmond,Kayla,03,BIO,,,Storer
+12483812,Wendt,Monét,01,EXP,,,Carr
+10931811,Finch,Elijah,01,EXP,,,Lanegran
+BIO  145L 02   W
+12882804,Ratcliff,Avalynn,02,EXP,,,Christensen
+BIO  145L 06   W
+14104807,Slagle,Kaalyn,02,EXP,,,Chihak
+BIO  202  01
+16245799,Baker,Max,02,EXP,,,Brown
+16615799,Yuma,Paul,02,EXP,,,Leonardo
+18427799,Delgado,Chase,02,BIO,SCJ,,Sanchini
+16785790,Decker,Ashley,03,BIO,CHM,,St. Clair
+17736790,Frana,Sean,02,BIO,ENV,,Ellis
+18527790,Urbatsch,Noah,02,BCH,,,Singleton
+13813800,Arduser,Maximo,02,BIO,MOL,HSS,Storer
+14082785,Chuong,Kevin,04,BIO,NEU,SPA,Cozine
+17067800,Hickey,Alex,02,EXP,,,Christensen
+17107800,Ropa,Adam,02,BIO,ENV,,Barnett
+18617791,Bowles,Blake,03,BIO,ENV,,St. Clair
+14533792,Hansen,Grace,03,BIO,,,Leonardo
+13292795,Bryant,Leo,03,BIO,NEU,HSS,Christensen
+19497783,Lloyd,Avery,04,BIO,,CHM,Cozine
+12912802,Valdivia Araya,Stone,02,EXP,,,Bragatto
+19787782,Starmann,Coeburn,04,BIO,NEU,CHM,Storer
+14644807,Abdi,Majad,04,BIO,NEU,,Storer
+BIO  205  01
+10220804,Selfridge,Bryn,03,EXP,,,Baker
+18907799,Hilderbrand,Breanna,02,BIO,ECO,,Leonardo
+19478799,Akahrir,Alexa,02,PSY,SCJ,SOC,Kelly
+17747804,Justice,Reagan,02,EXP,,,Leonardo
+16117815,Schipper,Skyler,02,EXP,,,Storer
+19238790,Staley,Emily,03,BIO,,,Christensen
+13413800,Schroeder,Daphne,02,BIO,SPA,CHM,Stead
+13933800,Corrigan,Nolan,02,BIO,NEU,CHM,Cozine
+16496800,Marcellus,Taylor,02,BIO,SCJ,,Cozine
+16676800,Sharma,Jackson,02,EXP,,,Kelly
+14543794,Franzen,Nia,02,BIO,SCJ,,Sanchini
+12592806,Rieser,Cornie,02,MOL,,,Leonardo
+19749800,Batey,Grant,02,BIO,,HSS,Storer
+19249804,Klahn,Anja,02,BIO,NEU,CHM,Cozine
+17077805,Noisette,Alexa,02,EXP,,,Leonardo
+17947804,Martin,Toby,02,BIO,NEU,HSS,Storer
+10529792,Pazour,Grant,03,EXP,,,Singleton
+14574801,Zeonweh,Gad,02,EXP,,,Atwater
+16056801,Drahozal,Sarah,02,EXP,,,Leonardo
+17937806,Duran-Montero,Will,02,EXP,,,Stead
+18718801,Goode,Graham,02,BIO,ENV,SPA,Stead
+18878801,Cobb,Emily,02,BIO,PSY,FRE,Christensen
+18247794,Bass,Lucas,03,BIO,,,Storer
+14955815,Baldwin,Eilish,02,EXP,,,Leonardo
+14774804,Wei,Toobejay,02,EXP,,,Nguyen
+15555802,Moody,Trystin,02,BIO,ENV,,St. Clair
+16256802,Collins,Jaxon,02,EXP,,,Ellis
+10070806,Jones,Lizandra,02,EXP,,,Stead
+14624805,Arrigoni,Maya,02,BIO,,,Storer
+19739802,Mahler,Tory,02,EXP,,,Leonardo
+10170804,Meehan,Slade,02,EXP,,,Chaimov
+BIO  205  01
+16454784,Urbatsch,Sarah,03,BIO,,ANT,Cozine
+BIO  205L 02   W
+19998793,Mahler,Taryn,03,EXP,,,Ellis
+BIO  205L 03   W
+13893806,Pazour,Julie,02,BSN,,,Siems
+17476799,La Ronge,Camille,02,BSN,,,Umbarger-Mackey
+15024790,Gray,Lolo,03,PSY,NEU,,Chihak
+11301803,Rockwell,Shaylee,02,EXP,,,Umbarger-Mackey
+13171781,Kelsey,Lauren,04,PSY,NEU,CHM,Kelly
+13493800,Voltaire,Karen,02,EXP,,,Tobin
+14294800,Sandfort,Joey,02,EXP,,,Hughes
+18728803,Brockmeyer,Adam,02,EXP,,,Libby
+16936804,Schultz,Eva,02,EXP,,,Atwater
+11689781,Hernandez,Enrique,04,BIO,PSY,,Baker
+14323794,Sayers,Jenna,03,EXP,,,Atwater
+18658800,Hardman,Cole,02,KIN,,,Atwater
+18788803,Thao,Jp,02,BSN,,,Siems
+11681801,Barnes,Myrna,03,KIN,,,Barnett
+12012801,Kerns,Shelby,02,EXP,,,Brown
+15815803,Dahl,Samuel,02,EXP,,,Libby
+17617803,White,Kelly,02,EXP,,,Bursch
+18288805,Clinton,Trevor,02,BSN,,,Bursch
+11851803,Canney,Ben,02,EXP,,,Johnson
+14694801,Mahler,Allesyn,02,EXP,,,Bursch
+15905804,Kirk,Cassandra,02,BSN,,,Brown
+15015801,Buckley,Kate,02,KIN,,HSS,Rydze
+13202795,Karwowski,Olivia,03,ART,,,Thompson
+18828801,Olson,Madison,02,BSN,,,Siems
+10500804,Lampe,Philip,02,EXP,,,Brown
+10340802,Koshikawa,Michaela,02,EXP,,,Siems
+11031802,Campbell,Abdi,01,EXP,,,Stead
+16266803,Wilson,Daniel,02,EXP,,,Chaimov
+13933803,Tostado,Brady,01,EXP,,,Umbarger-Mackey
+11961805,Brown,Aaron,01,EXP,,,Chaimov
+11981805,Thomasson,Jackie,02,BSN,,,Siems
+BIO  215L 03
+11280799,Olney,Rebecca,03,MOL,,ANT,Sanchini
+17996790,Ramos,John,04,BIO,,,Ellis
+15063783,McLeod,Karen,04,BIO,NEU,CHM,Kelly
+12750781,Porter,Kiily,04,BIO,,CHM,Christensen
+14922787,Fitzgerrel,Taylor,04,EXP,,,Akgun
+16714784,Kirk,Dawson,04,BIO,NEU,,Baker
+17445786,Carter,Lauren,03,NEU,BIO,,Brown
+BIO  321  01
+12760780,Hall,LaMia,04,BIO,NEU,,Duru
+11340794,An,Sophia,02,EXP,,,Kensky
+14693790,Sutton,Noah,03,BIO,MOL,,Ellis
+16765790,Symons,Madisyn,03,BIO,NEU,CHM,Cozine
+19228790,Frost,Jordan,03,BIO,,,Leonardo
+10739791,Aitchison,Cornie,03,BIO,,,Christensen
+12861791,Grigsby,Patrick,03,BIO,NEU,HSS,St. Clair
+19027783,Schott,Kayla,04,BIO,ENV,HSS,Singleton
+12440782,Washington-Castro,Jennifer,04,BIO,,CHM,Christensen
+15704794,Ginsbach,Mya,03,BIO,,,Barnett
+13800778,Carviou,Carlin,04,BIO,,,Storer
+16645794,Cerka,Austin,03,BIO,MOL,SPA,Christensen
+19168792,Baker,Piper,03,BIO,NEU,,Cozine
+13951789,Sartain,Seth,04,BIO,MOL,CHM,Christensen
+11470793,Jennings,Jelani,03,BIO,,HSS,Storer
+11780793,Eastman,MyKeisha,03,BIO,NEU,CHM,Bragatto
+18907794,Ridgway,Meagan,02,EXP,,,Storer
+19168794,Kriegel,Cas,03,BIO,MOL,CHM,Christensen
+13792793,Chaney-Pruitt,Kelly,03,BIO,PSY,,Cozine
+11731807,Ragins,Trenton,03,EXP,,,Storer
+14583793,Freeze,Keegan,04,BIO,NEU,SPA,Cozine
+14893797,Patterson,Hunter,03,BIO,,,Storer
+17045788,Brazell,Kyle,04,BIO,NEU,CHM,Kelly
+15684793,Schlichting,Pramisha,03,BIO,NEU,SPA,Christensen
+16875793,Duron,Julian,04,BIO,ENV,REL,Kensky
+19788793,MacFarland,Kadie,03,BIO,,,St. Clair
+BIO  325  01
+19367781,Chieng,Jack,04,BIO,MOL,CHM,Christensen
+15092776,Engel,Beau,04,TCS,,,Westberg
+13472794,Robinson,Lauren,03,BCH,,,Stead
+13012799,Peterson,Catherine,04,BCH,CHM,CS,Stead
+16474788,Altman,Ayshah,04,BIO,NEU,,Storer
+14992787,White,Savannah,04,BIO,,CHM,Christensen
+19548794,Kilburg,Hunter,04,EXP,,,St. Clair
+14813793,Ybarra,Cassie,03,MOL,BIO,,Leonardo
+14062784,Lapray,Victoria,04,CHM,BCH,ANT,Singleton
+19628793,Sandfort,Clayton,03,CHM,BCH,,St. Clair
+BIO  345  01
+12920782,Fox,Harry,04,BIO,,CHM,Duru
+17515783,Martinek,Destini,04,BIO,NEU,FRE,Christensen
+10988787,Blackmond,Josie,04,BIO,NEU,,Storer
+12891795,Hernandez,Julian,03,EXP,,,Christensen
+12850782,Goode,Natalie,04,BIO,NEU,CHM,Christensen
+BIO  415  01
+15363782,Tanghe,Katie,04,BIO,NEU,,Storer
+18377790,Thatcher,Olivia,04,PHY,BIO,MTH,Affatigato
+19617780,Klutts,Gloria,04,BIO,NEU,CHM,Cozine
+19007780,Karwowski,Mollie,04,BIO,NEU,CHM,Storer
+19737787,Newell,Will,04,BIO,,FRE,Cozine
+19547782,Haufle,Jay,04,BIO,NEU,CHM,Cozine
+13691782,Wyatt,Joshua,04,BIO,PSY,,Cozine
+BUS  125  01
+17647807,Krizizke,Haley,01,EXP,,,Chaimov
+13484814,Eastman,Trisan,01,EXP,,,Affatigato
+18877799,Gary,Tracy,01,EXP,,,Barnett
+13783808,Nepple,Bree,01,EXP,,,Perry
+13423803,Escalante,Cassie,01,EXP,,,Nguyen
+13414813,Chaney-Pruitt,Logan,01,EXP,,,Brown
+13512791,Reeves,Ryan,03,BUS,,,Atwater
+14523794,Martinez,Jacob,03,SCJ,,PHL,McNabb
+14535812,Schulte,Andy,01,EXP,,,Chihak
+13813807,Welch,Sophie,01,EXP,,,Nguyen
+10510805,Brockmeyer,Haley,02,EXP,,,Barnett
+13233805,Palmer,Keegan,02,ACP,BUS,,Cross
+17915788,Brockmeyer,Jason,04,ART,,ARH,Rogers
+15284793,Jackson,Elli,03,EXP,,,Lensing
+14192786,Carsrud,Josabeth,04,BUS,ACM,,Barnett
+BUS  125  02
+13861785,Whaley,Jacob,04,BUS,PR,,Kuennen
+10240808,Button,Kelli,01,EXP,,,Nordmann
+11330797,Cook,Kieran,04,ACP,BUS,,Melcher
+17086797,Thomasson,Tyler,03,EXP,,,Atwater
+13902791,Hatfield,Keena,03,ART,,,Perry
+11502815,Swain,Lewis,01,EXP,,,St. Clair
+17415785,Ryder,Avery,03,FRE,IEC,,Chaimov
+14905815,Cota,Phoenix,08,EXP,,,Chaimov
+10481815,Garcia,Diana,01,EXP,,,Cross
+16694785,Griest,Shae,03,REL,,HIS,Kensky
+13614813,Hiebert,Takamaru,01,EXP,,,Miller
+15133782,Cook,Hailey,04,ACP,BUS,,Cross
+12630782,Staker,Jasmine,04,KIN,,,Atwater
+15945803,Weber,Jaren,01,EXP,,,Keenan
+17037802,Hoppenjans,Lauren,02,ACP,BUS,,Perry
+15343787,Jackson,Easton,04,ACP,BUS,,Nguyen
+10688788,Ties,Kate,03,EXP,,,Melcher
+16357815,Alzuwaini,Andrew,08,EXP,,,Nordmann
+BUS  190  01   W
+13653803,Powers,Savannah,02,ECO,POL,REL,Westberg
+11621804,Schiesher,Meagan,02,BUS,COM,,Eichhorn
+12752800,Tranel,Avery,02,EXP,,,Hughes
+12512806,Velez,Addie,01,EXP,,,Westberg
+12901798,Osterman,Majad,02,EXP,,,Westberg
+15974791,Stitt,Jackie,03,BUS,,ANT,Carstens
+12841796,Rios,Graham,02,SCJ,REL,,Kensky
+13543804,Schiesher,Lyndsay,02,BUS,ACM,,Perry
+19218797,Lister,Allison,02,EXP,,,Rydze
+18707795,Dohms,Taylor,03,EXP,,,Chen
+19279803,Anthony,Patrick,01,EXP,,,Bragatto
+17937806,Duran-Montero,Will,02,EXP,,,Stead
+16975792,Casey,Jordan,03,ECO,BUS,,Carstens
+14475810,Mouring,Jarad,01,EXP,,,Hausknecht
+17526796,Welna,Thomas,02,EXP,,,Chaimov
+12251797,Green,Jessica,03,EXP,,,Rydze
+12612807,Glandt,Gable,02,EXP,,,Hoover
+BUS  190  02   W
+11291803,Lawson,Gavin,02,EXP,,,Rydze
+10450800,Mcluen,Cassandra,01,ACP,,,Perry
+11551803,Peterson,Matt,02,EXP,,,Baranowski
+13503804,Cota,Jasmine,02,EXP,,,Leonardo
+14915815,Kaczmarek,Noah,08,EXP,,,Chaimov
+18508809,Zambrano,Isaac,01,EXP,,,Chaplin
+11181804,Cain,Meghan,01,EXP,,,Kensky
+17667801,Kim,Breeana,02,EXP,,,Perry
+18525776,Starmann,Ella,04,KIN,,,Atwater
+13653806,Russell,Jake,02,EXP,,,Nguyen
+13593802,Reilly,Thomas,02,EXP,,,Chen
+13803802,Henderson,Pearson,02,EXP,,,Atwater
+14624803,Robertson,Avery,02,EXP,,,Chen
+10900804,Brazell,Garima,01,EXP,,,Recker
+10660804,Hower,Hailey,02,BUS,,,Baranowski
+15195804,Ausenhus,Jelica,02,EXP,,,Baranowski
+10060803,Webb,Alexandra,01,EXP,,,Stead
+BUS  190  03   W
+12803815,Collins,Izabel,01,EXP,,,Atwater
+18058807,Hernandez,Harry,01,EXP,,,Atwater
+16865790,Floyd,Nils,01,EXP,,,Cross
+12339771,Frost,Katherine,,EXP,,,Eichhorn
+12992806,Bah,Kole,01,EXP,,,Herron
+19019800,Klein,Alex,02,EXP,,,Carstens
+10550809,Feldman,John,01,EXP,,,Rodriguez Moreno
+17047805,Norris,Suzanna,02,ELM,KIN,SEC,Cross
+14875815,Sosa,Dylan,01,EXP,,,Chaimov
+14184804,Gard,Shea,02,EXP,,,Cross
+19828795,Mittelmark,Jordan,02,ENV,ECO,,Eichhorn
+16877812,Guthrie,Madelyn,01,EXP,,,Rodriguez Moreno
+16306804,Oware,Ella,02,EXP,,,Baranowski
+16557815,Arens,Garrison,02,EXP,,,Kuennen
+11182814,Boettger,Cassidy,01,EXP,,,Chihak
+13004814,Tidman,Lilly,01,EXP,,,Atwater
+BUS  250  01
+16565790,Newton,Keegan,03,EXP,,,Eichhorn
+19838799,MacFarland,Lauren,02,ACP,ACM,ECO,Perry
+13623800,Ridenour,Emily,02,COM,PR,,Carr
+12040787,Shapley,Drew,03,EXP,,,Westberg
+17127800,Jones,Katie,02,EXP,,,Perry
+17547800,Noe,Daniel,01,EXP,,,Bragatto
+11351801,Mau,Harry,02,EXP,,,Baranowski
+10459796,Wever,Isa,02,BUS,,POL,St. Clair
+15654794,Costello,Valerie,02,EXP,,,Kensky
+10040805,Osburn-Hassan,Michaela,01,BUS,,,Baranowski
+16876806,Graham,Jacob,02,BUS,COM,,Lensing
+17866792,Perkins,Cailyn,03,EXP,,,Barnett
+11181807,Preheim,Zachary,03,EXP,,,Hughes
+19158795,Empen,Bianca,03,BUS,,ECO,Rydze
+19618796,Carter,Cristina,03,BUS,,,Lensing
+14104803,Lawrence,Alli,02,BUS,ECO,,Cross
+19299802,Brown,Kayla,02,ACP,BUS,SPA,Melcher
+17117803,Idohl,Daniel,02,EXP,,,Atwater
+16344784,Trebon,Camille,04,BUS,,ECO,Nguyen
+BUS  250  02
+16635799,Washington,Katie,02,EXP,,,Leonardo
+10390800,Shchekin,Christina,02,EXP,,,Baranowski
+18168806,Klesert,Ella,04,BUS,,,Eichhorn
+13143803,Doromal,Diana,02,BUS,ECO,,Westberg
+12452800,Lona Garcia,Charles,02,EXP,,,Westberg
+14453791,Hardman,Will,02,EXP,,,Perry
+15974796,Panduro Orellana,Paul,04,BUS,,,Kuennen
+19499800,Ahmed,Logan,03,EXP,,,Nguyen
+10349798,Evans,Victoria,02,BUS,,,Barnett
+15314792,Matchette,Cassandra,03,BUS,,ECO,Chaplin
+16975796,Keppler,Jazmin,03,SCJ,BUS,,Recker
+11328779,La Rosa,Kayla,04,ACM,BUS,,Kuennen
+18307794,Eastman,Nijah,02,IBU,,,Bragatto
+14853797,Fink,Gregory,02,BUS,,,Nguyen
+13842793,He,Kalynn,03,EXP,,,Kuennen
+11942813,Eggert,Julia,02,EXP,,,Carstens
+BUS  315  01
+13702790,Polk,Makenna,03,BUS,,SEC,Eichhorn
+12760788,Chieng,Berrigan,03,BUS,PR,,Carstens
+16155790,Ortega,Ethan,03,EXP,,,Chen
+10699798,Findly,Gavin,03,BUS,,ART,Carstens
+13562798,Buck,LaNyia,03,EXP,,,Eichhorn
+11860795,Grech,Kyle,03,BUS,PSY,,Melcher
+17445787,La Rosa,Madison,03,BUS,,,Kuennen
+14983791,Sheldon,Nick,03,BUS,,,Rydze
+11088777,Diaz,Shelby,04,MTH,BUS,,Chen
+18937791,Salrin,Claire,03,EXP,,,Cross
+11869788,Almarales,Bree,04,SCJ,BUS,,Barnett
+18787794,Valley,Andrea,03,BUS,,,Atwater
+18519810,Arens,Abigail,01,EXP,,,Westberg
+17216793,Haynes,Jayden,03,BUS,ENG,ECO,Lensing
+BUS  315  02
+15074790,McCoy,Jordan,03,PSY,ORG,,Recker
+17856790,Cruz,Tori,03,BUS,PR,,Carstens
+18957790,Schipper,Wyatt,03,BUS,ACM,COM,Christensen
+10119791,Hougen,Adam,03,IBU,SPA,ECO,Affatigato
+18477795,DuFour,Sophie,03,EXP,,,Chen
+19769806,Shackelford,Evan,03,IBU,,,Kuennen
+11889788,Brunner,Patrick,03,PSY,BUS,,Brown
+11899781,Mathis,Philip,04,HIS,,,Buckaloo
+17596796,Linnear,Annabel,03,EXP,,,Chen
+15356815,Tran,Will,02,EXP,,,Westberg
+13711787,Grech,Alexander,03,ECO,,DS,Eichhorn
+BUS  330  01   W
+11680794,Hangartner,Carley,03,EXP,,,Eichhorn
+17946795,Duron,Nils,03,BUS,,,Eichhorn
+19137782,Pham,Claudia,04,PR,COM,GSS,Janca-Aji
+17325784,Kepros Caballero,Grifen,04,ACM,BUS,ECO,Baranowski
+18446787,Nguyen,Shae,04,BUS,ECO,,Eichhorn
+17315784,Brokaw,Brady,04,BUS,,,Kuennen
+10399792,Kotula,Breeana,03,BUS,,,Kuennen
+12000788,Rashed,Aaron,04,ACP,BUS,,Nguyen
+19327788,Chada,Ian,04,BUS,ECO,,Baranowski
+15183789,Burkhart,Daion,04,BUS,COM,,Baranowski
+18907795,Westercamp,Caelan,03,ACP,BUS,,Melcher
+17436794,Herrman,Ra'niya,03,EXP,,,Eichhorn
+13962795,Dickerson,Paige,04,ACM,BUS,,Melcher
+15913788,Gresik,Mason,04,BUS,COM,FRE,Carr
+13532793,O'Connell,Taylor,03,BUS,ECO,,Eichhorn
+15463782,Burkhart,Amanda,04,BUS,,,Baranowski
+19587787,Empen,Ben,03,BUS,,,Lensing
+BUS  350  01
+12771790,Finer,Kenzie,03,BUS,ECO,,Kensky
+17936795,Chambers,Abigail,03,BUS,,ECO,Kuennen
+18447795,Dylan,Claudia,03,BUS,,,Bragatto
+14462783,Petzold,Calvin,03,BUS,,,Atwater
+10718789,Hein-Harrison,Estela,04,ECO,BUS,,Baranowski
+16054782,Fedrick,Xavier,04,ACM,BUS,ECO,Melcher
+18207794,Kohl,Adolfo,02,EXP,,,Lensing
+18257794,Shapley,Breana,03,BUS,,,Christensen
+18516788,Sykes-Brooks,Noah,04,BUS,,,Eichhorn
+10788785,Fagans,Brian,04,MTH,ECO,PHY,Baranowski
+19268793,Auen,Noah,04,KIN,BUS,,Atwater
+BUS  387  01
+12701797,Weis,Jayden,03,EXP,,,Nguyen
+19407787,Butali,Natalie,04,PSY,NEU,HSS,Baker
+13832794,Mau,Shotaro,02,EXP,,,Chaimov
+13210776,Abshire,Noah,04,BUS,KIN,,Westberg
+11629788,Thoma,Graham,03,BUS,,,Kuennen
+16244788,Guyton,Matthew,04,BUS,,,Nguyen
+11090799,Boettger,Joely,03,BUS,,,Carstens
+BUS  400  01
+11399782,Koch,Will,04,BUS,,,Kuennen
+13401782,Velez,Mikel,04,BUS,,,Eichhorn
+19339805,Heath,Alexander,04,BUS,,,Kuennen
+14732782,Rivera,Julia,04,BUS,POL,REL,Donofrio
+16624786,Wilke,Jasmine,04,BUS,,ECO,Barnett
+18437793,Malone,Shaylee,03,IBU,,FRE,Chen
+BUS  454  01
+15163782,Abu-Halawa,Collin,04,BUS,,ECO,Carstens
+13092791,Hommowun,Allison,03,BUS,ACM,ECO,Perry
+11009784,Baker,Melodie,04,ACP,,POL,Melcher
+13721786,Almarales,Caitlin,04,MTH,CS,,Herron
+16465797,Rivera,Jaiden,04,ACP,BUS,,Carstens
+BUS  460  01   W
+14002788,Russell,Natalie,04,BUS,ACM,,Melcher
+17025782,Mahler,Annika,04,BUS,,,Kuennen
+17205782,Boettger,Jill,04,KIN,PR,,Atwater
+11679781,Squires,Danielle,04,ART,PR,,Goodson
+14292782,Walker,Emily,04,BUS,PR,COM,Westberg
+14732785,Ward,Mikel,04,BUS,PR,,Carstens
+13291781,Marshall,Faith,03,COM,PR,,Chihak
+17445788,Stallman,Natalie,04,BUS,,,Barnett
+BUS  470  01   W
+11259785,Hanson,McKenna,04,BUS,,ECO,Buckaloo
+10168782,John,Alexa,04,BUS,,PHL,Donofrio
+18837791,Nguyen,Alexander,03,EXP,,,Chen
+13842796,Schloe,Donae,03,ACP,BUS,,Eichhorn
+12241793,Pazour,Molly,02,ACP,BUS,,Chen
+18916786,Mills,Isabella,04,BUS,,ECO,Atwater
+BUS  494  01
+11969784,Allen,Valerie,03,BUS,,SPA,Baranowski
+12620788,Voss,Creighton,04,ECO,BUS,,Westberg
+10318783,Frantz,Eilish,04,BUS,,,Baranowski
+CFP  104  01
+17677807,Kendle,Kaitlyn,01,EXP,,,Chihak
+12841796,Rios,Graham,02,SCJ,REL,,Kensky
+12312809,Doromal,Jonah,01,EXP,,,Westberg
+10591810,Alejo,Precious,01,EXP,,,Chaimov
+14405810,Heath,Ethan,01,EXP,,,Wolgast
+17498811,Irvin,Alexandria,01,EXP,,,Kelley
+15855805,Christiansen,Mackenzie,02,POL,IS,,Chaimov
+CFP  104  02
+12833813,Jang,Caelan,01,EXP,,,Carr
+12502809,Kinsler,Christal,01,EXP,,,Westberg
+12383814,McCrary,Ellinor,01,EXP,,,Affatigato
+15793780,Villegas,Zachary,04,ECO,REL,,Westberg
+12263813,Zheng,Katie,01,EXP,,,Westberg
+16444788,Sutton,Damarcus,02,EXP,,,Kensky
+13864810,Hanson,Linus,01,EXP,,,Chihak
+CFP  301  01   W
+13292790,Ihle,Aryn,03,ENG,,SPA,Sodeman
+19869804,Daynuah,Megan,02,POL,SCJ,PHL,Lanegran
+17127800,Jones,Katie,02,EXP,,,Perry
+13523804,Finneman,Max,02,EXP,,,Barnett
+14144801,Schultz,Ayesha,02,ECO,DS,,Westberg
+17358812,Petrovic,Reagan,02,EXP,,,Westberg
+10190803,Schiesher,Maxwell,02,ENG,,SEC,Hausknecht
+CFP  401  01
+13802790,Ahmed,Fernanda,03,PSY,ENG,GS,Kelly
+10889791,Valdivia Araya,Katie,04,ECO,,MTH,Eichhorn
+16685796,Varner,Cael,04,AAM,HIS,,McNabb
+18377792,Akahrir,Gracie,04,ECO,MTH,,Westberg
+18497792,Mahler,Caden,03,CRW,,THE,Ziskowski
+CHM  103  01
+16384785,Tassey,Cristina,04,ENG,CRW,SPA,Hausknecht
+12623811,Nido,Patrick,01,EXP,,,Westberg
+11091808,Kolpin,Luis,01,EXP,,,Westberg
+15163782,Abu-Halawa,Collin,04,BUS,,ECO,Carstens
+11911800,Wagner,Maddox,02,HIS,,,Keenan
+13634815,Tanghe,Ashari,,EXP,,,Cross
+11211805,Hansen,Brady,02,EXP,,,Stobb
+18758808,Gienapp,Peyton,01,EXP,,,Johnson
+19869808,Elliott,Nico,01,EXP,,,Rodriguez Moreno
+14384803,Coleman,Jasmine,02,ECO,,,Barrow
+13413809,Rajkarnikar,Brady,01,EXP,,,Perry
+19769806,Shackelford,Evan,03,IBU,,,Kuennen
+14555815,Wood,Claire,01,EXP,,,Kelley
+12993813,Gary,Mckenzie,01,EXP,,,Brown
+18108809,Kendle,Will,01,EXP,,,Atwater
+13554815,Thurow,Xavier,02,BSN,,,Bursch
+15526812,Sanchez,Cassi,10,EXP,,,Umbarger-Mackey
+11061802,Browne,Emily,02,COM,,SPA,Donofrio
+19038795,Biswa,Nico,03,CS,DS,,Stobb
+17488810,Patton,Jp,01,EXP,,,Chaplin
+CHM  121  01
+18618807,Powell,Samantha,01,EXP,,,Wolgast
+19329807,Murphy,Sydney,01,EXP,,,Christensen
+11361808,Kim,Pramisha,01,EXP,,,Chaplin
+17256790,Hanrahan,Avery,02,PSY,NEU,CRW,Baker
+10351813,Bogart,Harry,01,EXP,,,Herron
+15092776,Engel,Beau,04,BIO,,,Westberg
+17067800,Hickey,Alex,02,EXP,,,Christensen
+17547800,Noe,Daniel,01,EXP,,,Bragatto
+17997800,Hodges,Oyin,02,EXP,,,Christensen
+12312809,Doromal,Jonah,01,EXP,,,Westberg
+10631813,Booker,Simon,01,EXP,,,Chen
+19569803,Ramirez,Brayden,02,EXP,,,Baranowski
+15995809,Perkins,Kade,01,EXP,,,Miller
+16086809,Davis,Marissa,01,EXP,,,Chihak
+16033779,Kintopf,Sabian,04,BIO,,CHM,Ellis
+12273813,Ragins,Yarelis,01,EXP,,,Cross
+12882804,Ratcliff,Avalynn,02,EXP,,,Christensen
+11841802,Starmann,Taven,02,NEU,PSY,,Cross
+12843811,McCollum,Graham,01,EXP,,,Nordmann
+18489811,Snow,Claudia,01,EXP,,,Kelley
+14955815,Baldwin,Eilish,02,EXP,,,Leonardo
+13863804,Ishimwe,Micah,01,EXP,,,Stead
+15756810,Soto Rabago,Isabelle,01,EXP,,,Brown
+12971798,Gonzalez,Reagan,03,EXP,,,Akgun
+14393793,Lawson,Melodie,03,SCJ,,,McNabb
+16256802,Collins,Jaxon,02,EXP,,,Ellis
+11512811,Goodwin,Aaminah,01,EXP,,,Christensen
+CHM  121  02
+14715814,Ridenour,Anthony,01,EXP,,,Affatigato
+13954812,Hesley,Noah,01,EXP,,,Affatigato
+12022805,Stauffacher,Donae,01,EXP,,,Falk
+11112812,Suboh,Ashley,01,EXP,,,Chihak
+13184812,Geiger,Paul,01,EXP,,,Wolgast
+12232808,Krob,Vanessa,01,EXP,,,Carr
+14345815,Singleton,Luis,02,EXP,,,St. Clair
+12542803,Cook,Peculiar,02,EXP,,,Atwater
+17037808,Morganti,Rami,01,EXP,,,Perry
+11141806,Chang,Jacob,02,EXP,,,Storer
+14174805,Kruse,Joey,01,,,,Cozine
+18688804,Kolade,Mitchel,02,EXP,,,Nguyen
+16146800,Jankowski,Bridgette,02,PSY,NEU,,Baker
+16496800,Marcellus,Taylor,02,BIO,SCJ,,Cozine
+16676800,Sharma,Jackson,02,EXP,,,Kelly
+11131804,Martin,Dylan,02,EXP,,,Hughes
+14624809,Schnurr,Gracie,01,EXP,,,Nordmann
+14574801,Zeonweh,Gad,02,EXP,,,Atwater
+16056801,Drahozal,Sarah,02,EXP,,,Leonardo
+17367809,Fedrick,Joseph,01,EXP,,,Perry
+15926813,South,Trevor,01,EXP,,,Carr
+19700812,Kilpatrick,Jorge,01,EXP,,,Chaplin
+18737794,Renaud,Cassie,03,POL,SPA,GSS,Lanegran
+14374802,Nunez,Hailey,03,KIN,PSY,HSS,LeMay-Lewis
+15555802,Moody,Trystin,02,BIO,ENV,,St. Clair
+16747810,Auen,Chance,01,EXP,,,St. Clair
+12243814,Kline,Andrew,01,EXP,,,Miller
+12159771,Richmond,Kayla,03,BIO,,,Storer
+10491811,Hafenbrack,John,01,EXP,,,Perry
+19779802,Callahan,Charles,02,ACP,,,Perry
+CHM  122  01
+16245799,Baker,Max,02,EXP,,,Brown
+16615799,Yuma,Paul,02,EXP,,,Leonardo
+16454784,Urbatsch,Sarah,03,BIO,,ANT,Cozine
+15534790,Hatfield,Aigelica,03,SCJ,,AAM,McNabb
+18907799,Hilderbrand,Breanna,02,BIO,ECO,,Leonardo
+16765790,Symons,Madisyn,03,BIO,NEU,CHM,Cozine
+17747804,Justice,Reagan,02,EXP,,,Leonardo
+18377790,Thatcher,Olivia,04,PHY,BIO,MTH,Affatigato
+19238790,Staley,Emily,03,BIO,,,Christensen
+13413800,Schroeder,Daphne,02,BIO,SPA,CHM,Stead
+13813800,Arduser,Maximo,02,BIO,MOL,HSS,Storer
+13933800,Corrigan,Nolan,02,BIO,NEU,CHM,Cozine
+17107800,Ropa,Adam,02,BIO,ENV,,Barnett
+18688800,Cobb,Andy,03,EXP,,,LeMay-Lewis
+19749800,Batey,Grant,02,BIO,,HSS,Storer
+19497788,Nelson,Hunter,04,MTH,PHY,CS,Miller
+19249804,Klahn,Anja,02,BIO,NEU,CHM,Cozine
+18158805,Yuma,Erica,02,EXP,,,Stead
+17947804,Martin,Toby,02,BIO,NEU,HSS,Storer
+13800778,Carviou,Carlin,04,BIO,,,Storer
+17937806,Duran-Montero,Will,02,EXP,,,Stead
+19257783,Meyer,Chloe,03,BIO,NEU,,Duru
+18718801,Goode,Graham,02,BIO,ENV,SPA,Stead
+18878801,Cobb,Emily,02,BIO,PSY,FRE,Christensen
+10721813,Collins,Chase,01,EXP,,,Nordmann
+18247794,Bass,Lucas,03,BIO,,,Storer
+14774804,Wei,Toobejay,02,EXP,,,Nguyen
+10070806,Jones,Lizandra,02,EXP,,,Stead
+14624805,Arrigoni,Maya,02,BIO,,,Storer
+19739802,Mahler,Tory,02,EXP,,,Leonardo
+CHM  211  01
+11529788,Kempf,Felicia,04,BIO,ENV,ANT,Ellis
+18527790,Urbatsch,Noah,02,BCH,,,Singleton
+13472794,Robinson,Lauren,03,BCH,,,Stead
+14922787,Fitzgerrel,Taylor,04,EXP,,,Akgun
+15795803,Carr,Abby,02,BCH,CHM,,Stead
+18617791,Bowles,Blake,03,BIO,ENV,,St. Clair
+10529792,Pazour,Grant,03,EXP,,,Singleton
+13771781,Zambrano,Alexis,04,BIO,CHM,,Storer
+17777803,Cobb,Jacob,02,CHM,NEU,,Bragatto
+13913802,Gosch,Haley,02,CHM,BCH,,Cozine
+14282789,Heath,Carlin,04,CS,PHY,,Barnett
+16875793,Duron,Julian,04,BIO,ENV,REL,Kensky
+19628793,Sandfort,Clayton,03,CHM,BCH,,St. Clair
+CHM  321  01
+16785790,Decker,Ashley,03,BIO,CHM,,St. Clair
+19228790,Frost,Jordan,03,BIO,,,Leonardo
+10739791,Aitchison,Cornie,03,BIO,,,Christensen
+13751785,Austin,Brianda,04,PHY,CHM,,Akgun
+12861791,Grigsby,Patrick,03,BIO,NEU,HSS,St. Clair
+13402791,Noel,Dolan,03,EXP,,,Singleton
+14823798,Webb,Taylor,03,EXP,,,St. Clair
+12801795,Villarreal,Riley,03,CHM,HIS,,St. Clair
+12440782,Washington-Castro,Jennifer,04,BIO,,CHM,Christensen
+13621782,Castellanos,Cristina,04,PHY,CHM,,Akgun
+15704794,Ginsbach,Mya,03,BIO,,,Barnett
+16645794,Cerka,Austin,03,BIO,MOL,SPA,Christensen
+17956794,Plesha,Aubree,03,BIO,,CHM,Christensen
+11899786,Long,Jade,03,BCH,,,Singleton
+11470793,Jennings,Jelani,03,BIO,,HSS,Storer
+11780793,Eastman,MyKeisha,03,BIO,NEU,CHM,Bragatto
+19168794,Kriegel,Cas,03,BIO,MOL,CHM,Christensen
+14583793,Freeze,Keegan,04,BIO,NEU,SPA,Cozine
+14893797,Patterson,Hunter,03,BIO,,,Storer
+19548794,Kilburg,Hunter,04,EXP,,,St. Clair
+14813793,Ybarra,Cassie,03,MOL,BIO,,Leonardo
+15684793,Schlichting,Pramisha,03,BIO,NEU,SPA,Christensen
+17836796,Janavich,Delaney,03,ENV,CHM,,Singleton
+CHM  322  01
+12400786,Saunders,Lydia,04,CHM,,ASC,St. Clair
+19367781,Chieng,Jack,04,BIO,MOL,CHM,Christensen
+13171781,Kelsey,Lauren,04,PSY,NEU,CHM,Kelly
+16474788,Altman,Ayshah,04,BIO,NEU,,Storer
+13681789,Wilhelmi,Damarcus,04,BIO,,,Storer
+CHM  341  01   W
+10398783,Dixon,Ashley,04,CHM,,PHY,St. Clair
+19168791,Blue,Carter,03,PHY,,,Affatigato
+16914788,Kuehner,Michelle,03,PHY,MTH,,White
+14062784,Lapray,Victoria,04,CHM,BCH,ANT,Singleton
+CHM  432  01
+19617780,Klutts,Gloria,04,BIO,NEU,CHM,Cozine
+13012799,Peterson,Catherine,04,BCH,CHM,CS,Stead
+CLA  120  01
+15703782,Nosekabel,Tia,04,CS,,MTH,Hughes
+10080808,Ortiz,Jackson,01,EXP,,,Farrell
+13213808,O'Rourke,Kaalyn,01,EXP,,,Lanegran
+15645808,Twight,Abigail,01,EXP,,,Chen
+13751785,Austin,Brianda,04,PHY,CHM,,Akgun
+17367808,Norris,Max,01,EXP,,,Affatigato
+17675781,Doty,Zachary,04,PSY,CRW,,Brown
+18268800,Jones,Tyler,02,HIS,,ANT,Keenan
+13202795,Karwowski,Olivia,03,ART,,,Thompson
+14874807,Leon-Flores,Murphy,01,EXP,,,Chaplin
+19829801,Dylan,Darby,04,ENG,,,Hausknecht
+16256802,Collins,Jaxon,02,EXP,,,Ellis
+18858802,Hoppenjans,Parker,02,HIS,,CLA,Ziskowski
+10931811,Finch,Elijah,01,EXP,,,Lanegran
+COM  125  01
+13292790,Ihle,Aryn,03,ENG,,SPA,Sodeman
+17128815,Franzen,Mark,08,DEX,,,Chaimov
+13861785,Whaley,Jacob,04,BUS,PR,,Kuennen
+10420808,Lyons,Jordan,01,EXP,,,Chaimov
+18688803,Patel,Monét,01,EXP,,,Rydze
+12833813,Jang,Caelan,01,EXP,,,Carr
+15595800,Stitt,Devin,01,EXP,,,Russell
+15063783,McLeod,Karen,04,BIO,NEU,CHM,Kelly
+16004784,Guevara,Diedrich,04,ENG,,SEC,McQueen
+18288805,Clinton,Trevor,02,BSN,,,Bursch
+18798804,Hernandez,Megan,02,EXP,,,Hayes
+14184804,Gard,Shea,02,EXP,,,Cross
+14975813,Mittelmark,Nolan,01,EXP,,,Westberg
+19497783,Lloyd,Avery,04,BIO,,CHM,Cozine
+13591784,Westercamp,Trevor,03,PSY,SCJ,,Brown
+13893802,Nelson,Cassie,02,EXP,,,Nesmith
+15326810,Quarrie,Gloria,01,EXP,,,Chaplin
+12693814,McLean,Christian,01,EXP,,,Nesmith
+16106802,Tranel,Ben,01,EXP,,,Recker
+10141812,Valdivia Araya,Abigail,01,EXP,,,Atwater
+COM  125  02
+17025782,Mahler,Annika,04,BUS,,,Kuennen
+11601808,Craig,Leah,01,EXP,,,Miller
+14292782,Walker,Emily,04,BUS,PR,COM,Westberg
+14114808,Nguyen,AJ,01,EXP,,,Perry
+13401782,Velez,Mikel,04,BUS,,,Eichhorn
+12693811,Arnold,Felicia,01,EXP,,,Wolgast
+17037808,Morganti,Rami,01,EXP,,,Perry
+19457780,Edwards,Carley,04,PHY,MTH,SPA,Akgun
+19630814,Kelso,Joseph,01,EXP,,,Libby
+18688800,Cobb,Andy,03,EXP,,,LeMay-Lewis
+10330801,Finneman,Ethan,02,EXP,,,Baranowski
+11622813,Bah,Maren,01,EXP,,,Libby
+13123809,Souvannamacho,Marlee,01,EXP,,,Christensen
+13983806,Buckley,Taylor,01,,,,Chaimov
+15994794,Deaton,Madison,03,EXP,,,Chen
+10031815,Norris,Makenna,01,EXP,,,Rodriguez Moreno
+14565815,Lawton,James,01,EXP,,,Hausknecht
+19889809,Gates,Christian,01,EXP,,,Perry
+12623810,Bicknell,Cailyn,01,EXP,,,Herron
+15686814,Kolpin,Madeline,01,EXP,,,Kelley
+COM  157  01   W
+13952790,Varner,Haley,02,EXP,,,Johnson
+12150784,Caplice,Alexander,04,CS,,HIS,Hughes
+14894804,Clinton,Paola,02,SCJ,SPA,SOC,McNabb
+13062791,Sutton,Christian,02,EXP,,,Rydze
+18043755,Grigsby,Lyndsay,02,EXP,,,Hughes
+15914798,Plasek,Gabrielle,02,PSY,,,Recker
+16474788,Altman,Ayshah,04,BIO,NEU,,Storer
+19218797,Lister,Allison,02,EXP,,,Rydze
+13614813,Hiebert,Takamaru,01,EXP,,,Miller
+18508809,Zambrano,Isaac,01,EXP,,,Chaplin
+19948797,Pittman,Gabriella,04,BUS,,,Christensen
+17466794,Montalbano,Sarah,03,SCJ,SOC,,McNabb
+19829801,Dylan,Darby,04,ENG,,,Hausknecht
+11832810,Godfrey,Moet,01,EXP,,,Kelley
+18257794,Shapley,Breana,03,BUS,,,Christensen
+12251797,Green,Jessica,03,EXP,,,Rydze
+15163786,Bradshaw,Brock,03,SCJ,,,McNabb
+10491811,Hafenbrack,John,01,EXP,,,Perry
+14694803,Jang,Elle,02,EXP,,,Kelly
+COM  157  02   W
+14685811,Buchanan,Orion,01,EXP,,,Chihak
+15534790,Hatfield,Aigelica,03,SCJ,,AAM,McNabb
+11301803,Rockwell,Shaylee,02,EXP,,,Umbarger-Mackey
+16865790,Floyd,Nils,01,EXP,,,Cross
+19657787,Pa,Austin,03,POL,,PHL,Lanegran
+10390800,Shchekin,Christina,02,EXP,,,Baranowski
+13763800,Billings,Tyler,02,EXP,,,Hausknecht
+17258812,Westercamp,Gracie,01,EXP,,,Hausknecht
+12552806,Frazier,Gracey,01,EXP,,,Chen
+17327804,Jackson,Jorge,02,POL,HIS,,Carson
+12000788,Rashed,Aaron,04,ACP,BUS,,Nguyen
+16305792,Butali,Andrea,02,KIN,,,Hausknecht
+15475805,Noel,Joseph,01,EXP,,,Rydze
+18948803,Thomasson,Moet,01,SCJ,,,Hausknecht
+13842796,Schloe,Donae,03,ACP,BUS,,Eichhorn
+11090799,Boettger,Joely,03,BUS,,,Carstens
+15003786,Kittinger,Anastasia,04,MTH,FLM,,Miller
+16306804,Oware,Ella,02,EXP,,,Baranowski
+19918794,Riebhoff,Zay,02,EXP,,,Nesmith
+COM  161  01   W
+15764790,Fox,Hannah,03,PSY,ORG,COM,Farrell
+15393787,Griffin,Bri,04,CRW,COM,,Aspengren
+13623800,Ridenour,Emily,02,COM,PR,,Carr
+15305800,Nelson,Mitchell,01,EXP,,,Hausknecht
+14453791,Hardman,Will,02,EXP,,,Perry
+15334791,Moore,Jeana,03,EXP,,,Chaplin
+14683794,Arnold,Sofia,02,EXP,,,Libby
+19499800,Ahmed,Logan,03,EXP,,,Nguyen
+18878806,Beck,Mary,01,EXP,,,Hatchell
+19957780,Brazell,Mark,04,HIS,,ARH,Keenan
+16965796,Aller,Maya,03,PHY,,,Bragatto
+10131810,Phillips,Chloe,01,EXP,,,Rydze
+12772806,Cobb,Thanh,01,BIO,,HSS,Keenan
+11061802,Browne,Emily,02,COM,,SPA,Donofrio
+18156781,Martinez,Cassie,04,ENG,COM,,Donofrio
+13743802,Folsom,Olivia,02,EXP,,,Carr
+15913788,Gresik,Mason,04,BUS,COM,FRE,Carr
+13232793,Castro,Brian,03,FLM,PSY,CRW,Lemos
+16877812,Guthrie,Madelyn,01,EXP,,,Rodriguez Moreno
+18439810,Reimnitz,Raymond,01,EXP,,,Johnson
+19750810,Kohl,Sam,01,EXP,,,Farrell
+11162811,McCune,Aubree,01,EXP,,,Rydze
+14914806,Schobert,Allyssa,01,ART,,ARH,Rogers
+COM  236  01   W
+17146799,Meyer,Murphy,02,COM,,PHL,Hausknecht
+15433786,Tigges,Allison,04,ENG,CRW,SEC,Kress
+19137782,Pham,Claudia,04,PR,COM,GSS,Janca-Aji
+15154796,Askew,Valerie,03,PSY,KIN,HSS,Brown
+11621804,Schiesher,Meagan,02,BUS,COM,,Eichhorn
+16384786,Seidel,Cameron,04,MUE,,,Falk
+17267808,Klein,Nathan,01,EXP,,,Miller
+13402791,Noel,Dolan,03,EXP,,,Singleton
+19309808,Cavanagh,Risako,01,EXP,,,St. Clair
+16544783,Anstett,Berrigan,04,BUS,,COM,Barnett
+15815803,Dahl,Samuel,02,EXP,,,Libby
+14902784,Henderson,Michael,04,SCJ,,POL,Janca-Aji
+15015801,Buckley,Kate,02,KIN,,HSS,Rydze
+11339781,Mosinski,John,02,COM,,,Westberg
+18497792,Mahler,Caden,03,CRW,,THE,Ziskowski
+11220793,Dickerson,Abigail,03,PSY,,,Brown
+18375775,Haynes,Marissa,04,KIN,,HSS,Fairbanks
+15844793,Blue,Gad,03,CS,DS,,Hughes
+19348795,Weltha,Carlie,03,CRW,COM,THE,Shaw
+16504787,Escalante,Charles,03,SCJ,,PHL,McNabb
+19678797,Piceno,Sami,03,COM,PR,ART,Carstens
+COM  337  01   W
+18576781,Squires,Will,04,COM,,WTG,Buckaloo
+13711784,Ball,Jasmine,03,SCJ,,,McNabb
+19568791,Hasselbacher,Joi-Damaris,03,PSY,,PHL,Recker
+15406814,Jackson,Jennifer,02,WTG,PSY,,Carr
+16835797,Velez,Amilya,03,ART,COM,,Lueth
+COM  457  01   W
+18957790,Schipper,Wyatt,03,BUS,ACM,COM,Christensen
+15073783,Madigan,Easton,04,PSY,SCJ,AAM,Westberg
+13351785,Ekstrom,Analise,04,PSY,AAM,,Brown
+16685796,Varner,Cael,04,AAM,HIS,,McNabb
+15183789,Burkhart,Daion,04,BUS,COM,,Baranowski
+CRW  115  01   W
+16576805,Gienapp,Laura,02,EXP,,,Barnett
+17547808,Burkhart,Judas,01,EXP,,,Carr
+17577808,Valdivia Araya,Ningyuan,01,EXP,,,Hausknecht
+15896812,Niemeyer,Jacob,01,EXP,,,Libby
+11331809,Watkins,Jerry,01,EXP,,,Perry
+19300814,Kendle,Chris,01,EXP,,,Wolgast
+17728812,Haupts,Ella,01,EXP,,,Johnson
+18678809,Williams,Brianna,01,EXP,,,Nordmann
+18968809,Richards,MJ,01,EXP,,,Nesmith
+16256803,Eichhorn,Celestte,01,EXP,,,Barnett
+15946810,Haufle,John,01,EXP,,,Johnson
+13004814,Tidman,Lilly,01,EXP,,,Atwater
+16677811,Rajkarnikar,Alaska,01,EXP,,,Chaplin
+19250813,Bradham,Chase,01,EXP,,,Rodriguez Moreno
+CRW  125  01   W
+17046799,Hall,Tamara,01,KIN,,,Rydze
+14584808,Jacobs,Sofia,01,EXP,,,Chihak
+13633800,Kolthoff,Carter,02,EXP,,,McNabb
+14495812,Win,Melanie,01,EXP,,,Brown
+19627780,Jung,Nils,04,HIS,,,Buckaloo
+13614813,Hiebert,Takamaru,01,EXP,,,Miller
+15595801,Grewe,Matthew,02,EXP,,,Cross
+12993813,Gary,Mckenzie,01,EXP,,,Brown
+19689806,Frias,Elli,01,EXP,,,Akgun
+11792813,Fang,Izzy,01,EXP,,,Chaplin
+18497792,Mahler,Caden,03,CRW,,THE,Ziskowski
+17596796,Linnear,Annabel,03,EXP,,,Chen
+14374802,Nunez,Hailey,03,KIN,PSY,HSS,LeMay-Lewis
+15166815,Steele,Ethan,01,EXP,,,Nordmann
+17195783,Willett,Brahim,04,,CRW,,Goodson
+CRW  125  02   W
+12642808,Rowell,Josie,01,EXP,,,Kelley
+16117815,Schipper,Skyler,02,EXP,,,Storer
+15595800,Stitt,Devin,01,EXP,,,Russell
+10550809,Feldman,John,01,EXP,,,Rodriguez Moreno
+16417814,Fedrick,Jared,01,EXP,,,Rodriguez Moreno
+17977809,Atz,Chance,01,EXP,,,Libby
+19349809,Thatcher,Ashley,01,EXP,,,Cross
+13133802,Appleby-Sparrow,Alayna,02,EXP,,,Hausknecht
+18978806,Stucke,Noah,01,EXP,,,Baranowski
+13723802,Cummins,Fiona,02,EXP,,,Shaw
+14474802,Fleck,Lauren,02,EXP,,,McQueen
+15405802,Dodd,Gracie,02,EXP,,,Hostetler
+15735802,Epps,Laina,02,ENG,CRW,,Hausknecht
+17498811,Irvin,Alexandria,01,EXP,,,Kelley
+17996796,Vaughn,Garrison,02,EXP,,,Recker
+CRW  280  01   W
+17875788,Lopez,Dylan,03,PSY,,,Farrell
+14693790,Sutton,Noah,03,BIO,MOL,,Ellis
+16195795,Koshikawa,Catherine,03,CRW,REL,SPA,Kensky
+10009797,Christians,Anja,03,ENV,CRW,ART,St. Clair
+18837790,Frost,Madalyn,03,PSY,SCJ,CRW,Farrell
+16904782,Johns,Brianna,03,CRW,ENG,,McQueen
+19005767,Kline,Addie,03,EXP,,,Johnson
+14434803,Marshall,Savannah,01,SCJ,PSY,THE,Wolverton
+18828801,Olson,Madison,02,BSN,,,Siems
+13462795,Huitink,Jordan,03,ARH,REL,ART,Lueth
+10500804,Lampe,Philip,02,EXP,,,Brown
+11550793,Linnear,Josie,02,EXP,,,Falk
+17046793,Webb,Brady,02,EXP,,,Recker
+10038786,Smith,Jelani,04,POL,EVS,,Lanegran
+CRW  290  01   W
+19608799,Ropa,Hanna,02,EXP,,,Keenan
+12742800,Hite,Miu,02,EXP,,,Aspengren
+16676800,Sharma,Jackson,02,EXP,,,Kelly
+11162810,Gonzalez,Tamara,01,EXP,,,Lanegran
+18156781,Martinez,Cassie,04,ENG,COM,,Donofrio
+17836796,Janavich,Delaney,03,ENV,CHM,,Singleton
+CRW  355  01   W
+11909788,Doromal,Trevor,04,FLM,THE,,Barnett
+10450802,Williams,Katherine,02,CRW,,MUS,Barnett
+19918794,Riebhoff,Zay,02,EXP,,,Nesmith
+19348795,Weltha,Carlie,03,CRW,COM,THE,Shaw
+CRW  390  01   W
+16384785,Tassey,Cristina,04,ENG,CRW,SPA,Hausknecht
+15433786,Tigges,Allison,04,ENG,CRW,SEC,Kress
+15393787,Griffin,Bri,04,CRW,COM,,Aspengren
+17675781,Doty,Zachary,04,PSY,CRW,,Brown
+14942785,Kimbrough,Lindsay,04,ART,CRW,,Aspengren
+18566787,Chambers,Victoria,04,ENG,PHL,,Aspengren
+18216780,Linder,Nigel,04,ENG,CRW,HIS,Aspengren
+19727787,Lansing,Logan,04,SOC,CRW,,Aspengren
+11229781,Almarales,Vinh,04,CRW,THE,,Aspengren
+18756786,Huston,Sienna,04,THE,CRW,,Aspengren
+CS   125  01
+12771790,Finer,Kenzie,03,BUS,ECO,,Kensky
+19099806,Lueken,Mickaela,01,EXP,,,Kensky
+17627807,Kuehner,John,01,EXP,,,Chihak
+17647807,Krizizke,Haley,01,EXP,,,Chaimov
+15226811,Perkins,Lauren,01,EXP,,,Affatigato
+17215787,Martin,Jack,02,EXP,,,Affatigato
+19159803,Newton,Abbey,01,EXP,,,Sodeman
+14205815,Jones,Moet,02,EXP,,,Melcher
+10790808,Tredway,Will,01,EXP,,,Chen
+12012808,Oware,Hannah,01,EXP,,,Johnson
+11969784,Allen,Valerie,03,BUS,,SPA,Baranowski
+18278806,Win,Ali,02,EXP,,,Akgun
+16287814,Love,Jacob,01,EXP,,,Farrell
+18688804,Kolade,Mitchel,02,EXP,,,Nguyen
+11211805,Hansen,Brady,02,EXP,,,Stobb
+16246805,Piceno,Andy,01,EXP,,,Carson
+19979800,Heeren,Rebecca,02,ELM,,,Kress
+11661809,Suzuki,Nia,01,EXP,,,Lanegran
+16244788,Guyton,Matthew,04,BUS,,,Nguyen
+16837814,Tomes,Nessa,01,EXP,,,Lanegran
+10529792,Pazour,Grant,03,EXP,,,Singleton
+18659814,Stucke,Taylor,01,EXP,,,Nesmith
+19980811,Petit,Madalynn,01,EXP,,,Chen
+18689814,Hagan,Brady,01,EXP,,,Miller
+12140782,Groat,Hailee,03,ENG,,ART,Aspengren
+12772806,Cobb,Thanh,01,BIO,,HSS,Keenan
+15512777,Tarbert,Madison,04,ACM,BUS,MUS,Melcher
+16516805,Frias,Jacob,01,HIS,WTG,,Nordmann
+19750810,Kohl,Sam,01,EXP,,,Farrell
+15163786,Bradshaw,Brock,03,SCJ,,,McNabb
+13884813,Mba,Genny,01,EXP,,,Libby
+CS   125  02
+14035812,Gardner,Amirah,01,EXP,,,Rydze
+10889791,Valdivia Araya,Katie,04,ECO,,MTH,Eichhorn
+17788813,Wilson,Grace,01,EXP,,,Affatigato
+19630814,Kelso,Joseph,01,EXP,,,Libby
+14235815,Thomasson,John,01,EXP,,,Johnson
+16747812,Bicknell,Hunter,01,EXP,,,Affatigato
+19888791,Bogart,Marissa,04,ECO,BUS,MTH,Eichhorn
+14535812,Schulte,Andy,01,EXP,,,Chihak
+16226809,Krambeer,Lauren,01,EXP,,,Miller
+10271815,Huse,Avalynn,01,EXP,,,Chihak
+11662810,Aucutt,Allie,01,EXP,,,Nordmann
+18307794,Eastman,Nijah,02,IBU,,,Bragatto
+13864810,Hanson,Linus,01,EXP,,,Chihak
+16167813,Dwelley,Jacob,01,EXP,,,Nesmith
+13183806,Henderson,Sydney,02,ACP,DS,,Rodgers
+17336793,Shelley,Maddie,03,ECO,,MTH,Lensing
+11082811,Maske,Madison,01,EXP,,,Chaplin
+19250813,Bradham,Chase,01,EXP,,,Rodriguez Moreno
+11942813,Eggert,Julia,02,EXP,,,Carstens
+CS   135  01
+11231803,Brown,Hailey,01,EXP,,,Hoover
+13001781,Grewe,Alex,04,ECO,,DS,Westberg
+17007806,Wronski,Adolfo,01,CS,DS,,Stobb
+13544814,Ramos,Hudson,02,CS,,,Hughes
+18043755,Grigsby,Lyndsay,02,EXP,,,Hughes
+12880781,Finneman,Logan,04,ECO,,SPA,Baranowski
+15636813,Eastman,Gad,01,EXP,,,Chihak
+10700801,Dwelley,Myrna,01,EXP,,,Shaw
+12252805,Joselit,Brendan,01,EXP,,,Akgun
+18848804,Wilson,Amanda,01,EXP,,,Hughes
+11790798,Kirk,Laine,02,EXP,,,Drexler
+CS   215  01
+19057789,Mei,Ella,04,EXP,,,Bragatto
+12249772,Severson,Giovanni,04,BUS,THE,,Wolverton
+16666801,Gienapp,Amanda,03,EXP,,,Akgun
+13721786,Almarales,Caitlin,04,MTH,CS,,Herron
+17356796,Falck,Tim,04,CS,PSY,,Hughes
+11181807,Preheim,Zachary,03,EXP,,,Hughes
+12021793,Tomida,Carlin,03,PHY,CS,,Affatigato
+13803802,Henderson,Pearson,02,EXP,,,Atwater
+11921807,Daniel-Medina,Jeannie,02,ECO,,CS,Eichhorn
+CS   220  01
+12171795,Shrestha,Addie,02,CS,MTH,,Barnett
+10287779,Winn,Francine,04,FLM,CS,MUS,Hughes
+10870804,Bah,Shae,02,EXP,,,Affatigato
+13183807,Hougen,MyKeisha,03,CS,,,Hughes
+16444788,Sutton,Damarcus,02,EXP,,,Kensky
+15405802,Dodd,Gracie,02,EXP,,,Hostetler
+14783793,Lona Garcia,Olivia,02,CS,,,Hostetler
+19768796,Glandt,Victoria,03,EXP,,,Eichhorn
+CS   340  01
+14895815,Hower,Theo,08,EXP,,,Chaimov
+15703782,Nosekabel,Tia,04,CS,,MTH,Hughes
+11219789,Walleser,Alexander,04,CS,PHL,,Cozine
+12150784,Caplice,Alexander,04,CS,,HIS,Hughes
+14512787,McFadden,Emma,04,PHY,,CS,Affatigato
+13611787,Godfrey,Yuser,04,PHY,,MTH,Akgun
+10248784,Kendle,Thanh,04,PHY,CS,,Akgun
+16563777,Paur,Annika,04,CS,BUS,,Christensen
+12030782,Selfridge,Jacob,04,CS,,FLM,Hughes
+18206787,Meehan,Madi,04,PHY,CS,,Akgun
+12740781,He,Gabrielle,04,PHY,MTH,CS,Affatigato
+19038795,Biswa,Nico,03,CS,DS,,Stobb
+15844793,Blue,Gad,03,CS,DS,,Hughes
+DS   100  01
+18926788,Niehaus,Ella,03,CS,,,Buckaloo
+17707804,Partain,Adam,02,ECO,FLM,,Nguyen
+14512787,McFadden,Emma,04,PHY,,CS,Affatigato
+13001781,Grewe,Alex,04,ECO,,DS,Westberg
+17007806,Wronski,Adolfo,01,CS,DS,,Stobb
+11969784,Allen,Valerie,03,BUS,,SPA,Baranowski
+13623800,Ridenour,Emily,02,COM,PR,,Carr
+11211805,Hansen,Brady,02,EXP,,,Stobb
+18438808,Epps,Katie,01,EXP,,,St. Clair
+12880781,Finneman,Logan,04,ECO,,SPA,Baranowski
+12620788,Voss,Creighton,04,ECO,BUS,,Westberg
+13683809,Roberts,Noah,01,EXP,,,Westberg
+14144801,Schultz,Ayesha,02,ECO,DS,,Westberg
+18659814,Stucke,Taylor,01,EXP,,,Nesmith
+10510805,Brockmeyer,Haley,02,EXP,,,Barnett
+17358812,Petrovic,Reagan,02,EXP,,,Westberg
+10131810,Phillips,Chloe,01,EXP,,,Rydze
+16624786,Wilke,Jasmine,04,BUS,,ECO,Barnett
+15302775,Bartell,Xavier,04,SOC,,CRW,Rodgers
+15844793,Blue,Gad,03,CS,DS,,Hughes
+13183806,Henderson,Sydney,02,ACP,DS,,Rodgers
+12743812,Manternach,Alex,01,EXP,,,Christensen
+14675814,Ellsworth,Kellie,01,EXP,,,Westberg
+11082811,Maske,Madison,01,EXP,,,Chaplin
+13711787,Grech,Alexander,03,ECO,,DS,Eichhorn
+DS   230  01
+18043755,Grigsby,Lyndsay,02,EXP,,,Hughes
+15636813,Eastman,Gad,01,EXP,,,Chihak
+13012799,Peterson,Catherine,04,BCH,CHM,CS,Stead
+12252805,Joselit,Brendan,01,EXP,,,Akgun
+19038795,Biswa,Nico,03,CS,DS,,Stobb
+17356796,Falck,Tim,04,CS,PSY,,Hughes
+19529802,Askew,Tamara,02,EXP,,,Stobb
+DS   315  01
+15703782,Nosekabel,Tia,04,CS,,MTH,Hughes
+10248784,Kendle,Thanh,04,PHY,CS,,Akgun
+12360788,Browne,Dolan,04,CS,ECO,,Eichhorn
+18206787,Meehan,Madi,04,PHY,CS,,Akgun
+14242789,Sukalski,Michaela,04,IBU,CS,,Melcher
+13183807,Hougen,MyKeisha,03,CS,,,Hughes
+14783793,Lona Garcia,Olivia,02,CS,,,Hostetler
+10788785,Fagans,Brian,04,MTH,ECO,PHY,Baranowski
+19768796,Glandt,Victoria,03,EXP,,,Eichhorn
+ECO  175  01
+19629807,Finch,Torrie,01,EXP,,,Herron
+10581814,Hewitt,Kiersten,01,EXP,,,Farrell
+14205815,Jones,Moet,02,EXP,,,Melcher
+11121808,Loza,Adam,01,EXP,,,Rydze
+14004808,Rowe,Gabe,01,EXP,,,Westberg
+12752800,Tranel,Avery,02,EXP,,,Hughes
+14045815,Eastman,MJ,01,EXP,,,Hausknecht
+11211805,Hansen,Brady,02,EXP,,,Stobb
+10030809,Stegen,Jack,01,EXP,,,Affatigato
+11621809,Stiles,Adam,01,EXP,,,Miller
+17837806,Mills,Paige,01,EXP,,,Herron
+13093809,Neppl,Micah,01,EXP,,,Rodriguez Moreno
+15336811,Goldsmith,Jay,01,EXP,,,Herron
+10481815,Garcia,Diana,01,EXP,,,Cross
+18399811,Koons,Thomas,01,EXP,,,Cross
+11492812,Clay,Alex,01,EXP,,,Westberg
+18968809,Richards,MJ,01,EXP,,,Nesmith
+16266803,Wilson,Daniel,02,EXP,,,Chaimov
+11181807,Preheim,Zachary,03,EXP,,,Hughes
+18479813,Kintopf,John,01,EXP,,,Chaimov
+16567815,Salmi-Perry,Jerry,01,EXP,,,St. Clair
+18439810,Reimnitz,Raymond,01,EXP,,,Johnson
+18939812,Silver,Luke,01,EXP,,,Perry
+10060803,Webb,Alexandra,01,EXP,,,Stead
+11182815,Northrop,Jack,01,EXP,,,Johnson
+ECO  175  02
+19109806,Nelson,Skye,01,EXP,,,Brown
+10240808,Button,Kelli,01,EXP,,,Nordmann
+14095812,Koenen,Gavin,01,EXP,,,Rydze
+10251815,Shchekin,Adrianna,02,EXP,,,Eichhorn
+10009797,Christians,Anja,03,ENV,CRW,ART,St. Clair
+10450800,Mcluen,Cassandra,01,ACP,,,Perry
+17928811,Glandt,Aidan,01,EXP,,,Miller
+18688803,Patel,Monét,01,EXP,,,Rydze
+12339771,Frost,Katherine,,EXP,,,Eichhorn
+15135808,Strauel,James,01,EXP,,,Lanegran
+13544814,Ramos,Hudson,02,CS,,,Hughes
+15645808,Twight,Abigail,01,EXP,,,Chen
+17788813,Wilson,Grace,01,EXP,,,Affatigato
+17047805,Norris,Suzanna,02,ELM,KIN,SEC,Cross
+19279803,Anthony,Patrick,01,EXP,,,Bragatto
+14574801,Zeonweh,Gad,02,EXP,,,Atwater
+14975813,Mittelmark,Nolan,01,EXP,,,Westberg
+13593802,Reilly,Thomas,02,EXP,,,Chen
+14285815,Hodges,Liana,02,EXP,,,Christensen
+15326810,Quarrie,Gloria,01,EXP,,,Chaplin
+16106802,Tranel,Ben,01,EXP,,,Recker
+11102814,Budhwani,Alexis,02,SPA,IS,,Chaimov
+18519810,Arens,Abigail,01,EXP,,,Westberg
+11792812,Sar,Sunny,01,EXP,,,Herron
+15356815,Tran,Will,02,EXP,,,Westberg
+ECO  175  03
+13893806,Pazour,Julie,02,BSN,,,Siems
+13484814,Eastman,Trisan,01,EXP,,,Affatigato
+19889807,Petzold,Jayla,01,EXP,,,Hausknecht
+16027815,Pazour,Alexa,08,EXP,,,Chaimov
+13783808,Nepple,Bree,01,EXP,,,Perry
+12342800,Pittman,Jill,02,ELM,,,Kress
+15715803,Floyd,Lilly,01,EXP,,,Barnett
+18728803,Brockmeyer,Adam,02,EXP,,,Libby
+10590806,Lindgren,Will,01,EXP,,,Akgun
+14223799,Johnson,Lilly,03,PHY,MTH,,Akgun
+16976803,Theriault,Tara,02,PHY,,,Affatigato
+17077805,Noisette,Alexa,02,EXP,,,Leonardo
+14374806,Bechdol,Lucas,02,EXP,,,Hayes
+11339781,Mosinski,John,02,COM,,,Westberg
+14345811,McCrary,Leilani,01,EXP,,,Lanegran
+19559801,Butler,Mikayla,02,EXP,,,Bragatto
+10591810,Alejo,Precious,01,EXP,,,Chaimov
+11482810,Gorden Mercer,Maui,01,EXP,,,Cross
+11832810,Godfrey,Moet,01,EXP,,,Kelley
+13754813,Blunt,Bree,01,EXP,,,Chen
+10890804,Noor,Elise,02,EXP,,,Christensen
+16177812,Barnes,Amaia,01,EXP,,,Kelley
+13842793,He,Kalynn,03,EXP,,,Kuennen
+10470806,Roberts,Dolan,01,EXP,,,Chen
+15246815,Hernandez,Amanda,02,EXP,,,Leonardo
+18219810,Vickers,Kenidi,01,EXP,,,Perry
+16587814,Nowobilski,Sydney,01,EXP,,,Hausknecht
+18539815,Vroman,Shannon,01,EXP,,,Rydze
+10190803,Schiesher,Maxwell,02,ENG,,SEC,Hausknecht
+ECO  215  01
+19718799,Becher,Jack,02,EXP,,,Melcher
+19838799,MacFarland,Lauren,02,ACP,ACM,ECO,Perry
+10340800,Baugh,Reagan,02,EXP,,,Perry
+13423803,Escalante,Cassie,01,EXP,,,Nguyen
+15305800,Nelson,Mitchell,01,EXP,,,Hausknecht
+13902791,Hatfield,Keena,03,ART,,,Perry
+19019800,Klein,Alex,02,EXP,,,Carstens
+14905815,Cota,Phoenix,08,EXP,,,Chaimov
+11561801,Camargo,Nicholas,02,EXP,,,Atwater
+12992801,Norris,Anna,01,DS,BUS,ECO,Baranowski
+10040805,Osburn-Hassan,Michaela,01,BUS,,,Baranowski
+13543804,Schiesher,Lyndsay,02,BUS,ACM,,Perry
+18378804,Lopez,Ashley,02,EXP,,,Barnett
+19886777,Chambless,James,02,EXP,,,Kuennen
+13813807,Welch,Sophie,01,EXP,,,Nguyen
+11201804,Johnson,Chloe,02,BUS,ACM,,Lanegran
+11889788,Brunner,Patrick,03,PSY,BUS,,Brown
+13653806,Russell,Jake,02,EXP,,,Nguyen
+17596796,Linnear,Annabel,03,EXP,,,Chen
+15945803,Weber,Jaren,01,EXP,,,Keenan
+16306804,Oware,Ella,02,EXP,,,Baranowski
+16926802,Valley,Crystal,02,HIS,,SEC,Kensky
+17037802,Hoppenjans,Lauren,02,ACP,BUS,,Perry
+14684806,Davis,Gabriella,01,EXP,,,Nguyen
+15195804,Ausenhus,Jelica,02,EXP,,,Baranowski
+19779802,Callahan,Charles,02,ACP,,,Perry
+ECO  215  02
+13582790,Johanns,Clayton,02,EXP,,,Atwater
+18618804,Huynh,Jaden,01,EXP,,,Kensky
+16155790,Ortega,Ethan,03,EXP,,,Chen
+10390800,Shchekin,Christina,02,EXP,,,Baranowski
+17736790,Frana,Sean,02,BIO,ENV,,Ellis
+15675803,Hughes,John,02,EXP,,,Melcher
+12512806,Velez,Addie,01,EXP,,,Westberg
+12171795,Shrestha,Addie,02,CS,MTH,,Barnett
+17445787,La Rosa,Madison,03,BUS,,,Kuennen
+12552806,Frazier,Gracey,01,EXP,,,Chen
+17127800,Jones,Katie,02,EXP,,,Perry
+17547800,Noe,Daniel,01,EXP,,,Bragatto
+15334791,Moore,Jeana,03,EXP,,,Chaplin
+15974791,Stitt,Jackie,03,BUS,,ANT,Carstens
+10330801,Finneman,Ethan,02,EXP,,,Baranowski
+19769806,Shackelford,Evan,03,IBU,,,Kuennen
+11821804,Johnson,Ella,02,EXP,,,Carson
+11869788,Almarales,Bree,04,SCJ,BUS,,Barnett
+17667801,Kim,Breeana,02,EXP,,,Perry
+10510805,Brockmeyer,Haley,02,EXP,,,Barnett
+17526796,Welna,Thomas,02,EXP,,,Chaimov
+16557815,Arens,Garrison,02,EXP,,,Kuennen
+12251797,Green,Jessica,03,EXP,,,Rydze
+18188802,Sly,Kaylynn,02,EXP,,,Perry
+10129795,Webb,Samantha,03,EXP,,,Affatigato
+19299802,Brown,Kayla,02,ACP,BUS,SPA,Melcher
+12612807,Glandt,Gable,02,EXP,,,Hoover
+ECO  225  01
+17936795,Chambers,Abigail,03,BUS,,ECO,Kuennen
+11399782,Koch,Will,04,BUS,,,Kuennen
+11680794,Hangartner,Carley,03,EXP,,,Eichhorn
+17946795,Duron,Nils,03,BUS,,,Eichhorn
+16565790,Newton,Keegan,03,EXP,,,Eichhorn
+16224788,Fajardo,Tabitha,04,BUS,,,Atwater
+17325784,Kepros Caballero,Grifen,04,ACM,BUS,ECO,Baranowski
+13143803,Doromal,Diana,02,BUS,ECO,,Westberg
+10889791,Valdivia Araya,Katie,04,ECO,,MTH,Eichhorn
+11259785,Hanson,McKenna,04,BUS,,ECO,Buckaloo
+13512791,Reeves,Ryan,03,BUS,,,Atwater
+10349798,Evans,Victoria,02,BUS,,,Barnett
+14462783,Petzold,Calvin,03,BUS,,,Atwater
+18937791,Salrin,Claire,03,EXP,,,Cross
+19888791,Bogart,Marissa,04,ECO,BUS,MTH,Eichhorn
+10399792,Kotula,Breeana,03,BUS,,,Kuennen
+16876806,Graham,Jacob,02,BUS,COM,,Lensing
+16665795,Sloth,Ta’sje’,02,ECO,,,Lensing
+18377792,Akahrir,Gracie,04,ECO,MTH,,Westberg
+19738792,Schmit,Lauren,03,BUS,ECO,,Baranowski
+14732782,Rivera,Julia,04,BUS,POL,REL,Donofrio
+19158795,Empen,Bianca,03,BUS,,ECO,Rydze
+15723787,Estling,Bianca,04,ECO,POL,,Lanegran
+19618796,Carter,Cristina,03,BUS,,,Lensing
+17445788,Stallman,Natalie,04,BUS,,,Barnett
+17216793,Haynes,Jayden,03,BUS,ENG,ECO,Lensing
+16344784,Trebon,Camille,04,BUS,,ECO,Nguyen
+10788785,Fagans,Brian,04,MTH,ECO,PHY,Baranowski
+ECO  237  01
+12771790,Finer,Kenzie,03,BUS,ECO,,Kensky
+13653803,Powers,Savannah,02,ECO,POL,REL,Westberg
+17707804,Partain,Adam,02,ECO,FLM,,Nguyen
+15163782,Abu-Halawa,Collin,04,BUS,,ECO,Carstens
+13001781,Grewe,Alex,04,ECO,,DS,Westberg
+12621794,Tredway,Will,03,BUS,ECO,,Eichhorn
+11849787,Green,Ali,04,POL,ECO,PHL,Westberg
+12452800,Lona Garcia,Charles,02,EXP,,,Westberg
+10119791,Hougen,Adam,03,IBU,SPA,ECO,Affatigato
+13092791,Hommowun,Allison,03,BUS,ACM,ECO,Perry
+11551803,Peterson,Matt,02,EXP,,,Baranowski
+18446787,Nguyen,Shae,04,BUS,ECO,,Eichhorn
+14384803,Coleman,Jasmine,02,ECO,,,Barrow
+10268788,Neppl,Duy,03,POL,ECO,,Lanegran
+19327788,Chada,Ian,04,BUS,ECO,,Baranowski
+11181804,Cain,Meghan,01,EXP,,,Kensky
+12342805,Krizizke,Gabe,02,PHY,ECO,,Affatigato
+17814778,Haynes,Emma,04,ECO,,,Westberg
+16624786,Wilke,Jasmine,04,BUS,,ECO,Barnett
+13532793,O'Connell,Taylor,03,BUS,ECO,,Eichhorn
+14323795,Perry,Joel,03,POL,,ECO,Nesmith
+18916786,Mills,Isabella,04,BUS,,ECO,Atwater
+14482788,Seymour,Guy, III,04,BUS,,,Duru
+10359795,Olney,Kate,02,ECO,,SEC,Westberg
+13711787,Grech,Alexander,03,ECO,,DS,Eichhorn
+ECO  315  01
+10169791,Lage,Alyse,03,BUS,,ECO,Affatigato
+18477795,DuFour,Sophie,03,EXP,,,Chen
+11351801,Mau,Harry,02,EXP,,,Baranowski
+10318783,Frantz,Eilish,04,BUS,,,Baranowski
+14144801,Schultz,Ayesha,02,ECO,DS,,Westberg
+15314792,Matchette,Cassandra,03,BUS,,ECO,Chaplin
+16975792,Casey,Jordan,03,ECO,BUS,,Carstens
+17358812,Petrovic,Reagan,02,EXP,,,Westberg
+12051793,Ahmed,Nitu,02,ECO,,REL,Westberg
+14104803,Lawrence,Alli,02,BUS,ECO,,Cross
+11921807,Daniel-Medina,Jeannie,02,ECO,,CS,Eichhorn
+ECO  336  01
+14982788,Friddle,Dharma,04,BUS,ECO,,Eichhorn
+14883790,Brown,Kellie,03,ECO,PHL,,Eichhorn
+18716780,Leonard,Karen,04,MTH,EVS,ECO,Miller
+11088777,Diaz,Shelby,04,MTH,BUS,,Chen
+11019789,Zack,Megan,04,ECO,,PHL,Lensing
+14282789,Heath,Carlin,04,CS,PHY,,Barnett
+13183806,Henderson,Sydney,02,ACP,DS,,Rodgers
+17336793,Shelley,Maddie,03,ECO,,MTH,Lensing
+ECO  345  01
+12880781,Finneman,Logan,04,ECO,,SPA,Baranowski
+12620788,Voss,Creighton,04,ECO,BUS,,Westberg
+18166784,Krueger,Adolfo,04,ECO,,,Lensing
+14192786,Carsrud,Josabeth,04,BUS,ACM,,Barnett
+18437793,Malone,Shaylee,03,IBU,,FRE,Chen
+ECO  375  01   W
+15793780,Villegas,Zachary,04,ECO,REL,,Westberg
+16054782,Fedrick,Xavier,04,ACM,BUS,ECO,Melcher
+11328779,La Rosa,Kayla,04,ACM,BUS,,Kuennen
+16465797,Rivera,Jaiden,04,ACP,BUS,,Carstens
+11479785,Chaney-Pruitt,Baylee,04,ECO,BUS,,Nguyen
+EDU  105  01   W
+15976812,Schiesher,Bennett,01,EXP,,,Farrell
+14993796,Hoffman,Victoria,03,EXP,,,Atwater
+13864811,Birgy,Sarah,01,EXP,,,Chen
+12592808,Meade,Kaydence,01,EXP,,,Rydze
+13562798,Buck,LaNyia,03,EXP,,,Eichhorn
+11451800,Thurow,Tamara,02,ELM,,,Russell
+11631806,Williams,Sarah,02,HIS,POL,SEC,Nordmann
+17208815,Morris,Bree,02,EXP,,,Hayes
+16466803,Mahler,Allison,02,EXP,,,Atwater
+19300814,Kendle,Chris,01,EXP,,,Wolgast
+15265809,Schloe,Madi,01,EXP,,,Lanegran
+15455804,Woodbury,John,02,EXP,,,Keenan
+17047803,Maturo,Jennifer,01,EXP,,,Barnett
+10090805,Blunk,James,01,EXP,,,Atwater
+10681810,Bohnen,Dolan,01,EXP,,,Libby
+18528806,Plagge,Kiah,02,MUS,,,Shanley
+19170811,Conde,AJ,01,EXP,,,Hausknecht
+11502810,Vroman,Maxine,01,EXP,,,Libby
+13754813,Blunt,Bree,01,EXP,,,Chen
+13774810,Hardman,Nia,01,EXP,,,Johnson
+10900804,Brazell,Garima,01,EXP,,,Recker
+17278813,Barnes,Nicholas,02,EXP,,,Kress
+13471787,Eichhorn,Benton,03,PHY,,,Duru
+15196813,Sennett,Shae,01,EXP,,,Libby
+EDU  105  02   W
+19029807,Clarke,Kiily,01,EXP,,,Chaimov
+19589807,Pohren,James,01,EXP,,,Nesmith
+18618804,Huynh,Jaden,01,EXP,,,Kensky
+12263812,Collins,Taylor,01,EXP,,,Cross
+16317814,Martin,Ana,02,EXP,,,Shanley
+10520801,Newell,Mia,02,THE,ENG,,Hayes
+19580815,Kirk,Seth,02,EXP,,,Kress
+14114809,Samuels,Haley,01,EXP,,,Chaimov
+18798804,Hernandez,Megan,02,EXP,,,Hayes
+16097814,Balachio,Karen,01,EXP,,,Herron
+10171815,Rivera,Maria,02,EXP,,,Buckaloo
+16206804,Malone,Simon,01,ELM,MUS,,Shanley
+18288803,Madigan,Kalynn,01,EXP,,,Recker
+11792813,Fang,Izzy,01,EXP,,,Chaplin
+15475805,Noel,Joseph,01,EXP,,,Rydze
+12193810,Dillon,DeeDee,01,EXP,,,Wolgast
+12413810,Pio,Moet,01,EXP,,,Chaimov
+12443814,Ameku,William,01,EXP,,,Carr
+13864814,Hidlebaugh,Graham,01,EXP,,,Wolgast
+10141812,Valdivia Araya,Abigail,01,EXP,,,Atwater
+10359795,Olney,Kate,02,ECO,,SEC,Westberg
+14664805,Sipwoli,Lauden,02,EXP,,,Barnett
+19788793,MacFarland,Kadie,03,BIO,,,St. Clair
+EDU  117  01
+17396799,Kappeler,Victoria,01,EXP,,,Leonardo
+16065798,Montes-Delgado,Ella,02,EXP,,,Russell
+19148799,Lister,Adin,02,EXP,,,Hayes
+18187795,Dutcher,Anne,03,EXP,,,Atwater
+15595800,Stitt,Devin,01,EXP,,,Russell
+15586815,Niemeyer,Amirah,01,EXP,,,St. Clair
+10080809,Hoppenjans,Sydney,01,,,,Cross
+14914809,Marshall,Kayla,01,EXP,,,Brown
+19769809,Jadkarim,Andrew,01,EXP,,,Johnson
+14373799,Kurimski,Emily,04,,,,Shanley
+19909801,Singleton,Daniel,02,HIS,,MUS,Buckaloo
+14405810,Heath,Ethan,01,EXP,,,Wolgast
+10070806,Jones,Lizandra,02,EXP,,,Stead
+18918802,Corcoran,Faith,02,ELM,,SPA,Russell
+EDU  117  02
+17387807,Sisk,Mickaela,01,EXP,,,Kelley
+13702790,Polk,Makenna,03,BUS,,SEC,Eichhorn
+11632813,Bushbaum,Josabeth,01,EXP,,,Chen
+14253792,Krueger,Rami,03,ART,CS,,Rogers
+12162802,Lenz,Austin,02,PHY,SOC,,Bragatto
+10361814,Alzuwaini,Anne,01,EXP,,,Chaimov
+15166815,Steele,Ethan,01,EXP,,,Nordmann
+19220811,Lunkley,Kinsie,01,EXP,,,Lanegran
+EDU  187  01   W
+13292790,Ihle,Aryn,03,ENG,,SPA,Sodeman
+10320808,Reeves,Mitchell,01,EXP,,,Chaimov
+15456812,Montoya,Savana,01,EXP,,,Chaimov
+11161808,Stokes,Emily,01,EXP,,,Brown
+13923808,McLean,Adam,01,EXP,,,Brown
+11581803,Hemaidan,Analise,02,MUE,,,Shanley
+19309808,Cavanagh,Risako,01,EXP,,,St. Clair
+18428805,Collins,John,02,MUS,,,Shanley
+18309813,Capalbo,Harry,01,EXP,,,Herron
+17978814,Alejo,Alphonso,01,EXP,,,Perry
+18719812,Guyton,Garrett,01,EXP,,,Christensen
+13373801,Clayton-Deavers,Lauren,02,MUE,,,Shanley
+16977813,Starry,Ella,01,EXP,,,Christensen
+17568815,Hanrahan,Reagan,01,EXP,,,Farrell
+11060793,Hemaidan,Joshua,04,EXP,,,Falk
+EDU  187  02   W
+17476799,La Ronge,Camille,02,BSN,,,Umbarger-Mackey
+13113805,Mba,Mckenzie,01,EXP,,,Johnson
+12621794,Tredway,Will,03,BUS,ECO,,Eichhorn
+11261800,Hall,Landen,02,ART,,SEC,Rogers
+14292782,Walker,Emily,04,BUS,PR,COM,Westberg
+15055800,Schmitt,Max,02,EXP,,,Russell
+14932789,Goodyear,Bryn,03,PSY,,,Recker
+18658800,Hardman,Cole,02,KIN,,,Atwater
+15425804,Enzeroth,Amber,01,MUS,ELM,,Shanley
+12012801,Kerns,Shelby,02,EXP,,,Brown
+19886777,Chambless,James,02,EXP,,,Kuennen
+11479785,Chaney-Pruitt,Baylee,04,ECO,BUS,,Nguyen
+17258815,Kempf,Meagan,02,EXP,,,Umbarger-Mackey
+16046802,Carr,Brittany,01,THE,SCJ,SEC,Barrow
+19588793,Jankowski,Emily,02,KIN,,,St. Clair
+EDU  195  01
+13343803,Dickson,Becky,02,KIN,,,Cross
+15985803,Guthrie,Celine,02,EXP,,,Hayes
+14483790,Stotts,Ta’sje’,03,ELM,,,Kress
+16295795,Decker,Bryn,03,ELM,,SPA,Kress
+6205404,Malone,Garrett,04,HIS,,SEC,Buckaloo
+12342800,Pittman,Jill,02,ELM,,,Kress
+13633800,Kolthoff,Carter,02,EXP,,,McNabb
+14314800,Williams,Jordan,01,ELM,AAM,SPA,Johnson
+14374806,Bechdol,Lucas,02,EXP,,,Hayes
+16346805,Crosby,Brianna,02,KIN,,,Hausknecht
+19719809,Ridenour,Chloe,01,EXP,,,Miller
+14572784,Schipper,Avery,04,ENG,,SEC,Kress
+17466794,Montalbano,Sarah,03,SCJ,SOC,,McNabb
+10000806,Askew,Kristin,03,EXP,,,Kress
+13593802,Reilly,Thomas,02,EXP,,,Chen
+13751781,Collachia,Maiya,04,SOC,SCJ,,Barnett
+14073793,Schroeder,Precious,03,EXP,,,Rydze
+11281804,Barreras,Brayden,01,EXP,,,Barnett
+EDU  215  01   W
+17227803,Lamb,Abby,03,ELM,,,Hayes
+17207800,Falck,Ayesha,02,EXP,,,Russell
+14942785,Kimbrough,Lindsay,04,ART,CRW,,Aspengren
+19979800,Heeren,Rebecca,02,ELM,,,Kress
+15234794,Gobeli,Daniel,02,ELM,,,Hayes
+11961801,Bass,Jaiden,02,ELM,,,Kress
+12132803,Bowles,Bassel,02,ELM,,,Kress
+13873805,Almarales,Anushree,03,PE,,HSS,Rydze
+EDU  219  01
+15433786,Tigges,Allison,04,ENG,CRW,SEC,Kress
+19806772,DeTombe,Will,04,ENG,THE,SEC,Hayes
+EDU  260  01   W
+18547790,Lueken,Michael,02,ELM,,,Kress
+18296785,Artalejo,Megan,04,ELM,,,Farrell
+18237795,Haynes,Molly,03,ELM,,,Kress
+18087791,La Rosa,Allyssa,02,ELM,,,Hayes
+19728791,Frantz,Gabriella,03,ELM,,,Kress
+12651792,Fedrick,Kaiya,03,ELM,,,Kress
+18557797,Griggs,Hailey,04,ELM,,,Kress
+19047789,Nwosu,Simon,03,ELM,,,Kress
+14473793,Weber,Alyse,03,ELM,,,Kress
+18497793,Baker,Giovanni,03,ELM,,,Kress
+EDU  270  01   W
+15554797,Grech,Tamara,03,ELM,,ART,Hayes
+13831781,Duron,Alex,04,ELM,,,Kress
+11411801,Marinelli,Patrick,02,EXP,,,Chaimov
+10839792,Kepros Caballero,Eva,04,SCJ,ENG,SEC,McNabb
+12991798,Meehan,Heather,02,ELM,,,Russell
+10268787,Freese,Genny,04,HIS,,SEC,Keenan
+10610804,Kolker,Sofia,01,EXP,,,Sodeman
+10190803,Schiesher,Maxwell,02,ENG,,SEC,Hausknecht
+EDU  284  01
+18566780,Chada,Braden,03,SOC,,,Kress
+EDU  300  01
+18727792,Cargille,Caitlin,03,ELM,,,Kress
+18526786,Menke,Julia,04,ELM,,,Kress
+EDU  311  01   W
+16004784,Guevara,Diedrich,04,ENG,,SEC,McQueen
+EDU  313  01   W
+14801772,Chaney-Pruitt,Marissa,04,ELM,,,Kress
+14551775,Tillery,Meagan,ST,TCE,,,Kress
+19346776,Thayer,Sunny,04,ELM,,,Kress
+12059777,Griest,Noah,04,ELM,,,Westberg
+17644775,Ball,Brianna,04,ELM,,,Kress
+ENG  101  01   W
+13802790,Ahmed,Fernanda,03,PSY,ENG,GS,Kelly
+13113805,Mba,Mckenzie,01,EXP,,,Johnson
+10351813,Bogart,Harry,01,EXP,,,Herron
+17105788,Villegas,Annika,03,EXP,,,Rydze
+13683808,Niyirukundo,Connor,01,EXP,,,Wolgast
+14474804,Benson,Cole,02,EXP,,,Barrow
+17267808,Klein,Nathan,01,EXP,,,Miller
+12503813,Fang,Orion,01,EXP,,,Rodriguez Moreno
+16567811,Jaiswal,Ella,01,EXP,,,Christensen
+15595801,Grewe,Matthew,02,EXP,,,Cross
+10271815,Huse,Avalynn,01,EXP,,,Chihak
+18638801,Voss,Joi-Damaris,02,EXP,,,Rydze
+18497792,Mahler,Caden,03,CRW,,THE,Ziskowski
+11922810,Amezcua,Jason,01,EXP,,,Hausknecht
+17195783,Willett,Brahim,04,,CRW,,Goodson
+ENG  107  01
+19806772,DeTombe,Will,04,ENG,THE,SEC,Hayes
+17377808,Hagan,Reagan,01,EXP,,,Libby
+17547800,Noe,Daniel,01,EXP,,,Bragatto
+19399808,Lister,Will,01,EXP,,,Johnson
+17997800,Hodges,Oyin,02,EXP,,,Christensen
+14942785,Kimbrough,Lindsay,04,ART,CRW,,Aspengren
+17977809,Atz,Chance,01,EXP,,,Libby
+19497783,Lloyd,Avery,04,BIO,,CHM,Cozine
+16007813,Helmkamp,Natalie,01,EXP,,,Wolgast
+10689796,Fleck,Sarah,02,ACM,,,Melcher
+13233805,Palmer,Keegan,02,ACP,BUS,,Cross
+14965811,Foreman,Glenna,01,EXP,,,Chaimov
+13933803,Tostado,Brady,01,EXP,,,Umbarger-Mackey
+11609786,Arrigoni,Joseph,04,ART,,,Goodson
+15735802,Epps,Laina,02,ENG,CRW,,Hausknecht
+18279810,Petit,Emily,01,EXP,,,Chaplin
+19320810,Darling,Samantha,01,EXP,,,Lanegran
+ENG  291  01   W
+16125799,Calix,Elsie,02,PSY,,,Shaw
+10490807,Collins,Eilish,08,EXP,,,Chaimov
+19148799,Lister,Adin,02,EXP,,,Hayes
+16305790,Ye,Kyle,03,HIS,,SEC,Chaimov
+10009797,Christians,Anja,03,ENV,CRW,ART,St. Clair
+18837790,Frost,Madalyn,03,PSY,SCJ,CRW,Farrell
+12180782,Cheek,Madison,04,ENG,,CRW,Sodeman
+12742800,Hite,Miu,02,EXP,,,Aspengren
+16904782,Johns,Brianna,03,CRW,ENG,,McQueen
+10839792,Kepros Caballero,Eva,04,SCJ,ENG,SEC,McNabb
+13723802,Cummins,Fiona,02,EXP,,,Shaw
+17216793,Haynes,Jayden,03,BUS,ENG,ECO,Lensing
+10190803,Schiesher,Maxwell,02,ENG,,SEC,Hausknecht
+ENG  301  01   W
+10520801,Newell,Mia,02,THE,ENG,,Hayes
+16544783,Anstett,Berrigan,04,BUS,,COM,Barnett
+18216780,Linder,Nigel,04,ENG,CRW,HIS,Aspengren
+14382784,Robinson,Olivia,04,ENG,,ASC,Shaw
+ENG  337  01   W
+13292790,Ihle,Aryn,03,ENG,,SPA,Sodeman
+16384785,Tassey,Cristina,04,ENG,CRW,SPA,Hausknecht
+ENG  454  01
+16004784,Guevara,Diedrich,04,ENG,,SEC,McQueen
+18566787,Chambers,Victoria,04,ENG,PHL,,Aspengren
+12140782,Groat,Hailee,03,ENG,,ART,Aspengren
+14572784,Schipper,Avery,04,ENG,,SEC,Kress
+19829801,Dylan,Darby,04,ENG,,,Hausknecht
+ENG  467  01   W
+11311803,Washington,Haley,02,EXP,,,Atwater
+10169791,Lage,Alyse,03,BUS,,ECO,Affatigato
+10840806,Garcia,Kei'Yona,02,SCJ,,AAM,Rodgers
+14922787,Fitzgerrel,Taylor,04,EXP,,,Akgun
+11851803,Canney,Ben,02,EXP,,,Johnson
+11201804,Johnson,Chloe,02,BUS,ACM,,Lanegran
+12132803,Bowles,Bassel,02,ELM,,,Kress
+14975811,Schuler,Max,01,EXP,,,Carr
+13232793,Castro,Brian,03,FLM,PSY,CRW,Lemos
+17498811,Irvin,Alexandria,01,EXP,,,Kelley
+FLM  105  01
+11340794,An,Sophia,02,EXP,,,Kensky
+18058807,Hernandez,Harry,01,EXP,,,Atwater
+12400786,Saunders,Lydia,04,CHM,,ASC,St. Clair
+14685811,Buchanan,Orion,01,EXP,,,Chihak
+18687799,Shelby,Diedrich,01,EXP,,,Atwater
+11751808,Decker,Clayten,01,EXP,,,Brown
+10340800,Baugh,Reagan,02,EXP,,,Perry
+11969784,Allen,Valerie,03,BUS,,SPA,Baranowski
+12342800,Pittman,Jill,02,ELM,,,Kress
+12901798,Osterman,Majad,02,EXP,,,Westberg
+19279803,Anthony,Patrick,01,EXP,,,Bragatto
+11181804,Cain,Meghan,01,EXP,,,Kensky
+17547801,Valenzuela,Kaleb,02,MUE,,,Shanley
+10090805,Blunk,James,01,EXP,,,Atwater
+14514805,Ishioka,Cas,02,EXP,,,Barnett
+11090799,Boettger,Joely,03,BUS,,,Carstens
+16667811,Parenteau,Talia,01,EXP,,,Chaimov
+19998793,Mahler,Taryn,03,EXP,,,Ellis
+FLM  105  02
+12453815,Salsman,Chase,01,EXP,,,Hausknecht
+19429807,Washington-Castro,Wallace,01,EXP,,,Johnson
+10220808,Meares,Rachel,01,EXP,,,Nordmann
+14735813,Stitt,Lydia,01,EXP,,,Herron
+10800806,Griffin,Alex,02,EXP,,,Barnett
+12882807,Button,Makayla,01,FLM,,,Lanegran
+18268800,Jones,Tyler,02,HIS,,ANT,Keenan
+16757812,Bruggers,Ruben,01,EXP,,,Nordmann
+10700801,Dwelley,Myrna,01,EXP,,,Shaw
+15635801,Hansen,Melodie,02,PSY,,,Lee
+17728812,Haupts,Ella,01,EXP,,,Johnson
+19737787,Newell,Will,04,BIO,,FRE,Cozine
+18506781,Romero,Emma,04,IS,,ANT,Lanegran
+19559801,Butler,Mikayla,02,EXP,,,Bragatto
+18848804,Wilson,Amanda,01,EXP,,,Hughes
+15585805,Becher,Adin,02,SCJ,PSY,,Kelly
+13154813,Sheldon,Judas,01,EXP,,,Rodriguez Moreno
+12243814,Kline,Andrew,01,EXP,,,Miller
+19529802,Askew,Tamara,02,EXP,,,Stobb
+16914788,Kuehner,Michelle,03,PHY,MTH,,White
+FLM  225  01   W
+10848787,Sievers,Abigail,03,SOC,GSS,FLM,Rodgers
+17707804,Partain,Adam,02,ECO,FLM,,Nguyen
+11141806,Chang,Jacob,02,EXP,,,Storer
+17394776,Finstrom,Colton,03,GEN,,SEC,Rydze
+18179814,Huerta,Aryn,01,EXP,,,Hausknecht
+12050782,Andeway,Gloria,04,KIN,,,Atwater
+19627780,Jung,Nils,04,HIS,,,Buckaloo
+16686804,Comparato,Shar,01,EXP,,,Chaimov
+15512777,Tarbert,Madison,04,ACM,BUS,MUS,Melcher
+18617792,Barnes,Casey,02,FLM,,,Nesmith
+15443784,Torson,Tatelyn,04,PSY,SCJ,SOC,Kelly
+FLM  250  01   W
+19718799,Becher,Jack,02,EXP,,,Melcher
+15675803,Hughes,John,02,EXP,,,Melcher
+6205404,Malone,Garrett,04,HIS,,SEC,Buckaloo
+13544814,Ramos,Hudson,02,CS,,,Hughes
+14034800,Biegger,Mariam,02,SCJ,PSY,,McNabb
+10287779,Winn,Francine,04,FLM,CS,MUS,Hughes
+18837791,Nguyen,Alexander,03,EXP,,,Chen
+17667801,Kim,Breeana,02,EXP,,,Perry
+10470806,Roberts,Dolan,01,EXP,,,Chen
+16926802,Valley,Crystal,02,HIS,,SEC,Kensky
+17317802,Fox,Chance,02,HIS,,,Buckaloo
+FLM  464  01
+11909788,Doromal,Trevor,04,FLM,THE,,Barnett
+18756786,Huston,Sienna,04,THE,CRW,,Aspengren
+15003786,Kittinger,Anastasia,04,MTH,FLM,,Miller
+FRE  115  01
+10447778,Cummins,Kayla,03,EVS,POL,CRW,Ellis
+18687799,Shelby,Diedrich,01,EXP,,,Atwater
+10080808,Ortiz,Jackson,01,EXP,,,Farrell
+15036812,Lukombo,Madison,01,EXP,,,Rydze
+18128805,Krestel,Emily,01,EXP,,,Wolgast
+10800806,Griffin,Alex,02,EXP,,,Barnett
+15055800,Schmitt,Max,02,EXP,,,Russell
+18688804,Kolade,Mitchel,02,EXP,,,Nguyen
+17107800,Ropa,Adam,02,BIO,ENV,,Barnett
+18788803,Thao,Jp,02,BSN,,,Siems
+13332792,Phillips,Torrie,02,PSY,,,Brown
+17327809,Welna,Dominic,01,EXP,,,Herron
+12140782,Groat,Hailee,03,ENG,,ART,Aspengren
+16745792,Goode,Collin,03,MUS,,,Carson
+16965797,Chambless,Jaclyn,03,IS,,,Kensky
+15555802,Moody,Trystin,02,BIO,ENV,,St. Clair
+18858802,Hoppenjans,Parker,02,HIS,,CLA,Ziskowski
+13884813,Mba,Genny,01,EXP,,,Libby
+14914806,Schobert,Allyssa,01,ART,,ARH,Rogers
+FRE  235  01
+16697813,Casey,Ethan,01,EXP,,,St. Clair
+13652794,Imler,Abdullah,02,PSY,,,Chaimov
+19169808,Hensley,Andrea,01,EXP,,,Carr
+19399808,Lister,Will,01,EXP,,,Johnson
+11632813,Bushbaum,Josabeth,01,EXP,,,Chen
+18678809,Williams,Brianna,01,EXP,,,Nordmann
+12493810,Kruse,Kyle,01,EXP,,,Christensen
+10361814,Alzuwaini,Anne,01,EXP,,,Chaimov
+14624805,Arrigoni,Maya,02,BIO,,,Storer
+18818806,Hite,Nathan,01,,,,Rydze
+FRE  345  01
+13781782,Cooper,Josh,04,FRE,HIS,,Chaimov
+17415785,Ryder,Avery,03,FRE,IEC,,Chaimov
+15886812,Chaney-Pruitt,Delano,01,EXP,,,Rodriguez Moreno
+19508791,Haastrup,Ali,03,IS,ASC,FRE,Chaimov
+18557797,Griggs,Hailey,04,ELM,,,Kress
+14114803,Imler,Eyan,02,EXP,,,Lanegran
+GS   107  01   W
+17677807,Kendle,Kaitlyn,01,EXP,,,Chihak
+18958807,Fowler,Ryan,01,EXP,,,Kelley
+15363782,Tanghe,Katie,04,BIO,NEU,,Storer
+19728799,Henderson,Fosia,02,PSY,SCJ,,Baker
+16027815,Pazour,Alexa,08,EXP,,,Chaimov
+16196805,Patton,Ella,01,EXP,,,Hatchell
+18788803,Thao,Jp,02,BSN,,,Siems
+14434803,Marshall,Savannah,01,SCJ,PSY,THE,Wolverton
+13523804,Finneman,Max,02,EXP,,,Barnett
+15635801,Hansen,Melodie,02,PSY,,,Lee
+18419814,Dubon,Josh,01,EXP,,,Kelley
+19039809,Nunez,Eleanor,01,EXP,,,Nesmith
+16266804,Darling,Ra'niya,01,EXP,,,Kensky
+10450802,Williams,Katherine,02,CRW,,MUS,Barnett
+11218772,Wilhelmi,Daniyal,04,PSY,AAM,,Kelly
+10780802,Corcoran,Anna,01,MTH,,,Miller
+13064815,Bogart,Dylan,08,EXP,,,Chaimov
+12481793,Singleton,Qariah,03,PSY,,CRW,Kelly
+17678810,Sandmire,Jania,01,EXP,,,Rodriguez Moreno
+13291781,Marshall,Faith,03,COM,PR,,Chihak
+18719810,Jones,Karen,01,EXP,,,Chaplin
+16587814,Nowobilski,Sydney,01,EXP,,,Hausknecht
+18726784,Arrigoni,Kathya,04,PHY,PSY,,Akgun
+10071811,Seymour,Madalyn,01,EXP,,,Kelley
+HIS  115  01
+17215787,Martin,Jack,02,EXP,,,Affatigato
+19329807,Murphy,Sydney,01,EXP,,,Christensen
+10790808,Tredway,Will,01,EXP,,,Chen
+11631806,Williams,Sarah,02,HIS,POL,SEC,Nordmann
+11661809,Suzuki,Nia,01,EXP,,,Lanegran
+13390775,Hower,Supy,04,HIS,,,Atwater
+15795803,Carr,Abby,02,BCH,CHM,,Stead
+12222801,Hanson,Eva,02,MUS,HIS,,Barnett
+16055797,Menke,Lilly,03,HIS,,SEC,Nordmann
+10410804,Irvin,Ethan,02,HIS,,ECO,Buckaloo
+14374806,Bechdol,Lucas,02,EXP,,,Hayes
+18399811,Koons,Thomas,01,EXP,,,Cross
+13332792,Phillips,Torrie,02,PSY,,,Brown
+15765801,Empen,Hannah,01,EXP,,,Hatchell
+17775785,Frost,Bridget,03,SCJ,HIS,,Arnold
+10749798,Zheng,Spencer,02,EXP,,,Leonardo
+13951786,Panduro Orellana,Simon,03,HIS,,SEC,Hayes
+12273813,Ragins,Yarelis,01,EXP,,,Cross
+16607811,Stucke,Kendra,01,EXP,,,Nordmann
+12241793,Pazour,Molly,02,ACP,BUS,,Chen
+18526786,Menke,Julia,04,ELM,,,Kress
+13934814,Petrovic,Joshua,01,EXP,,,Kelley
+16926802,Valley,Crystal,02,HIS,,SEC,Kensky
+10268787,Freese,Genny,04,HIS,,SEC,Keenan
+17317802,Fox,Chance,02,HIS,,,Buckaloo
+16516805,Frias,Jacob,01,HIS,WTG,,Nordmann
+19739802,Mahler,Tory,02,EXP,,,Leonardo
+HIS  115  02
+13954812,Hesley,Noah,01,EXP,,,Affatigato
+14035812,Gardner,Amirah,01,EXP,,,Rydze
+18109812,Jankowski,Peculiar,01,EXP,,,St. Clair
+14255812,Miranda-Estrada,Ariel,01,EXP,,,Carr
+19569803,Ramirez,Brayden,02,EXP,,,Baranowski
+11242815,Christiansen,Kaylei,01,EXP,,,Chaimov
+10031815,Norris,Makenna,01,EXP,,,Rodriguez Moreno
+18718809,Scott,Cael,01,EXP,,,Brown
+18489811,Snow,Claudia,01,EXP,,,Kelley
+15596812,Morris,Abdi,01,EXP,,,Keenan
+16835797,Velez,Amilya,03,ART,COM,,Lueth
+HIS  145  01
+13893806,Pazour,Julie,02,BSN,,,Siems
+13864811,Birgy,Sarah,01,EXP,,,Chen
+13184812,Geiger,Paul,01,EXP,,,Wolgast
+16305790,Ye,Kyle,03,HIS,,SEC,Chaimov
+6205404,Malone,Garrett,04,HIS,,SEC,Buckaloo
+11911800,Wagner,Maddox,02,HIS,,,Keenan
+14124808,Freese,Emily,01,EXP,,,Chen
+15715803,Floyd,Lilly,01,EXP,,,Barnett
+16466803,Mahler,Allison,02,EXP,,,Atwater
+14015811,Gosch,Taylor,01,EXP,,,Chen
+17572758,Goodwin,Matthew,04,HIS,ART,,Buckaloo
+16004784,Guevara,Diedrich,04,ENG,,SEC,McQueen
+10740809,Meyer,Alexander,01,EXP,,,Lanegran
+15234794,Gobeli,Daniel,02,ELM,,,Hayes
+11961801,Bass,Jaiden,02,ELM,,,Kress
+18878806,Beck,Mary,01,EXP,,,Hatchell
+17698811,Comparato,Abigail,01,EXP,,,Atwater
+12603815,Welch,Brian,01,EXP,,,Cross
+19980811,Petit,Madalynn,01,EXP,,,Chen
+11821804,Johnson,Ella,02,EXP,,,Carson
+15455804,Woodbury,John,02,EXP,,,Keenan
+15895801,Bliss,Karen,01,SCJ,,,Kensky
+19170811,Conde,AJ,01,EXP,,,Hausknecht
+10340802,Koshikawa,Michaela,02,EXP,,,Siems
+11849781,Rogers,Allyssa,04,HIS,,SEC,Johnson
+13754813,Blunt,Bree,01,EXP,,,Chen
+19020814,Hangartner,Trisan,01,EXP,,,Christensen
+10610804,Kolker,Sofia,01,EXP,,,Sodeman
+17537802,Martin,Brady,02,EXP,,,Recker
+HIS  145  02
+15985803,Guthrie,Celine,02,EXP,,,Hayes
+16454784,Urbatsch,Sarah,03,BIO,,ANT,Cozine
+18838807,Jowosimi,Kaleb,01,EXP,,,Chen
+14423790,Stiles,Shotaro,02,EXP,,,Chen
+11161808,Stokes,Emily,01,EXP,,,Brown
+14045813,Edwards,Bryant,01,EXP,,,Atwater
+18688803,Patel,Monét,01,EXP,,,Rydze
+16295795,Decker,Bryn,03,ELM,,SPA,Kress
+14234800,Doak,Tory,02,EXP,,,Akgun
+13414813,Chaney-Pruitt,Logan,01,EXP,,,Brown
+10840806,Garcia,Kei'Yona,02,SCJ,,AAM,Rodgers
+16477812,Fleck,Alexander,01,EXP,,,Atwater
+19880812,Sandfort,Morgan,01,EXP,,,Farrell
+10040805,Osburn-Hassan,Michaela,01,BUS,,,Baranowski
+14114809,Samuels,Haley,01,EXP,,,Chaimov
+16186809,Goode,Tory,01,EXP,,,Chaimov
+15433789,Yuma,Luke,01,EXP,,,Brown
+13624813,Mclaughlin,Piper,01,EXP,,,Christensen
+13653806,Russell,Jake,02,EXP,,,Nguyen
+18787794,Valley,Andrea,03,BUS,,,Atwater
+15945803,Weber,Jaren,01,EXP,,,Keenan
+15246815,Hernandez,Amanda,02,EXP,,,Leonardo
+10141812,Valdivia Araya,Abigail,01,EXP,,,Atwater
+18858802,Hoppenjans,Parker,02,HIS,,CLA,Ziskowski
+14684806,Davis,Gabriella,01,EXP,,,Nguyen
+19998793,Mahler,Taryn,03,EXP,,,Ellis
+HIS  205  01   W
+18268800,Jones,Tyler,02,HIS,,ANT,Keenan
+12801795,Villarreal,Riley,03,CHM,HIS,,St. Clair
+10171815,Rivera,Maria,02,EXP,,,Buckaloo
+17327804,Jackson,Jorge,02,POL,HIS,,Nesmith
+19909801,Singleton,Daniel,02,HIS,,MUS,Buckaloo
+10090802,Hite,Chloe,02,EXP,,,Hatchell
+19579804,Allison,Randy,02,EXP,,,Cross
+12832804,Buckridge,James,04,MTH,PHY,,Lanegran
+14114803,Imler,Eyan,02,EXP,,,Lanegran
+HIS  216  01   W
+17856790,Cruz,Tori,03,BUS,PR,,Carstens
+12452800,Lona Garcia,Charles,02,EXP,,,Westberg
+17208815,Morris,Bree,02,EXP,,,Hayes
+13781782,Cooper,Josh,04,FRE,HIS,,Chaimov
+19508791,Haastrup,Ali,03,IS,ASC,FRE,Chaimov
+12891795,Hernandez,Julian,03,EXP,,,Christensen
+13693809,Pecharich,Joely,01,EXP,,,Hausknecht
+14875815,Sosa,Dylan,01,EXP,,,Chaimov
+16685796,Varner,Cael,04,AAM,HIS,,McNabb
+18216780,Linder,Nigel,04,ENG,CRW,HIS,Aspengren
+17847803,Stebral,Alfredo,02,ACP,,,Baranowski
+10107774,Ward,Victoria,04,AAM,SCJ,HIS,Rodgers
+10660804,Hower,Hailey,02,BUS,,,Baranowski
+11981805,Thomasson,Jackie,02,BSN,,,Siems
+HIS  268  01   W
+18199811,Riebhoff,Kieran,01,EXP,,,Herron
+12862803,Villarreal,Kennedy,02,POL,,,Nesmith
+11232815,Stevenson,Qariah,01,EXP,,,Atwater
+15634796,Hilton,Ethan,04,SCJ,,,Atwater
+19005767,Kline,Addie,03,EXP,,,Johnson
+19829801,Dylan,Darby,04,ENG,,,Hausknecht
+12413810,Pio,Moet,01,EXP,,,Chaimov
+18608803,Becher,Ausar,03,EXP,,,Drexler
+13361782,Bryant,Dharma,03,HIS,,ANT,Hoover
+14183793,Sosa,Sunny,03,POL,HIS,,Nordmann
+10918788,Prostine,Aidan,04,HIS,,SEC,Arnold
+11102814,Budhwani,Alexis,02,SPA,IS,,Chaimov
+HIS  355  01   W
+10790100,Arens,Robert,14,,,,
+16565790,Newton,Keegan,03,EXP,,,Eichhorn
+12742800,Hite,Miu,02,EXP,,,Aspengren
+13831781,Duron,Alex,04,ELM,,,Kress
+19957780,Brazell,Mark,04,HIS,,ARH,Keenan
+19627780,Jung,Nils,04,HIS,,,Buckaloo
+10328781,Meyer,Skyler,04,HIS,PHL,,Keenan
+IS   116  01
+17046799,Hall,Tamara,01,KIN,,,Rydze
+11301803,Rockwell,Shaylee,02,EXP,,,Umbarger-Mackey
+18716780,Leonard,Karen,04,MTH,EVS,ECO,Miller
+11491803,Dugan,Matt,01,SCJ,IS,SOC,McNabb
+14502786,Miranda-Estrada,Andrew,03,BUS,,,Rydze
+10250805,Guyton,Luis,02,EXP,,,Akgun
+12900787,Schreckengast,Brittany,04,KIN,,,Rydze
+16226805,Kendle,Ella,01,EXP,,,Westberg
+12503813,Fang,Orion,01,EXP,,,Rodriguez Moreno
+18688800,Cobb,Andy,03,EXP,,,LeMay-Lewis
+19019800,Klein,Alex,02,EXP,,,Carstens
+13221781,Ishimwe,Naomi,04,THE,PSY,SEC,Kelly
+10988787,Blackmond,Josie,04,BIO,NEU,,Storer
+19769806,Shackelford,Evan,03,IBU,,,Kuennen
+12321792,Ball,Amber,03,MTH,,ART,Miller
+15183789,Burkhart,Daion,04,BUS,COM,,Baranowski
+13842796,Schloe,Donae,03,ACP,BUS,,Eichhorn
+18516788,Sykes-Brooks,Noah,04,BUS,,,Eichhorn
+15903785,Barreras,Ian,03,PSY,,,Brown
+15302775,Bartell,Xavier,04,SOC,,CRW,Rodgers
+11102814,Budhwani,Alexis,02,SPA,IS,,Chaimov
+17488815,Arduser,Madeline,07,,,,Drexler
+13291781,Marshall,Faith,03,COM,PR,,Chihak
+17498815,Smith,Nikki,07,,,,Drexler
+10170804,Meehan,Slade,02,EXP,,,Chaimov
+15356815,Tran,Will,02,EXP,,,Westberg
+JPN  115  01
+19109806,Nelson,Skye,01,EXP,,,Brown
+15226811,Perkins,Lauren,01,EXP,,,Affatigato
+19629807,Finch,Torrie,01,EXP,,,Herron
+17928811,Glandt,Aidan,01,EXP,,,Miller
+11679781,Squires,Danielle,04,ART,PR,,Goodson
+12752800,Tranel,Avery,02,EXP,,,Hughes
+10250805,Guyton,Luis,02,EXP,,,Akgun
+16626808,Houtz,Camden,01,EXP,,,Chaplin
+16757812,Bruggers,Ruben,01,EXP,,,Nordmann
+19508791,Haastrup,Ali,03,IS,ASC,FRE,Chaimov
+19548791,Zeonweh,Cornie,03,BIO,PSY,ASC,Christensen
+13693809,Pecharich,Joely,01,EXP,,,Hausknecht
+18566786,Roireau,David,04,REL,,HIS,Kensky
+14624809,Schnurr,Gracie,01,EXP,,,Nordmann
+16576809,Flatland,Brody,01,EXP,,,Farrell
+10721813,Collins,Chase,01,EXP,,,Nordmann
+12843811,McCollum,Graham,01,EXP,,,Nordmann
+18848804,Wilson,Amanda,01,EXP,,,Hughes
+11609786,Arrigoni,Joseph,04,ART,,,Goodson
+10470806,Roberts,Dolan,01,EXP,,,Chen
+KIN  100  01
+19099806,Lueken,Mickaela,01,EXP,,,Kensky
+15363782,Tanghe,Katie,04,BIO,NEU,,Storer
+14993796,Hoffman,Victoria,03,EXP,,,Atwater
+16027815,Pazour,Alexa,08,EXP,,,Chaimov
+12040787,Shapley,Drew,03,EXP,,,Westberg
+10268788,Neppl,Duy,03,POL,ECO,,Lanegran
+14732785,Ward,Mikel,04,BUS,PR,,Carstens
+14915815,Kaczmarek,Noah,08,EXP,,,Chaimov
+13332792,Phillips,Torrie,02,PSY,,,Brown
+19948797,Pittman,Gabriella,04,BUS,,,Christensen
+16305792,Butali,Andrea,02,KIN,,,Hausknecht
+11832810,Godfrey,Moet,01,EXP,,,Kelley
+18818806,Hite,Nathan,01,,,,Rydze
+18946787,Williams,Vada,04,BIO,,,Atwater
+15195804,Ausenhus,Jelica,02,EXP,,,Baranowski
+KIN  100  02
+16384785,Tassey,Cristina,04,ENG,CRW,SPA,Hausknecht
+12920782,Fox,Harry,04,BIO,,CHM,Duru
+17105788,Villegas,Annika,03,EXP,,,Rydze
+17428815,Lenz,Chloe,07,,,,Drexler
+12050782,Andeway,Gloria,04,KIN,,,Atwater
+10448786,Peterson,Alexia,04,SOC,SCJ,SPA,Barnett
+18907795,Westercamp,Caelan,03,ACP,BUS,,Melcher
+17915788,Brockmeyer,Jason,04,ART,,ARH,Rogers
+11899786,Long,Jade,03,BCH,,,Singleton
+17468815,Goldsmith,Maggie,07,,,,
+17498811,Irvin,Alexandria,01,EXP,,,Kelley
+17478815,Weishman,Hunter,07,,,,Drexler
+17498815,Smith,Nikki,07,,,,Drexler
+18939812,Silver,Luke,01,EXP,,,Perry
+KIN  100  05
+16197814,LaMaster,Gracie,01,EXP,,,Carr
+18527790,Urbatsch,Noah,02,BCH,,,Singleton
+11492812,Clay,Alex,01,EXP,,,Westberg
+18506781,Romero,Emma,04,IS,,ANT,Lanegran
+12279775,Mirelez,Parker,04,ART,,SEC,Thompson
+14382784,Robinson,Olivia,04,ENG,,ASC,Shaw
+19789802,Goist,Izzy,01,EXP,,,Rydze
+KIN  102  01
+10581814,Hewitt,Kiersten,01,EXP,,,Farrell
+18926788,Niehaus,Ella,03,CS,,,Buckaloo
+14905815,Cota,Phoenix,08,EXP,,,Chaimov
+10529792,Pazour,Grant,03,EXP,,,Singleton
+16685796,Varner,Cael,04,AAM,HIS,,McNabb
+17458815,Lovell,Ethan,07,,,,Drexler
+16357815,Alzuwaini,Andrew,08,EXP,,,Nordmann
+KIN  102  03
+19539807,Griswold,Jill,01,EXP,,,Nesmith
+12679773,Ihle,Riley,04,KIN,,,Rydze
+10621814,Urbatsch,Takamaru,02,EXP,,,Atwater
+13711784,Ball,Jasmine,03,SCJ,,,McNabb
+12501791,Garcia,Ben,03,KIN,,,Chaimov
+13062791,Sutton,Christian,02,EXP,,,Rydze
+10778787,Joyce,Timothy,03,KIN,,,Atwater
+12603815,Welch,Brian,01,EXP,,,Cross
+11982815,Sar,Milinda,02,EXP,,,Cozine
+19667788,Collins,Ashley,03,KIN,,SPA,Rydze
+18608803,Becher,Ausar,03,EXP,,,Drexler
+12630782,Staker,Jasmine,04,KIN,,,Atwater
+10228785,Schumacher,Lucas,04,KIN,,,Atwater
+18219810,Vickers,Kenidi,01,EXP,,,Perry
+14473796,Plesha,Will,02,EXP,,,Atwater
+19268793,Auen,Noah,04,KIN,BUS,,Atwater
+19769804,Meehan,Tori,03,KIN,,,Atwater
+KIN  102  04
+11969784,Allen,Valerie,03,BUS,,SPA,Baranowski
+12642808,Rowell,Josie,01,EXP,,,Kelley
+19728791,Frantz,Gabriella,03,ELM,,,Kress
+19769806,Shackelford,Evan,03,IBU,,,Kuennen
+11412812,Vickers,Shion,01,EXP,,,Cross
+17466794,Montalbano,Sarah,03,SCJ,SOC,,McNabb
+17728810,Powers,Isabelle,01,EXP,,,Cross
+14664805,Sipwoli,Lauden,02,EXP,,,Barnett
+KIN  102  05
+17875788,Lopez,Dylan,03,PSY,,,Farrell
+10398783,Dixon,Ashley,04,CHM,,PHY,St. Clair
+12760788,Chieng,Berrigan,03,BUS,PR,,Carstens
+17747804,Justice,Reagan,02,EXP,,,Leonardo
+19407786,Shahab,Sage,03,EXP,,,Akgun
+12900787,Schreckengast,Brittany,04,KIN,,,Rydze
+17335783,Miranda,Majad,03,PSY,,,Farrell
+16035791,Gonzalez,Slade,03,HIS,KIN,,Nordmann
+17445786,Carter,Lauren,03,NEU,BIO,,Brown
+15994794,Deaton,Madison,03,EXP,,,Chen
+17775785,Frost,Bridget,03,SCJ,HIS,,Arnold
+10038786,Smith,Jelani,04,POL,EVS,,Lanegran
+KIN  105  01
+11252815,Dillon,Bryce,01,EXP,,,Westberg
+18576781,Squires,Will,04,COM,,WTG,Buckaloo
+11112812,Suboh,Ashley,01,EXP,,,Chihak
+15154796,Askew,Valerie,03,PSY,KIN,HSS,Brown
+13401782,Velez,Mikel,04,BUS,,,Eichhorn
+14502786,Miranda-Estrada,Andrew,03,BUS,,,Rydze
+12493813,Dickson,Anisa,01,EXP,,,Miller
+17258812,Westercamp,Gracie,01,EXP,,,Hausknecht
+13512791,Reeves,Ryan,03,BUS,,,Atwater
+17315784,Brokaw,Brady,04,BUS,,,Kuennen
+17978814,Alejo,Alphonso,01,EXP,,,Perry
+16567811,Jaiswal,Ella,01,EXP,,,Christensen
+18179814,Huerta,Aryn,01,EXP,,,Hausknecht
+10988787,Blackmond,Josie,04,BIO,NEU,,Storer
+14614809,Watkins,Rachel,01,EXP,,,Herron
+16097814,Balachio,Karen,01,EXP,,,Herron
+16127812,Adelsberger,Cierra,01,EXP,,,St. Clair
+12912802,Valdivia Araya,Stone,02,EXP,,,Bragatto
+14473793,Weber,Alyse,03,ELM,,,Kress
+10511811,Duron,Kaitlyn,01,EXP,,,Rydze
+14694803,Jang,Elle,02,EXP,,,Kelly
+KIN  105  02
+17046799,Hall,Tamara,01,KIN,,,Rydze
+13484814,Eastman,Trisan,01,EXP,,,Affatigato
+10490807,Collins,Eilish,08,EXP,,,Chaimov
+10380808,Heer,Katie,01,EXP,,,Libby
+11351808,Hesley,Chris,01,EXP,,,Chen
+13294815,Kotula,Kat,01,EXP,,,Atwater
+14045813,Edwards,Bryant,01,EXP,,,Atwater
+19186778,Lyons,Zion,02,EXP,,,Rydze
+17208815,Morris,Bree,02,EXP,,,Hayes
+16477812,Fleck,Alexander,01,EXP,,,Atwater
+14535812,Schulte,Andy,01,EXP,,,Chihak
+11242815,Christiansen,Kaylei,01,EXP,,,Chaimov
+19889809,Gates,Christian,01,EXP,,,Perry
+11162810,Gonzalez,Tamara,01,EXP,,,Lanegran
+15606812,Canney,Bryce,02,EXP,,,Rydze
+10890804,Noor,Elise,02,EXP,,,Christensen
+16207810,Dreismeier,Jp,01,EXP,,,Hausknecht
+16137815,Sanchez,Grifen,02,EXP,,,Rydze
+KIN  110  01
+18048807,Groat,Lucas,01,EXP,,,Rydze
+13353808,Maas,Kaeli,01,EXP,,,Cross
+15455808,Alzuwaini,Josh,01,EXP,,,Rydze
+19259808,Marshall,Sage,01,EXP,,,St. Clair
+19428795,Morgan,Trisan,02,PHY,SPA,,Bragatto
+19670814,Glandt,Mason,01,EXP,,,Nordmann
+14434801,Loza,Megan,01,KIN,,,Rydze
+17567809,Shipman,Moet,01,EXP,,,Affatigato
+13901785,Patton,Pramisha,04,PSY,NEU,HSS,Brown
+11519788,Henderson,Peyton,04,KIN,PSY,,Atwater
+15585805,Becher,Adin,02,SCJ,PSY,,Kelly
+19787782,Starmann,Coeburn,04,BIO,NEU,CHM,Storer
+12693814,McLean,Christian,01,EXP,,,Nesmith
+14624805,Arrigoni,Maya,02,BIO,,,Storer
+KIN  115  01
+18199811,Riebhoff,Kieran,01,EXP,,,Herron
+10240808,Button,Kelli,01,EXP,,,Nordmann
+11161808,Stokes,Emily,01,EXP,,,Brown
+12592808,Meade,Kaydence,01,EXP,,,Rydze
+15675803,Hughes,John,02,EXP,,,Melcher
+14004808,Rowe,Gabe,01,EXP,,,Westberg
+14045815,Eastman,MJ,01,EXP,,,Hausknecht
+12562803,Ely,Rubin,04,PSY,,HSS,Farrell
+10080809,Hoppenjans,Sydney,01,,,,Cross
+15815803,Dahl,Samuel,02,EXP,,,Libby
+13983806,Buckley,Taylor,01,EXP,,,Chaimov
+15433789,Yuma,Luke,01,EXP,,,Brown
+17767809,Niemeyer,Lauren,01,EXP,,,Rydze
+14565815,Lawton,James,01,EXP,,,Hausknecht
+18508809,Zambrano,Isaac,01,EXP,,,Chaplin
+11220793,Dickerson,Abigail,03,PSY,,,Brown
+11731807,Ragins,Trenton,03,EXP,,,Storer
+12243814,Kline,Andrew,01,EXP,,,Miller
+12750780,Oware,Chrissy,04,PSY,NEU,,Baker
+KIN  115  02
+14095812,Koenen,Gavin,01,EXP,,,Rydze
+12339771,Frost,Katherine,,EXP,,,Eichhorn
+10800806,Griffin,Alex,02,EXP,,,Barnett
+12512806,Velez,Addie,01,EXP,,,Westberg
+16466803,Mahler,Allison,02,EXP,,,Atwater
+16936804,Schultz,Eva,02,EXP,,,Atwater
+19699808,Takeuchi,Madison,01,EXP,,,Atwater
+13683809,Roberts,Noah,01,EXP,,,Westberg
+18948803,Thomasson,Moet,01,SCJ,,,Hausknecht
+16177812,Barnes,Amaia,01,EXP,,,Kelley
+10070806,Jones,Lizandra,02,EXP,,,Stead
+18188802,Sly,Kaylynn,02,EXP,,,Perry
+17808814,Montoya,Toobejay,01,EXP,,,Westberg
+17496793,Richards,Josie,03,SCJ,,SOC,McNabb
+18539815,Vroman,Shannon,01,EXP,,,Rydze
+17615787,Mei,Jack,03,EXP,,,Atwater
+11512811,Goodwin,Aaminah,01,EXP,,,Christensen
+KIN  125  01
+16026805,Rayford,Xavier,01,EXP,,,Rydze
+16065798,Montes-Delgado,Ella,02,EXP,,,Russell
+17105786,Moeller,Aidan,03,KIN,,,Atwater
+11311803,Washington,Haley,02,EXP,,,Atwater
+15996811,Dohms,Meghan,01,EXP,,,Rydze
+15036812,Lukombo,Madison,01,EXP,,,Rydze
+13802794,Soto Rabago,Claudia,03,PSY,ORG,HSS,Baker
+14323794,Sayers,Jenna,03,EXP,,,Atwater
+10760809,Petrovic,Trisan,01,EXP,,,Atwater
+17036791,Lapray,Hailee,03,KIN,,,Atwater
+19987784,Winborne,Ashley,04,EDU,KIN,,Rydze
+11681801,Barnes,Myrna,03,KIN,,,Barnett
+11131804,Martin,Dylan,02,EXP,,,Hughes
+15325809,Schuler,Aaron,01,EXP,,,Herron
+15243780,Ortega,Anastasia,04,KIN,,SEC,Rydze
+19699805,Hilderbrand,Bryant,02,EXP,,,Lueth
+17436794,Herrman,Ra'niya,03,EXP,,,Eichhorn
+19588793,Jankowski,Emily,02,KIN,,,St. Clair
+KIN  155  01
+10708783,Salmi-Perry,Cooper,04,PSY,SCJ,,Barnett
+16064784,Epps,Jenna,03,PSY,NEU,,Kelly
+11360795,Esposito,Kellie,03,EXP,,,Lemos
+15434790,Gienapp,Sofia,03,PSY,,HSS,Kelly
+12992806,Bah,Kole,01,EXP,,,Herron
+12542803,Cook,Peculiar,02,EXP,,,Atwater
+14294800,Sandfort,Joey,02,EXP,,,Hughes
+15963784,Koenen,Dalton,03,PSY,NEU,,Baker
+18498808,Dukuly,Rush,01,EXP,,,Chaplin
+14683794,Arnold,Sofia,02,EXP,,,Libby
+14375814,Rayford,Jocelyn,01,EXP,,,St. Clair
+14533792,Hansen,Grace,03,BIO,,,Leonardo
+18408809,Tillery,Katie,01,EXP,,,Libby
+11482810,Gorden Mercer,Maui,01,EXP,,,Cross
+16266803,Wilson,Daniel,02,EXP,,,Chaimov
+15246815,Hernandez,Amanda,02,EXP,,,Leonardo
+16875795,Freeman,Kaitlyn,03,PSY,,,Farrell
+KIN  155  02
+13582790,Johanns,Clayton,02,EXP,,,Atwater
+14644808,Chaney-Pruitt,Piper,01,EXP,,,Libby
+15715803,Floyd,Lilly,01,EXP,,,Barnett
+17855788,Leonard,Maxine,04,SCJ,,,McNabb
+15655809,Mosinski,John,01,EXP,,,Perry
+18638801,Voss,Joi-Damaris,02,EXP,,,Rydze
+11899781,Mathis,Philip,04,HIS,,,Buckaloo
+10681810,Bohnen,Dolan,01,EXP,,,Libby
+11848773,Schumacher,Barron,04,SOC,SCJ,,Barnett
+14514805,Ishioka,Cas,02,EXP,,,Barnett
+10580807,Vickers,Michaela,01,EXP,,,Chaimov
+18489813,Brazell,Grace,01,EXP,,,Johnson
+14675814,Ellsworth,Kellie,01,EXP,,,Westberg
+16746803,Benson,Jaxon,02,PSY,,SOC,Kelly
+KIN  175  01
+13343803,Dickson,Becky,02,KIN,,,Cross
+18296785,Artalejo,Megan,04,ELM,,,Farrell
+16336808,Nosekabel,Ryan,01,EXP,,,Atwater
+18688808,Kim,Emi, IV,01,EXP,,,Johnson
+13390775,Hower,Supy,04,HIS,,,Atwater
+11561801,Camargo,Nicholas,02,EXP,,,Atwater
+16346805,Crosby,Brianna,02,KIN,,,Hausknecht
+14742786,Rowland,Alex,03,MTH,,SEC,White
+18207794,Kohl,Adolfo,02,EXP,,,Lensing
+13632793,Goldsmith,James,02,KIN,,,Chandler
+KIN  201  01
+17936795,Chambers,Abigail,03,BUS,,ECO,Kuennen
+14423790,Stiles,Shotaro,02,EXP,,,Chen
+11461807,Daoud,Jack,03,KIN,,,Rydze
+18278806,Win,Ali,02,EXP,,,Akgun
+13681785,Rajkarnikar,Jordyn,03,SPA,,SEC,Johnson
+17047805,Norris,Suzanna,02,ELM,KIN,SEC,Cross
+13503804,Cota,Jasmine,02,EXP,,,Leonardo
+10718789,Hein-Harrison,Estela,04,ECO,BUS,,Baranowski
+13771781,Zambrano,Alexis,04,BIO,CHM,,Storer
+10090805,Blunk,James,01,EXP,,,Atwater
+15475805,Noel,Joseph,01,EXP,,,Rydze
+18727792,Cargille,Caitlin,03,ELM,,,Kress
+11849781,Rogers,Allyssa,04,HIS,,SEC,Johnson
+18257794,Shapley,Breana,03,BUS,,,Christensen
+14955815,Baldwin,Eilish,02,EXP,,,Leonardo
+14285815,Hodges,Liana,02,EXP,,,Christensen
+19158795,Empen,Bianca,03,BUS,,ECO,Rydze
+15463782,Burkhart,Amanda,04,BUS,,,Baranowski
+KIN  215  01
+17128815,Franzen,Mark,08,DEX,,,Chaimov
+17086797,Thomasson,Tyler,03,EXP,,,Atwater
+18168806,Klesert,Ella,04,BUS,,,Eichhorn
+11500791,Strong,Jacquelyne,03,EXP,,,Affatigato
+12291791,Ford,Joel,03,SOC,,,McNabb
+15634796,Hilton,Ethan,04,SCJ,,,Atwater
+13012799,Peterson,Catherine,04,BCH,CHM,CS,Stead
+15654794,Costello,Valerie,02,EXP,,,Kensky
+15314792,Matchette,Cassandra,03,BUS,,ECO,Chaplin
+13863804,Ishimwe,Micah,01,EXP,,,Stead
+15376812,Schulte,Rachel,03,EXP,,,Farrell
+14684806,Davis,Gabriella,01,EXP,,,Nguyen
+10928786,Flores-Lopez,Ausar,03,EXP,,,Atwater
+KIN  225  01
+18187795,Dutcher,Anne,03,EXP,,,Atwater
+13873805,Almarales,Anushree,03,PE,,HSS,Rydze
+KIN  315  01
+14073793,Schroeder,Precious,03,EXP,,,Rydze
+KIN  385  01
+13330778,Cadien,Lauden,04,EXP,,,Falk
+10088787,Kuehner,Bryce,04,PSY,KIN,,Kelly
+KIN  440  01   W
+19886777,Chambless,James,02,EXP,,,Kuennen
+18375775,Haynes,Marissa,04,KIN,,HSS,Fairbanks
+18466780,Hyatt,Talia,04,PSY,KIN,,Rydze
+KIN  442  01
+17205782,Boettger,Jill,04,KIN,PR,,Atwater
+13210776,Abshire,Noah,04,BUS,KIN,,Westberg
+MU   109  01
+18769811,Flatland,Chloe,01,EXP,,,Chihak
+11092812,Plagge,Precious,01,EXP,,,Wolgast
+19159803,Newton,Abbey,01,EXP,,,Sodeman
+17928811,Glandt,Aidan,01,EXP,,,Miller
+12263812,Collins,Taylor,01,EXP,,,Cross
+11181809,Gonzalez,Sydney,01,EXP,,,Farrell
+12522809,Dishman,Sofia,01,EXP,,,Wolgast
+18817791,Saskowski,Gavin,03,EXP,,,Kensky
+15425804,Enzeroth,Amber,01,MUS,ELM,,Shanley
+18878806,Beck,Mary,01,EXP,,,Hatchell
+16837814,Tomes,Nessa,01,EXP,,,Lanegran
+10450802,Williams,Katherine,02,CRW,,MUS,Barnett
+12193810,Dillon,DeeDee,01,EXP,,,Wolgast
+12443814,Ameku,William,01,EXP,,,Carr
+14405810,Heath,Ethan,01,EXP,,,Wolgast
+13864814,Hidlebaugh,Graham,01,EXP,,,Wolgast
+18969811,Kelsey,Tracy,01,EXP,,,Wolgast
+MU   151  01
+17647807,Krizizke,Haley,01,EXP,,,Chaimov
+10490807,Collins,Eilish,08,EXP,,,Chaimov
+10447778,Cummins,Kayla,03,EVS,POL,CRW,Ellis
+18279811,Leotte da Silva,Skyler,01,EXP,,,Christensen
+18128805,Krestel,Emily,01,EXP,,,Wolgast
+13711784,Ball,Jasmine,03,SCJ,,,McNabb
+13832794,Mau,Shotaro,02,EXP,,,Chaimov
+17287806,Worthington,Raymond,01,EXP,,,Perry
+MU   251  01
+12760788,Chieng,Berrigan,03,BUS,PR,,Carstens
+14732785,Ward,Mikel,04,BUS,PR,,Carstens
+11339781,Mosinski,John,02,COM,,,Westberg
+10359795,Olney,Kate,02,ECO,,SEC,Westberg
+MU   285  01
+15034790,Schulte,Emily,03,MUS,,,Chaplin
+10119797,La Rosa,Abby,03,MUS,,,Shanley
+13582794,Miranda-Estrada,Jay,03,MUS,,,Carson
+12700781,Thurow,Melanie,04,MUS,,,Shanley
+16745792,Goode,Collin,03,MUS,,,Carson
+14373799,Kurimski,Emily,04,EXP,,,Shanley
+11060793,Hemaidan,Joshua,04,EXP,,,Falk
+MU   309  01
+11581803,Hemaidan,Analise,02,MUE,,,Shanley
+18428805,Collins,John,02,MUS,,,Shanley
+12032801,Vroman,Tamara,02,COM,,MUS,Donofrio
+12222801,Hanson,Eva,02,MUS,HIS,,Barnett
+10441816,Shelby,Karen, III,15,EXP,,,Wolgast
+13373801,Clayton-Deavers,Lauren,02,MUE,,,Shanley
+17547801,Valenzuela,Kaleb,02,MUE,,,Shanley
+18528806,Plagge,Kiah,02,MUS,,,Shanley
+10461816,Gage,Jeana,15,EXP,,,Wolgast
+10421816,Lindgren,Jocelyn,15,EXP,,,Wolgast
+MU   421  01
+17006794,Petrovic,Ryan,03,EVS,BIO,MUS,Ellis
+MUA  100  01
+18618807,Powell,Samantha,01,EXP,,,Wolgast
+18958807,Fowler,Ryan,01,EXP,,,Kelley
+11231803,Brown,Hailey,01,EXP,,,Hoover
+15034790,Schulte,Emily,03,EXP,,,Chaplin
+10320808,Reeves,Mitchell,01,EXP,,,Chaimov
+10380808,Heer,Katie,01,EXP,,,Libby
+19367781,Chieng,Jack,04,BIO,MOL,CHM,Christensen
+19148799,Lister,Adin,02,EXP,,,Hayes
+18716780,Leonard,Karen,04,MTH,EVS,ECO,Miller
+17928811,Glandt,Aidan,01,EXP,,,Miller
+19869804,Daynuah,Megan,02,POL,SCJ,PHL,Lanegran
+13683808,Niyirukundo,Connor,01,EXP,,,Wolgast
+12452800,Lona Garcia,Charles,02,EXP,,,Westberg
+10119797,La Rosa,Abby,03,MUS,,,Shanley
+14234800,Doak,Tory,02,EXP,,,Akgun
+13582794,Miranda-Estrada,Jay,03,MUS,,,Carson
+12693811,Arnold,Felicia,01,EXP,,,Wolgast
+12263812,Collins,Taylor,01,EXP,,,Cross
+13092791,Hommowun,Allison,03,BUS,ACM,ECO,Perry
+17267808,Klein,Nathan,01,EXP,,,Miller
+17107800,Ropa,Adam,02,BIO,ENV,,Barnett
+17127800,Jones,Katie,02,EXP,,,Perry
+10030809,Stegen,Jack,01,EXP,,,Affatigato
+17515783,Martinek,Destini,04,BIO,NEU,FRE,Christensen
+14905815,Cota,Phoenix,08,EXP,,,Chaimov
+12342809,Wright,Bryan,01,EXP,,,Lanegran
+15425804,Enzeroth,Amber,01,MUS,ELM,,Shanley
+12032801,Vroman,Tamara,02,COM,,MUS,Donofrio
+12222801,Hanson,Eva,02,MUS,HIS,,Barnett
+13373801,Clayton-Deavers,Lauren,02,MUE,,,Shanley
+12700781,Thurow,Melanie,04,MUS,,,Shanley
+16745792,Goode,Collin,03,MUS,,,Carson
+14373799,Kurimski,Emily,04,EXP,,,Shanley
+19909801,Singleton,Daniel,02,HIS,,MUS,Buckaloo
+12273813,Ragins,Yarelis,01,EXP,,,Cross
+14405810,Heath,Ethan,01,EXP,,,Wolgast
+11910793,Malone,Jaimee,03,EXP,,,Bragatto
+MUA  100  01
+13864814,Hidlebaugh,Graham,01,EXP,,,Wolgast
+14374802,Nunez,Hailey,03,KIN,PSY,HSS,LeMay-Lewis
+14474802,Fleck,Lauren,02,EXP,,,McQueen
+16256802,Collins,Jaxon,02,EXP,,,Ellis
+17037802,Hoppenjans,Lauren,02,ACP,BUS,,Perry
+13884813,Mba,Genny,01,EXP,,,Libby
+14062784,Lapray,Victoria,04,CHM,BCH,ANT,Singleton
+13004815,Plesha,Kellie,01,EXP,,,Rydze
+MUA  100K 01
+12522809,Dishman,Sofia,01,EXP,,,Wolgast
+17287806,Worthington,Raymond,01,EXP,,,Perry
+18969811,Kelsey,Tracy,01,EXP,,,Wolgast
+MUA  101  01
+13181781,Welna,Reyna,04,PHY,,,Akgun
+10248784,Kendle,Thanh,04,PHY,CS,,Akgun
+12862803,Villarreal,Kennedy,02,POL,,,Nesmith
+16904782,Johns,Brianna,03,CRW,ENG,,McQueen
+13472794,Robinson,Lauren,03,BCH,,,Stead
+19168791,Blue,Carter,03,PHY,,,Affatigato
+16976803,Theriault,Tara,02,PHY,,,Affatigato
+11242815,Christiansen,Kaylei,01,EXP,,,Chaimov
+19039809,Nunez,Eleanor,01,EXP,,,Nesmith
+MUA  101K 01
+11092812,Plagge,Precious,01,EXP,,,Wolgast
+11860795,Grech,Kyle,03,BUS,PSY,,Melcher
+18128805,Krestel,Emily,01,EXP,,,Wolgast
+16317814,Martin,Ana,02,EXP,,,Shanley
+11581803,Hemaidan,Analise,02,MUE,,,Shanley
+18428805,Collins,John,02,MUS,,,Shanley
+18588809,Cook,Camille,01,EXP,,,Chaimov
+17547801,Valenzuela,Kaleb,02,MUE,,,Shanley
+18528806,Plagge,Kiah,02,MUS,,,Shanley
+12193810,Dillon,DeeDee,01,EXP,,,Wolgast
+12443814,Ameku,William,01,EXP,,,Carr
+13774810,Hardman,Nia,01,EXP,,,Johnson
+13133802,Appleby-Sparrow,Alayna,02,EXP,,,Hausknecht
+15684793,Schlichting,Pramisha,03,BIO,NEU,SPA,Christensen
+12483812,Wendt,Monét,01,EXP,,,Carr
+MUA  101P 01
+18769811,Flatland,Chloe,01,EXP,,,Chihak
+12570789,Lynas,Kaleb,04,PSY,THE,,Brown
+11782810,Kolade,Hailey,01,EXP,,,Christensen
+MUA  101S 01
+14002788,Russell,Natalie,04,BUS,ACM,,Melcher
+17396799,Kappeler,Victoria,01,EXP,,,Leonardo
+13143803,Doromal,Diana,02,BUS,ECO,,Westberg
+16384786,Seidel,Cameron,04,MUE,,,Falk
+19617780,Klutts,Gloria,04,BIO,NEU,CHM,Cozine
+15475808,Carey,Victoria,01,EXP,,,St. Clair
+12503813,Fang,Orion,01,EXP,,,Rodriguez Moreno
+17207800,Falck,Ayesha,02,EXP,,,Russell
+18738808,Greiner,Marguerite,01,EXP,,,Farrell
+12182809,Brockmeyer,Isabelle,01,EXP,,,Nesmith
+19300814,Kendle,Chris,01,EXP,,,Wolgast
+11831803,Aitchison,Austin,02,EXP,,,Recker
+18158805,Yuma,Erica,02,EXP,,,Stead
+16206804,Malone,Simon,01,ELM,MUS,,Shanley
+18718801,Goode,Graham,02,BIO,ENV,SPA,Stead
+13233805,Palmer,Keegan,02,ACP,BUS,,Cross
+10450802,Williams,Katherine,02,CRW,,MUS,Barnett
+16607811,Stucke,Kendra,01,EXP,,,Nordmann
+15596812,Morris,Abdi,01,EXP,,,Keenan
+18726784,Arrigoni,Kathya,04,PHY,PSY,,Akgun
+15855805,Christiansen,Mackenzie,02,POL,IS,,Chaimov
+MUA  101V 01
+17006794,Petrovic,Ryan,03,EVS,BIO,MUS,Ellis
+1507,Wolgast, Brett  A.,12,,,,
+MUA  101W 01
+19029807,Clarke,Kiily,01,EXP,,,Chaimov
+15024790,Gray,Lolo,03,PSY,NEU,,Chihak
+19629807,Finch,Torrie,01,EXP,,,Herron
+13690776,Carrasco,Amanda,04,THE,EVS,,White
+11350791,Doromal,Abdi,03,BSN,,SPA,Siems
+17158814,Plesha,Amaia,01,EXP,,,Rodriguez Moreno
+16496800,Marcellus,Taylor,02,BIO,SCJ,,Cozine
+13221781,Ishimwe,Naomi,04,THE,PSY,SEC,Kelly
+11181809,Gonzalez,Sydney,01,EXP,,,Farrell
+11632813,Bushbaum,Josabeth,01,EXP,,,Chen
+12502809,Kinsler,Christal,01,EXP,,,Westberg
+13093809,Neppl,Micah,01,EXP,,,Rodriguez Moreno
+16055797,Menke,Lilly,03,HIS,,SEC,Nordmann
+14914809,Marshall,Kayla,01,EXP,,,Brown
+11792813,Fang,Izzy,01,EXP,,,Chaplin
+12413810,Pio,Moet,01,EXP,,,Chaimov
+11181807,Preheim,Zachary,03,EXP,,,Hughes
+MUA  103  01
+14155810,Miller,Michaela,01,EXP,,,Affatigato
+11060793,Hemaidan,Joshua,04,EXP,,,Falk
+18756786,Huston,Sienna,04,THE,CRW,,Aspengren
+13591784,Westercamp,Trevor,03,PSY,SCJ,,Brown
+14774804,Wei,Toobejay,02,EXP,,,Nguyen
+11582815,Leon-Flores,Dylan,01,EXP,,,Rodriguez Moreno
+16947810,Philpott,Ali,01,EXP,,,Chihak
+18526786,Menke,Julia,04,ELM,,,Kress
+11229786,Malin,Cameron,03,ART,,,Thompson
+16875793,Duron,Julian,04,BIO,ENV,REL,Kensky
+10901815,Eichhorn,Ali,01,EXP,,,Kelley
+18437793,Malone,Shaylee,03,IBU,,FRE,Chen
+19779802,Callahan,Charles,02,ACP,,,Perry
+MUA  103K 01
+17037808,Morganti,Rami,01,EXP,,,Perry
+19699808,Takeuchi,Madison,01,EXP,,,Atwater
+12750781,Porter,Kiily,04,BIO,,CHM,Christensen
+14445813,Duran-Montero,Jennifer,01,EXP,,,Carr
+10361814,Alzuwaini,Anne,01,EXP,,,Chaimov
+MUA  105  01
+10520801,Newell,Mia,02,THE,ENG,,Hayes
+12731792,Palmer,Mouyseang,02,POL,,,Nesmith
+MUA  110V 01
+12022805,Stauffacher,Donae,01,EXP,,,Falk
+17445786,Carter,Lauren,03,NEU,BIO,,Brown
+17458815,Lovell,Ethan,07,,,,Drexler
+11790798,Kirk,Laine,02,EXP,,,Drexler
+MUA  111  01
+14242789,Sukalski,Michaela,04,IBU,CS,,Melcher
+NUR  100  01
+18258807,Hines,Jaylon,01,EXP,,,Affatigato
+18728807,Langerud,Jania,01,EXP,,,Lanegran
+19179807,Verchimak,Nils,01,EXP,,,Christensen
+19539807,Griswold,Jill,01,EXP,,,Nesmith
+12623811,Nido,Patrick,01,EXP,,,Westberg
+11091808,Kolpin,Luis,01,EXP,,,Westberg
+11751808,Decker,Clayten,01,EXP,,,Brown
+13923808,McLean,Adam,01,EXP,,,Brown
+14524808,Granderson,Crystal,01,EXP,,,Herron
+15455808,Alzuwaini,Josh,01,EXP,,,Rydze
+11242812,Esposito,Emma,01,EXP,,,Libby
+15586815,Niemeyer,Amirah,01,EXP,,,St. Clair
+18758808,Gienapp,Peyton,01,EXP,,,Johnson
+19869808,Elliott,Nico,01,EXP,,,Rodriguez Moreno
+10020809,Lister,Daniela,01,EXP,,,Johnson
+19670814,Glandt,Mason,01,EXP,,,Nordmann
+14375814,Rayford,Jocelyn,01,EXP,,,St. Clair
+13223809,Verchimak,Jazmin,01,EXP,,,Miller
+18719812,Guyton,Garrett,01,EXP,,,Christensen
+13413809,Rajkarnikar,Brady,01,EXP,,,Perry
+16987812,Mills,Kenidi,01,EXP,,,Christensen
+14205811,Baney,Andrew,01,EXP,,,Libby
+14624809,Schnurr,Gracie,01,EXP,,,Nordmann
+15655809,Mosinski,John,01,EXP,,,Perry
+16977813,Starry,Ella,01,EXP,,,Christensen
+14555815,Wood,Claire,01,EXP,,,Kelley
+17327809,Welna,Dominic,01,EXP,,,Herron
+17767809,Niemeyer,Lauren,01,EXP,,,Rydze
+17977809,Atz,Chance,01,EXP,,,Libby
+18108809,Kendle,Will,01,EXP,,,Atwater
+16466809,McCrary,Jay,01,EXP,,,Chaimov
+18918809,Austin,Allie,01,EXP,,,Hausknecht
+16576809,Flatland,Brody,01,EXP,,,Farrell
+19369809,Kurimski,Myah,01,EXP,,,Atwater
+16977810,Rausch,Hailee,01,EXP,,,Westberg
+13554815,Thurow,Xavier,02,BSN,,,Bursch
+15526812,Sanchez,Cassi,10,EXP,,,Umbarger-Mackey
+14874807,Leon-Flores,Murphy,01,EXP,,,Chaplin
+18339814,Pohren,Robert,01,EXP,,,Kelley
+NUR  100  01
+16607811,Stucke,Kendra,01,EXP,,,Nordmann
+12493810,Kruse,Kyle,01,EXP,,,Christensen
+12933810,Manternach,Allison,01,EXP,,,Libby
+14155810,Miller,Michaela,01,EXP,,,Affatigato
+11582815,Leon-Flores,Dylan,01,EXP,,,Rodriguez Moreno
+16947810,Philpott,Ali,01,EXP,,,Chihak
+17488810,Patton,Jp,01,EXP,,,Chaplin
+17778810,Wever,Jack,01,EXP,,,Kelley
+12903811,Mills,John,01,EXP,,,Libby
+18719810,Jones,Karen,01,EXP,,,Chaplin
+12753812,Whaley,Madison,01,EXP,,,Carr
+10071811,Seymour,Madalyn,01,EXP,,,Kelley
+12483812,Wendt,Monét,01,EXP,,,Carr
+14555811,Kinsler,Thanh,01,EXP,,,Cross
+10931811,Finch,Elijah,01,EXP,,,Lanegran
+13004815,Plesha,Kellie,01,EXP,,,Rydze
+NUR  200  01
+13893806,Pazour,Julie,02,BSN,,,Siems
+17476799,La Ronge,Camille,02,BSN,,,Umbarger-Mackey
+11301803,Rockwell,Shaylee,02,EXP,,,Umbarger-Mackey
+12693815,Ge,Geoffrey,02,EXP,,,Bursch
+13493800,Voltaire,Karen,02,EXP,,,Tobin
+14294800,Sandfort,Joey,02,EXP,,,Hughes
+16936804,Schultz,Eva,02,EXP,,,Atwater
+18788803,Thao,Jp,02,BSN,,,Siems
+12012801,Kerns,Shelby,02,EXP,,,Brown
+13553809,Kunkel,Johncarlos,01,EXP,,,Wolgast
+17617803,White,Kelly,02,EXP,,,Bursch
+18288805,Clinton,Trevor,02,BSN,,,Bursch
+11851803,Canney,Ben,02,EXP,,,Johnson
+14694801,Mahler,Allesyn,02,EXP,,,Bursch
+15905804,Kirk,Cassandra,02,BSN,,,Brown
+10340802,Koshikawa,Michaela,02,EXP,,,Siems
+11031802,Campbell,Abdi,01,EXP,,,Stead
+13933803,Tostado,Brady,01,EXP,,,Umbarger-Mackey
+17258815,Kempf,Meagan,02,EXP,,,Umbarger-Mackey
+11981805,Thomasson,Jackie,02,BSN,,,Siems
+NUR  200  02
+10229791,Doran,Victoria,03,EXP,,,Umbarger-Mackey
+11270796,Strauel,Keegan,03,BSN,,HSS,Bursch
+11820794,Floyd,Casey,03,BSN,,,Umbarger-Mackey
+15854790,Kirk,Sydney,03,EXP,,,Umbarger-Mackey
+19088799,Plagge,Kei'Yona,02,BSN,,,Siems
+19638799,Swain,Max,03,BSN,,,Umbarger-Mackey
+11540795,Thrapp,Eliza,03,BSN,,,Tobin
+11640795,Cochran,Ellinor,03,EXP,,,Siems
+10909791,Hatfield,Kaleb,03,BSN,,,Bursch
+11350791,Doromal,Abdi,03,BSN,,SPA,Siems
+12991791,Wilson,Guy,02,EXP,,,Siems
+11282814,Bryant,Allison,02,EXP,,,Umbarger-Mackey
+18407797,Shelley,Emily,03,EXP,,,Bursch
+17955786,Chang,Curtis,02,EXP,,,Bursch
+18677795,Kowal,Andrew,03,BSN,,,Thompson
+19138796,Dishman,Devin,03,EXP,,,Recker
+13212795,Neppl,Bianca,03,BSN,,,Tobin
+16845794,Starry,Alexa,02,BSN,,,Siems
+12672807,Williams,Amanda,03,BSN,,,Siems
+17316794,Chuong,Thomas,03,EXP,,,Thompson
+14884807,Rosas,Kei'Yona,03,BSN,,,Umbarger-Mackey
+14153793,Edwards,Kenzie,03,EXP,,,Tobin
+14983797,Tigges,Emma,03,EXP,,,St. Clair
+16567814,Morgan,Maya,02,EXP,,,Bursch
+17826793,Konrardy,Michael,03,EXP,,,Umbarger-Mackey
+10559795,Webb,Grifen,03,EXP,,,Umbarger-Mackey
+NUR  360  01
+18526782,Malin,MyKeisha,04,BSN,,,Umbarger-Mackey
+14463799,Meyer,Kennedy,04,BSN,,,Bursch
+18186780,Keninger,Madi,04,BSN,,,Bursch
+11659781,Brown,Talia,04,BSN,,,Siems
+17355784,LaMaster,Dylan,04,BSN,,SPA,Siems
+13451782,Brockmeyer,Caroline,04,BSN,,,Bursch
+13501782,Hawes,Harry,04,BSN,,,Bursch
+19547785,Shevchuk,Ammar,04,BSN,,,Rydze
+18156785,Varney,Matthew,04,BSN,,,Siems
+18105777,Wihlm,Rita,04,EXP,,,Bursch
+11109781,Kelsey,Milla,04,BSN,,,Bursch
+11949788,Brazell,Samantha,04,BSN,,,Chaimov
+19606775,Silva,James,04,BSN,,,Umbarger-Mackey
+17765786,Edwards,Matthew,04,BSN,,,Cozine
+10418781,Soto Rabago,Avery,04,EXP,,,Goodson
+13321781,Perea,Konnor,04,BSN,,,Cozine
+13831785,Hardman,Nigel,04,BSN,,,Atwater
+13411781,Buchanan,Claire,04,BSN,,,Farrell
+17805782,Sheperd,Izabel,04,BSN,,,Cross
+16364784,Trebon,Sar,04,EXP,,,Kelly
+16964785,Kuehner,Mylz,04,BSN,,,Farrell
+PHL  105  01   W
+13213808,O'Rourke,Kaalyn,01,EXP,,,Lanegran
+11451800,Thurow,Tamara,02,ELM,,,Russell
+14124808,Freese,Emily,01,EXP,,,Chen
+14584808,Jacobs,Sofia,01,EXP,,,Chihak
+16336808,Nosekabel,Ryan,01,EXP,,,Atwater
+16936804,Schultz,Eva,02,EXP,,,Atwater
+17547808,Burkhart,Judas,01,EXP,,,Carr
+11551803,Peterson,Matt,02,EXP,,,Baranowski
+18688808,Kim,Emi, IV,01,EXP,,,Johnson
+14915815,Kaczmarek,Noah,08,EXP,,,Chaimov
+13713809,Barnes,Caelan,02,EXP,,,Brown
+15765801,Empen,Hannah,01,EXP,,,Hatchell
+17027809,Buckley,Max,01,EXP,,,Brown
+17728812,Haupts,Ella,01,EXP,,,Johnson
+19689809,Meyer,Braden,01,EXP,,,Nesmith
+13863804,Ishimwe,Micah,01,EXP,,,Stead
+16567815,Salmi-Perry,Jerry,01,EXP,,,St. Clair
+15166815,Steele,Ethan,01,EXP,,,Nordmann
+19587787,Empen,Ben,03,BUS,,,Lensing
+19529802,Askew,Tamara,02,EXP,,,Stobb
+11582811,Summerfield,Abby,01,EXP,,,Wolgast
+PHL  115  01
+12633811,Jung,Bassel,01,EXP,,,Chaplin
+10998781,Collins,Adrianna,04,PHY,CHM,,Akgun
+15305800,Nelson,Mitchell,01,EXP,,,Hausknecht
+12882807,Button,Makayla,01,FLM,,,Lanegran
+17067800,Hickey,Alex,02,EXP,,,Christensen
+18219815,Morrison,Fiona,01,EXP,,,Chen
+16544783,Anstett,Berrigan,04,BUS,,COM,Barnett
+12502809,Kinsler,Christal,01,EXP,,,Westberg
+12360788,Browne,Dolan,04,CS,ECO,,Eichhorn
+18566787,Chambers,Victoria,04,ENG,PHL,,Aspengren
+15635801,Hansen,Melodie,02,PSY,,,Lee
+18168809,Ridgway,Chrissy,01,EXP,,,Cross
+19039809,Nunez,Eleanor,01,EXP,,,Nesmith
+11922810,Amezcua,Jason,01,EXP,,,Hausknecht
+13214810,Brosius,Will,01,EXP,,,Christensen
+10861815,Hardman,Kate,01,EXP,,,Brown
+12021793,Tomida,Carlin,03,PHY,CS,,Affatigato
+13893802,Nelson,Cassie,02,EXP,,,Nesmith
+13134813,Adams,Kayla,01,EXP,,,Kelley
+10228785,Schumacher,Lucas,04,KIN,,,Atwater
+15686814,Kolpin,Madeline,01,EXP,,,Kelley
+18489813,Brazell,Grace,01,EXP,,,Johnson
+17445788,Stallman,Natalie,04,BUS,,,Barnett
+10328781,Meyer,Skyler,04,HIS,PHL,,Keenan
+PHL  128  01   W
+17146799,Meyer,Murphy,02,COM,,PHL,Hausknecht
+19589807,Pohren,James,01,EXP,,,Nesmith
+13864811,Birgy,Sarah,01,EXP,,,Chen
+18926788,Niehaus,Ella,03,CS,,,Buckaloo
+11121808,Loza,Adam,01,EXP,,,Rydze
+14704808,Lemke,Erica,01,EXP,,,Chihak
+10671814,Starmann,Aubrey,01,EXP,,,Rodriguez Moreno
+16496800,Marcellus,Taylor,02,BIO,SCJ,,Cozine
+18817791,Saskowski,Gavin,03,EXP,,,Kensky
+14914809,Marshall,Kayla,01,EXP,,,Brown
+10359797,Hernandez,Trevor,03,POL,,REL,Rodgers
+16305792,Butali,Andrea,02,KIN,,,Hausknecht
+12413810,Pio,Moet,01,EXP,,,Chaimov
+13933803,Tostado,Brady,01,EXP,,,Umbarger-Mackey
+14073793,Schroeder,Precious,03,EXP,,,Rydze
+15626812,Mahlberg,Abby,01,EXP,,,Carr
+18219810,Vickers,Kenidi,01,EXP,,,Perry
+13291781,Marshall,Faith,03,COM,PR,,Chihak
+16975793,Dahl,Eric,02,SOC,ENV,,Rodgers
+17436795,Cook,Emily,03,PSY,IS,,Brown
+PHL  240  01   W
+13992790,Hanrahan,Philip,03,SCJ,,PHL,Rodgers
+11219789,Walleser,Alexander,04,CS,PHL,,Cozine
+17007806,Wronski,Adolfo,01,CS,DS,,Stobb
+19869804,Daynuah,Megan,02,POL,SCJ,PHL,Lanegran
+11849787,Green,Ali,04,POL,ECO,PHL,Westberg
+19407786,Shahab,Sage,03,EXP,,,Akgun
+14523794,Martinez,Jacob,03,SCJ,,PHL,McNabb
+13393804,Decker,Brianda,02,PHL,POL,,Barnett
+16343776,Hodges,Alec,03,ARH,,ART,Lueth
+13841782,Ferrie,Kaleb,04,MTH,,SPA,Hoover
+14253792,Krueger,Rami,03,ART,CS,,Rogers
+11019789,Zack,Megan,04,ECO,,PHL,Lensing
+15512777,Tarbert,Madison,04,ACM,BUS,MUS,Melcher
+11550793,Linnear,Josie,02,EXP,,,Falk
+14183793,Sosa,Sunny,03,POL,HIS,,Nordmann
+16504787,Escalante,Charles,03,SCJ,,PHL,McNabb
+PHL  245  01   W
+16026805,Rayford,Xavier,01,EXP,,,Rydze
+14883790,Brown,Kellie,03,ECO,PHL,,Eichhorn
+14205815,Jones,Moet,02,EXP,,,Melcher
+10450800,Mcluen,Cassandra,01,ACP,,,Perry
+13832794,Mau,Shotaro,02,EXP,,,Chaimov
+13062791,Sutton,Christian,02,EXP,,,Rydze
+10168782,John,Alexa,04,BUS,,PHL,Donofrio
+17045786,Vandergriff,John,04,SCJ,SOC,,Hoover
+11841802,Starmann,Taven,02,NEU,PSY,,Cross
+19357780,Morgan,Allison,04,EVS,PHL,SPA,St. Clair
+17045788,Brazell,Kyle,04,BIO,NEU,CHM,Kelly
+15284793,Jackson,Elli,03,EXP,,,Lensing
+11899782,Cook,Cas,04,POL,PHL,HIS,Hoover
+PHL  345  01   W
+12750781,Porter,Kiily,04,BIO,,CHM,Christensen
+PHY  114  01
+13292790,Ihle,Aryn,03,ENG,,SPA,Sodeman
+17946795,Duron,Nils,03,BUS,,,Eichhorn
+17086797,Thomasson,Tyler,03,EXP,,,Atwater
+12621794,Tredway,Will,03,BUS,ECO,,Eichhorn
+14292782,Walker,Emily,04,BUS,PR,COM,Westberg
+19420812,Arduser,Ryan,01,EXP,,,Brown
+13092794,Kim,Jack,03,SCJ,PSY,COM,Kensky
+13831781,Duron,Alex,04,ELM,,,Kress
+13652794,Imler,Abdullah,02,PSY,,,Chaimov
+13832794,Mau,Shotaro,02,EXP,,,Chaimov
+17445787,La Rosa,Madison,03,BUS,,,Kuennen
+17267808,Klein,Nathan,01,EXP,,,Miller
+13681785,Rajkarnikar,Jordyn,03,SPA,,SEC,Johnson
+13781782,Cooper,Josh,04,FRE,HIS,,Chaimov
+17127800,Jones,Katie,02,EXP,,,Perry
+14453791,Hardman,Will,02,EXP,,,Perry
+18447795,Dylan,Claudia,03,BUS,,,Bragatto
+10168782,John,Alexa,04,BUS,,PHL,Donofrio
+14902784,Henderson,Michael,04,SCJ,,POL,Janca-Aji
+11869788,Almarales,Bree,04,SCJ,BUS,,Barnett
+14345811,McCrary,Leilani,01,EXP,,,Lanegran
+16565792,Wells,Kalei,03,SOC,SCJ,GSS,Barnett
+16975796,Keppler,Jazmin,03,SCJ,BUS,,Recker
+17568815,Hanrahan,Reagan,01,EXP,,,Farrell
+19757788,McMichael,Maria,04,POL,SCJ,REL,Westberg
+19738792,Schmit,Lauren,03,BUS,ECO,,Baranowski
+14732782,Rivera,Julia,04,BUS,POL,REL,Donofrio
+18207794,Kohl,Adolfo,02,EXP,,,Lensing
+13591784,Westercamp,Trevor,03,PSY,SCJ,,Brown
+18787794,Valley,Andrea,03,BUS,,,Atwater
+18516788,Sykes-Brooks,Noah,04,BUS,,,Eichhorn
+19047789,Nwosu,Simon,03,ELM,,,Kress
+18526786,Menke,Julia,04,ELM,,,Kress
+16106802,Tranel,Ben,01,EXP,,,Recker
+19918794,Riebhoff,Zay,02,EXP,,,Nesmith
+19348795,Weltha,Carlie,03,CRW,COM,THE,Shaw
+PHY  114L 02
+19109806,Nelson,Skye,01,EXP,,,Brown
+14693790,Sutton,Noah,03,BIO,MOL,,Ellis
+19367781,Chieng,Jack,04,BIO,MOL,CHM,Christensen
+16765790,Symons,Madisyn,03,BIO,NEU,CHM,Cozine
+19728799,Henderson,Fosia,02,PSY,SCJ,,Baker
+13171781,Kelsey,Lauren,04,PSY,NEU,CHM,Kelly
+17996790,Ramos,John,04,BIO,,,Ellis
+19228790,Frost,Jordan,03,BIO,,,Leonardo
+19238790,Staley,Emily,03,BIO,,,Christensen
+10169791,Lage,Alyse,03,BUS,,ECO,Affatigato
+14255812,Miranda-Estrada,Ariel,01,EXP,,,Carr
+13933800,Corrigan,Nolan,02,BIO,NEU,CHM,Cozine
+12861791,Grigsby,Patrick,03,BIO,NEU,HSS,St. Clair
+17394776,Finstrom,Colton,03,GEN,,SEC,Rydze
+12592806,Rieser,Cornie,02,MOL,,,Leonardo
+18446787,Nguyen,Shae,04,BUS,ECO,,Eichhorn
+10349798,Evans,Victoria,02,BUS,,,Barnett
+12750781,Porter,Kiily,04,BIO,,CHM,Christensen
+12182809,Brockmeyer,Isabelle,01,EXP,,,Nesmith
+19249804,Klahn,Anja,02,BIO,NEU,CHM,Cozine
+11681801,Barnes,Myrna,03,KIN,,,Barnett
+15704794,Ginsbach,Mya,03,BIO,,,Barnett
+18707795,Dohms,Taylor,03,EXP,,,Chen
+18878801,Cobb,Emily,02,BIO,PSY,FRE,Christensen
+13681789,Wilhelmi,Damarcus,04,BIO,,,Storer
+12772806,Cobb,Thanh,01,BIO,,HSS,Keenan
+17956794,Plesha,Aubree,03,BIO,,CHM,Christensen
+18247794,Bass,Lucas,03,BIO,,,Storer
+13532793,O'Connell,Taylor,03,BUS,ECO,,Eichhorn
+14992787,White,Savannah,04,BIO,,CHM,Christensen
+15405802,Dodd,Gracie,02,EXP,,,Hostetler
+13792793,Chaney-Pruitt,Kelly,03,BIO,PSY,,Cozine
+17045788,Brazell,Kyle,04,BIO,NEU,CHM,Kelly
+15684793,Schlichting,Pramisha,03,BIO,NEU,SPA,Christensen
+PHY  165  01
+12342809,Wright,Bryan,01,EXP,,,Lanegran
+PHY  165L 03
+11921807,Daniel-Medina,Jeannie,02,ECO,,CS,Eichhorn
+PHY  165L 04
+11231803,Brown,Hailey,01,EXP,,,Hoover
+10251815,Shchekin,Adrianna,02,EXP,,,Eichhorn
+14512787,McFadden,Emma,04,PHY,,CS,Affatigato
+16904782,Johns,Brianna,03,CRW,ENG,,McQueen
+10590806,Lindgren,Will,01,EXP,,,Akgun
+17577800,Buffington,Alexander,01,EXP,,,Akgun
+14092788,Hiebert,Antonia,03,PHY,,,Akgun
+19428795,Morgan,Trisan,02,PHY,SPA,,Bragatto
+19497788,Nelson,Hunter,04,MTH,PHY,CS,Miller
+19168791,Blue,Carter,03,PHY,,,Affatigato
+13621782,Castellanos,Cristina,04,PHY,CHM,,Akgun
+16206804,Malone,Simon,01,ELM,MUS,,Shanley
+19689806,Frias,Elli,01,EXP,,,Akgun
+16965796,Aller,Maya,03,PHY,,,Bragatto
+12342805,Krizizke,Gabe,02,PHY,ECO,,Affatigato
+11252813,Sherry,Ella,02,EXP,,,Bragatto
+11910793,Malone,Jaimee,03,EXP,,,Bragatto
+11790798,Kirk,Laine,02,EXP,,,Drexler
+16914788,Kuehner,Michelle,03,PHY,MTH,,White
+PHY  165L 05
+12453815,Salsman,Chase,01,EXP,,,Hausknecht
+17677807,Kendle,Kaitlyn,01,EXP,,,Chihak
+18769811,Flatland,Chloe,01,EXP,,,Chihak
+17215787,Martin,Jack,02,EXP,,,Affatigato
+15534790,Hatfield,Aigelica,03,SCJ,,AAM,McNabb
+10220808,Meares,Rachel,01,EXP,,,Nordmann
+16785790,Decker,Ashley,03,BIO,CHM,,St. Clair
+17898815,Filter,Ella,06,,,,Upah
+17367808,Norris,Max,01,EXP,,,Affatigato
+14823798,Webb,Taylor,03,EXP,,,St. Clair
+16327814,Bartley,Hannah,01,EXP,,,Affatigato
+10030809,Stegen,Jack,01,EXP,,,Affatigato
+13444813,Fox,Jonah,01,EXP,,,Affatigato
+16747812,Bicknell,Hunter,01,EXP,,,Affatigato
+11622813,Bah,Maren,01,EXP,,,Libby
+18179814,Huerta,Aryn,01,EXP,,,Hausknecht
+15795803,Carr,Abby,02,BCH,CHM,,Stead
+12801795,Villarreal,Riley,03,CHM,HIS,,St. Clair
+12383814,McCrary,Ellinor,01,EXP,,,Affatigato
+18158805,Yuma,Erica,02,EXP,,,Stead
+16057812,Staley,Gracie,01,EXP,,,Carr
+14115814,Powell,Myrna,01,EXP,,,Chen
+12162802,Lenz,Austin,02,PHY,SOC,,Bragatto
+11899786,Long,Jade,03,BCH,,,Singleton
+10861815,Hardman,Kate,01,EXP,,,Brown
+13913802,Gosch,Haley,02,CHM,BCH,,Cozine
+16167813,Dwelley,Jacob,01,EXP,,,Nesmith
+17287806,Worthington,Raymond,01,EXP,,,Perry
+19800810,Mahler,Kane,01,EXP,,,Bragatto
+PHY  185  01
+18848804,Wilson,Amanda,01,EXP,,,Hughes
+PHY  185L 01
+10529792,Pazour,Grant,03,EXP,,,Singleton
+12252805,Joselit,Brendan,01,EXP,,,Akgun
+PHY  185L 02
+18278806,Win,Ali,02,EXP,,,Akgun
+11500791,Strong,Jacquelyne,03,EXP,,,Affatigato
+14234800,Doak,Tory,02,EXP,,,Akgun
+16976803,Theriault,Tara,02,PHY,,,Affatigato
+10870804,Bah,Shae,02,EXP,,,Affatigato
+PHY  185L 03
+16666801,Gienapp,Amanda,03,EXP,,,Akgun
+10129795,Webb,Samantha,03,EXP,,,Affatigato
+PHY  231  01   W
+10248784,Kendle,Thanh,04,PHY,CS,,Akgun
+10998781,Collins,Adrianna,04,PHY,CHM,,Akgun
+19407786,Shahab,Sage,03,EXP,,,Akgun
+13751785,Austin,Brianda,04,PHY,CHM,,Akgun
+18206787,Meehan,Madi,04,PHY,CS,,Akgun
+12971798,Gonzalez,Reagan,03,EXP,,,Akgun
+PHY  235  01
+13181781,Welna,Reyna,04,PHY,,,Akgun
+13611787,Godfrey,Yuser,04,PHY,,MTH,Akgun
+19317781,Eastman,Maiya,04,PHY,MTH,,Akgun
+19057789,Mei,Ella,04,EXP,,,Bragatto
+19457780,Edwards,Carley,04,PHY,MTH,SPA,Akgun
+14223799,Johnson,Lilly,03,PHY,MTH,,Akgun
+12740781,He,Gabrielle,04,PHY,MTH,CS,Affatigato
+18726784,Arrigoni,Kathya,04,PHY,PSY,,Akgun
+POL  108  01
+16916807,Bilkey,James,01,EXP,,,St. Clair
+16245799,Baker,Max,02,EXP,,,Brown
+12452800,Lona Garcia,Charles,02,EXP,,,Westberg
+15634796,Hilton,Ethan,04,SCJ,,,Atwater
+14045815,Eastman,MJ,01,EXP,,,Hausknecht
+12552806,Frazier,Gracey,01,EXP,,,Chen
+19249804,Klahn,Anja,02,BIO,NEU,CHM,Cozine
+17077805,Noisette,Alexa,02,EXP,,,Leonardo
+11851803,Canney,Ben,02,EXP,,,Johnson
+17327804,Jackson,Jorge,02,POL,HIS,,Nesmith
+11492812,Clay,Alex,01,EXP,,,Westberg
+19039809,Nunez,Eleanor,01,EXP,,,Nesmith
+11031802,Campbell,Abdi,01,EXP,,,Stead
+11412814,Arnold,Calvin,01,EXP,,,Chaplin
+13183807,Hougen,MyKeisha,03,CS,,,Hughes
+18247794,Bass,Lucas,03,BIO,,,Storer
+13064815,Bogart,Dylan,08,EXP,,,Chaimov
+14624803,Robertson,Avery,02,EXP,,,Chen
+11731807,Ragins,Trenton,03,EXP,,,Storer
+19730810,Hendrickson,Brianna,01,EXP,,,St. Clair
+17496793,Richards,Josie,03,SCJ,,SOC,McNabb
+10060803,Webb,Alexandra,01,EXP,,,Stead
+19359803,Guzman,Carlie,02,EXP,,,Carson
+POL  108  02
+13653803,Powers,Savannah,02,ECO,POL,REL,Westberg
+10320808,Reeves,Mitchell,01,EXP,,,Chaimov
+14045813,Edwards,Bryant,01,EXP,,,Atwater
+12633811,Jung,Bassel,01,EXP,,,Chaplin
+13143803,Doromal,Diana,02,BUS,ECO,,Westberg
+17997800,Hodges,Oyin,02,EXP,,,Christensen
+12342809,Wright,Bryan,01,EXP,,,Lanegran
+18878806,Beck,Mary,01,EXP,,,Hatchell
+13543804,Schiesher,Lyndsay,02,BUS,ACM,,Perry
+12731792,Palmer,Mouyseang,02,POL,,,Nesmith
+14975813,Mittelmark,Nolan,01,EXP,,,Westberg
+18168809,Ridgway,Chrissy,01,EXP,,,Cross
+10591810,Alejo,Precious,01,EXP,,,Chaimov
+11482810,Gorden Mercer,Maui,01,EXP,,,Cross
+10870804,Bah,Shae,02,EXP,,,Affatigato
+12623810,Bicknell,Cailyn,01,EXP,,,Herron
+17596796,Linnear,Annabel,03,EXP,,,Chen
+12021793,Tomida,Carlin,03,PHY,CS,,Affatigato
+15316810,Christiansen,Marquis,01,EXP,,,Christensen
+14474802,Fleck,Lauren,02,EXP,,,McQueen
+17537802,Martin,Brady,02,EXP,,,Recker
+19789802,Goist,Izzy,01,EXP,,,Rydze
+POL  115  01
+17396799,Kappeler,Victoria,01,EXP,,,Leonardo
+12603811,Ausenhus,Jared,01,EXP,,,Miller
+19869804,Daynuah,Megan,02,POL,SCJ,PHL,Lanegran
+14124808,Freese,Emily,01,EXP,,,Chen
+15516814,Shapley,Tori,01,EXP,,,Rodriguez Moreno
+10459796,Wever,Isa,02,BUS,,POL,St. Clair
+15765801,Empen,Hannah,01,EXP,,,Hatchell
+17767809,Niemeyer,Lauren,01,EXP,,,Rydze
+19349809,Thatcher,Ashley,01,EXP,,,Cross
+19828795,Mittelmark,Jordan,02,ENV,ECO,,Eichhorn
+11849781,Rogers,Allyssa,04,HIS,,SEC,Johnson
+11910793,Malone,Jaimee,03,EXP,,,Bragatto
+16965797,Chambless,Jaclyn,03,IS,,,Kensky
+15356815,Tran,Will,02,EXP,,,Westberg
+POL  258  01   W
+10447778,Cummins,Kayla,03,EVS,POL,CRW,Ellis
+19657787,Pa,Austin,03,POL,,PHL,Lanegran
+11631806,Williams,Sarah,02,HIS,POL,SEC,Nordmann
+11491803,Dugan,Matt,01,SCJ,IS,SOC,McNabb
+15305800,Nelson,Mitchell,01,EXP,,,Hausknecht
+18145773,Martin,Valerie,04,POL,REL,,Chaimov
+12901798,Osterman,Majad,02,EXP,,,Westberg
+15974791,Stitt,Jackie,03,BUS,,ANT,Carstens
+14902784,Henderson,Michael,04,SCJ,,POL,Janca-Aji
+16055797,Menke,Lilly,03,HIS,,SEC,Nordmann
+10359797,Hernandez,Trevor,03,POL,,REL,Rodgers
+18506781,Romero,Emma,04,IS,,ANT,Lanegran
+16665795,Sloth,Ta’sje’,02,ECO,,,Lensing
+19757788,McMichael,Maria,04,POL,SCJ,REL,Westberg
+10789793,Barnes,Alexsia,03,EXP,,,Nesmith
+13893802,Nelson,Cassie,02,EXP,,,Nesmith
+14183793,Sosa,Sunny,03,POL,HIS,,Nordmann
+16106802,Tranel,Ben,01,EXP,,,Recker
+14323795,Perry,Joel,03,POL,,ECO,Nesmith
+POL  284  01   W
+18716780,Leonard,Karen,04,MTH,EVS,ECO,Miller
+12862803,Villarreal,Kennedy,02,POL,,,Nesmith
+10268788,Neppl,Duy,03,POL,ECO,,Lanegran
+14554809,Sala,Alex,01,EXP,,,St. Clair
+16405794,Kelley,Jared,03,POL,ART,,Thompson
+10090802,Hite,Chloe,02,EXP,,,Hatchell
+15855805,Christiansen,Mackenzie,02,POL,IS,,Chaimov
+POL  325  01   W
+10990804,Ortega,Berrigan,01,POL,,,Lanegran
+10840806,Garcia,Kei'Yona,02,SCJ,,AAM,Rodgers
+11009784,Baker,Melodie,04,ACP,,POL,Melcher
+10330801,Finneman,Ethan,02,EXP,,,Baranowski
+14223792,Maske,Isabella,03,POL,SCJ,SOC,Lanegran
+18737794,Renaud,Cassie,03,POL,SPA,GSS,Lanegran
+14114803,Imler,Eyan,02,EXP,,,Lanegran
+POL  350  01   W
+11849787,Green,Ali,04,POL,ECO,PHL,Westberg
+15723787,Estling,Bianca,04,ECO,POL,,Lanegran
+10038786,Smith,Jelani,04,POL,EVS,,Lanegran
+PSY  100  01
+13343803,Dickson,Becky,02,KIN,,,Cross
+18728807,Langerud,Jania,01,EXP,,,Lanegran
+12642808,Rowell,Josie,01,EXP,,,Kelley
+11451800,Thurow,Tamara,02,ELM,,,Russell
+19238790,Staley,Emily,03,BIO,,,Christensen
+13923808,McLean,Adam,01,EXP,,,Brown
+15455808,Alzuwaini,Josh,01,EXP,,,Rydze
+11242812,Esposito,Emma,01,EXP,,,Libby
+10020809,Lister,Daniela,01,EXP,,,Johnson
+13444813,Fox,Jonah,01,EXP,,,Affatigato
+13413809,Rajkarnikar,Brady,01,EXP,,,Perry
+14274809,Grigsby,Stevie,01,EXP,,,Farrell
+15265809,Schloe,Madi,01,EXP,,,Lanegran
+16417814,Fedrick,Jared,01,EXP,,,Rodriguez Moreno
+16346805,Crosby,Brianna,02,KIN,,,Hausknecht
+16206804,Malone,Simon,01,ELM,MUS,,Shanley
+13813807,Welch,Sophie,01,EXP,,,Nguyen
+12973813,Schmit,Jonathan,01,EXP,,,Nesmith
+17447809,Arrigoni,Tristan,01,EXP,,,Affatigato
+18419814,Dubon,Josh,01,EXP,,,Kelley
+19249809,Carter,Gabe,01,EXP,,,Perry
+19339809,Partain,Victoria,01,EXP,,,Nordmann
+12279775,Mirelez,Parker,04,ART,,SEC,Thompson
+11252813,Sherry,Ella,02,EXP,,,Bragatto
+12933810,Manternach,Allison,01,EXP,,,Libby
+13214810,Brosius,Will,01,EXP,,,Christensen
+18489811,Snow,Claudia,01,EXP,,,Kelley
+15946810,Haufle,John,01,EXP,,,Johnson
+17488810,Patton,Jp,01,EXP,,,Chaplin
+18279810,Petit,Emily,01,EXP,,,Chaplin
+18719810,Jones,Karen,01,EXP,,,Chaplin
+18918802,Corcoran,Faith,02,ELM,,SPA,Russell
+14555811,Kinsler,Thanh,01,EXP,,,Cross
+PSY  100  01
+13954812,Hesley,Noah,01,EXP,,,Affatigato
+18199811,Riebhoff,Kieran,01,EXP,,,Herron
+11092812,Plagge,Precious,01,EXP,,,Wolgast
+10420808,Lyons,Jordan,01,EXP,,,Chaimov
+10998781,Collins,Adrianna,04,PHY,CHM,,Akgun
+11459787,Alzuwaini,Lucas,04,ECO,ENV,,Eichhorn
+12663811,Weber,Rosella,01,EXP,,,Miller
+14474804,Benson,Cole,02,EXP,,,Barrow
+17158814,Plesha,Amaia,01,EXP,,,Rodriguez Moreno
+16676800,Sharma,Jackson,02,EXP,,,Kelly
+18498808,Dukuly,Rush,01,EXP,,,Chaplin
+18688808,Kim,Emi, IV,01,EXP,,,Johnson
+18758808,Gienapp,Peyton,01,EXP,,,Johnson
+19259808,Marshall,Sage,01,EXP,,,St. Clair
+19699808,Takeuchi,Madison,01,EXP,,,Atwater
+10080809,Hoppenjans,Sydney,01,,,,Cross
+14375814,Rayford,Jocelyn,01,EXP,,,St. Clair
+14495812,Win,Melanie,01,EXP,,,Brown
+18299812,Marshall,Megan,01,EXP,,,Miller
+11412812,Vickers,Shion,01,EXP,,,Cross
+13202795,Karwowski,Olivia,03,ART,,,Thompson
+18108809,Kendle,Will,01,EXP,,,Atwater
+16127812,Adelsberger,Cierra,01,EXP,,,St. Clair
+14445813,Duran-Montero,Jennifer,01,EXP,,,Carr
+14145810,Mayes,Lirio,01,EXP,,,Atwater
+15316810,Christiansen,Marquis,01,EXP,,,Christensen
+13134813,Adams,Kayla,01,EXP,,,Kelley
+11582815,Leon-Flores,Dylan,01,EXP,,,Rodriguez Moreno
+12991798,Meehan,Heather,02,ELM,,,Russell
+16947810,Philpott,Ali,01,EXP,,,Chihak
+16046802,Carr,Brittany,01,THE,SCJ,SEC,Barrow
+15626812,Mahlberg,Abby,01,EXP,,,Carr
+18188802,Sly,Kaylynn,02,EXP,,,Perry
+19250813,Bradham,Chase,01,EXP,,,Rodriguez Moreno
+PSY  100  02
+12701797,Weis,Jayden,03,EXP,,,Nguyen
+16615799,Yuma,Paul,02,EXP,,,Leonardo
+19589807,Pohren,James,01,EXP,,,Nesmith
+12232808,Krob,Vanessa,01,EXP,,,Carr
+16027815,Pazour,Alexa,08,EXP,,,Chaimov
+13353808,Maas,Kaeli,01,EXP,,,Cross
+14704808,Lemke,Erica,01,EXP,,,Chihak
+12823813,Buck,Bianca,01,EXP,,,Chihak
+16626808,Houtz,Camden,01,EXP,,,Chaplin
+17377808,Hagan,Reagan,01,EXP,,,Libby
+17547808,Burkhart,Judas,01,EXP,,,Carr
+15586815,Niemeyer,Amirah,01,EXP,,,St. Clair
+18738808,Greiner,Marguerite,01,EXP,,,Farrell
+19869808,Elliott,Nico,01,EXP,,,Rodriguez Moreno
+15795803,Carr,Abby,02,BCH,CHM,,Stead
+13503804,Cota,Jasmine,02,EXP,,,Leonardo
+12992801,Norris,Anna,01,DS,BUS,ECO,Baranowski
+18378804,Lopez,Ashley,02,EXP,,,Barnett
+18659814,Stucke,Taylor,01,EXP,,,Nesmith
+15995809,Perkins,Kade,01,EXP,,,Miller
+16466809,McCrary,Jay,01,EXP,,,Chaimov
+10721813,Collins,Chase,01,EXP,,,Nordmann
+18339814,Pohren,Robert,01,EXP,,,Kelley
+14275815,Gonzalez,Diana,01,EXP,,,Nesmith
+17678810,Sandmire,Jania,01,EXP,,,Rodriguez Moreno
+13934814,Petrovic,Joshua,01,EXP,,,Kelley
+17968810,Watkins,Aaminah,01,EXP,,,Hausknecht
+12903811,Mills,John,01,EXP,,,Libby
+12753812,Whaley,Madison,01,EXP,,,Carr
+10071811,Seymour,Madalyn,01,EXP,,,Kelley
+16667811,Parenteau,Talia,01,EXP,,,Chaimov
+10751811,Beal,Luke,01,EXP,,,Herron
+19789802,Goist,Izzy,01,EXP,,,Rydze
+16647812,Grewe,Zion,01,EXP,,,Johnson
+13004815,Plesha,Kellie,01,EXP,,,Rydze
+PSY  100  03
+12803815,Collins,Izabel,01,EXP,,,Atwater
+18258807,Hines,Jaylon,01,EXP,,,Affatigato
+15976812,Schiesher,Bennett,01,EXP,,,Farrell
+18958807,Fowler,Ryan,01,EXP,,,Kelley
+19539807,Griswold,Jill,01,EXP,,,Nesmith
+13184812,Geiger,Paul,01,EXP,,,Wolgast
+10080808,Ortiz,Jackson,01,EXP,,,Farrell
+10700808,Lenoch,Thomas,01,EXP,,,Kelley
+15475808,Carey,Victoria,01,EXP,,,St. Clair
+10671814,Starmann,Aubrey,01,EXP,,,Rodriguez Moreno
+11232815,Stevenson,Qariah,01,EXP,,,Atwater
+12493813,Dickson,Anisa,01,EXP,,,Miller
+19119808,Lassen,Jonathan,01,EXP,,,Chen
+10760809,Petrovic,Trisan,01,EXP,,,Atwater
+17978814,Alejo,Alphonso,01,EXP,,,Perry
+11102813,Carsrud,Lauren,01,EXP,,,Rydze
+14205811,Baney,Andrew,01,EXP,,,Libby
+14914809,Marshall,Kayla,01,EXP,,,Brown
+16097814,Balachio,Karen,01,EXP,,,Herron
+15655809,Mosinski,John,01,EXP,,,Perry
+16977813,Starry,Ella,01,EXP,,,Christensen
+17327809,Welna,Dominic,01,EXP,,,Herron
+17567809,Shipman,Moet,01,EXP,,,Affatigato
+18588809,Cook,Camille,01,EXP,,,Chaimov
+19349809,Thatcher,Ashley,01,EXP,,,Cross
+11792813,Fang,Izzy,01,EXP,,,Chaplin
+12263813,Zheng,Katie,01,EXP,,,Westberg
+16007813,Helmkamp,Natalie,01,EXP,,,Wolgast
+11982815,Sar,Milinda,02,EXP,,,Cozine
+11412814,Arnold,Calvin,01,EXP,,,Chaplin
+13743802,Folsom,Olivia,02,EXP,,,Carr
+15686814,Kolpin,Madeline,01,EXP,,,Kelley
+11182814,Boettger,Cassidy,01,EXP,,,Chihak
+10901815,Eichhorn,Ali,01,EXP,,,Kelley
+10491811,Hafenbrack,John,01,EXP,,,Perry
+PSY  100  04
+16197814,LaMaster,Gracie,01,EXP,,,Carr
+12022805,Stauffacher,Donae,01,EXP,,,Falk
+15456812,Montoya,Savana,01,EXP,,,Chaimov
+11091808,Kolpin,Luis,01,EXP,,,Westberg
+16865790,Floyd,Nils,01,EXP,,,Cross
+13294815,Kotula,Kat,01,EXP,,,Atwater
+13213808,O'Rourke,Kaalyn,01,EXP,,,Lanegran
+14524808,Granderson,Crystal,01,EXP,,,Herron
+14844808,Hasselbacher,Madalynn,01,EXP,,,Christensen
+13813800,Arduser,Maximo,02,BIO,MOL,HSS,Storer
+14745813,Floyd,Lirio,01,EXP,,,Atwater
+16287814,Love,Jacob,01,EXP,,,Farrell
+13634815,Tanghe,Ashari,,EXP,,,Cross
+11661809,Suzuki,Nia,01,EXP,,,Lanegran
+12522809,Dishman,Sofia,01,EXP,,,Wolgast
+16837814,Tomes,Nessa,01,EXP,,,Lanegran
+16736809,Walker,Jonathan,01,EXP,,,Herron
+14555815,Wood,Claire,01,EXP,,,Kelley
+18578809,Eckardt,Kiersten,01,EXP,,,Cross
+14874807,Leon-Flores,Murphy,01,EXP,,,Chaplin
+18727792,Cargille,Caitlin,03,ELM,,,Kress
+11782810,Kolade,Hailey,01,EXP,,,Christensen
+16607811,Stucke,Kendra,01,EXP,,,Nordmann
+12493810,Kruse,Kyle,01,EXP,,,Christensen
+19320810,Darling,Samantha,01,EXP,,,Lanegran
+12483812,Wendt,Monét,01,EXP,,,Carr
+10511811,Duron,Kaitlyn,01,EXP,,,Rydze
+17818814,Sosa,Xavier,01,EXP,,,Nesmith
+PSY  100  04
+16635799,Washington,Katie,02,EXP,,,Leonardo
+16435799,Yoon,Mikayla,02,NEU,PSY,,Baker
+19608799,Ropa,Hanna,02,EXP,,,Keenan
+14034800,Biegger,Mariam,02,SCJ,PSY,,McNabb
+14434803,Marshall,Savannah,01,SCJ,PSY,THE,Wolverton
+12891795,Hernandez,Julian,03,EXP,,,Christensen
+15015801,Buckley,Kate,02,KIN,,HSS,Rydze
+15595801,Grewe,Matthew,02,EXP,,,Cross
+13292795,Bryant,Leo,03,BIO,NEU,HSS,Christensen
+18638801,Voss,Joi-Damaris,02,EXP,,,Rydze
+18878801,Cobb,Emily,02,BIO,PSY,FRE,Christensen
+13554810,Inuzuka,Jayla,01,EXP,,,Nordmann
+19318795,Wilson,Amanda,02,EXP,,,Lee
+19748796,Pinto,Brianna,03,PSY,,SPA,Recker
+16746803,Benson,Jaxon,02,PSY,,SOC,Kelly
+10170804,Meehan,Slade,02,EXP,,,Chaimov
+16677811,Rajkarnikar,Alaska,01,EXP,,,Chaplin
+PSY  100  05
+16125799,Calix,Elsie,02,PSY,,,Shaw
+16765790,Symons,Madisyn,03,BIO,NEU,CHM,Cozine
+17256790,Hanrahan,Avery,02,PSY,NEU,CRW,Baker
+6205404,Malone,Garrett,04,HIS,,SEC,Buckaloo
+19186778,Lyons,Zion,02,EXP,,,Rydze
+16146800,Jankowski,Bridgette,02,PSY,NEU,,Baker
+13332792,Phillips,Torrie,02,PSY,,,Brown
+19257783,Meyer,Chloe,03,BIO,NEU,,Duru
+19579804,Allison,Randy,02,EXP,,,Cross
+18978806,Stucke,Noah,01,EXP,,,Baranowski
+12630782,Staker,Jasmine,04,KIN,,,Atwater
+15406814,Jackson,Jennifer,02,WTG,PSY,,Carr
+16256802,Collins,Jaxon,02,EXP,,,Ellis
+14525811,Parenteau,Mark,01,EXP,,,Rydze
+17537802,Martin,Brady,02,EXP,,,Recker
+17996796,Vaughn,Garrison,02,EXP,,,Recker
+PSY  200  01   W
+10220804,Selfridge,Bryn,03,EXP,,,Baker
+10251815,Shchekin,Adrianna,02,EXP,,,Eichhorn
+13641788,Fleck,Hunter,04,ACM,PSY,,Melcher
+17207800,Falck,Ayesha,02,EXP,,,Russell
+18658800,Hardman,Cole,02,KIN,,,Atwater
+15914798,Plasek,Gabrielle,02,PSY,,,Recker
+13123809,Souvannamacho,Marlee,01,EXP,,,Christensen
+11831803,Aitchison,Austin,02,EXP,,,Recker
+19728791,Frantz,Gabriella,03,ELM,,,Kress
+13683809,Roberts,Noah,01,EXP,,,Westberg
+13713809,Barnes,Caelan,02,EXP,,,Brown
+16977810,Rausch,Hailee,01,EXP,,,Westberg
+11841802,Starmann,Taven,02,NEU,PSY,,Cross
+14155810,Miller,Michaela,01,EXP,,,Affatigato
+15376812,Schulte,Rachel,03,EXP,,,Farrell
+14664805,Sipwoli,Lauden,02,EXP,,,Barnett
+15196813,Sennett,Shae,01,EXP,,,Libby
+PSY  200  02   W
+17875788,Lopez,Dylan,03,PSY,,,Farrell
+10990804,Ortega,Berrigan,01,POL,,,Lanegran
+11570794,Cruz,Taylor,03,EXP,,,Farrell
+13992790,Hanrahan,Philip,03,SCJ,,PHL,Rodgers
+14423790,Stiles,Shotaro,02,EXP,,,Chen
+11360795,Esposito,Kellie,03,EXP,,,Lemos
+12920782,Fox,Harry,04,BIO,,CHM,Duru
+14345815,Singleton,Luis,02,EXP,,,St. Clair
+13951781,Southard,John,02,EXP,,,Baker
+14323794,Sayers,Jenna,03,EXP,,,Atwater
+14554809,Sala,Alex,01,EXP,,,St. Clair
+14694801,Mahler,Allesyn,02,EXP,,,Bursch
+13624813,Mclaughlin,Piper,01,EXP,,,Christensen
+17027809,Buckley,Max,01,EXP,,,Brown
+11519788,Henderson,Peyton,04,KIN,PSY,,Atwater
+17356796,Falck,Tim,04,CS,PSY,,Hughes
+13064815,Bogart,Dylan,08,EXP,,,Chaimov
+11470793,Jennings,Jelani,03,BIO,,HSS,Storer
+18636782,Deardorff,Fosia,04,SCJ,PSY,,McNabb
+13232793,Castro,Brian,03,FLM,PSY,CRW,Lemos
+12750780,Oware,Chrissy,04,PSY,NEU,,Baker
+PSY  205  01
+15363782,Tanghe,Katie,04,BIO,NEU,,Storer
+13092794,Kim,Jack,03,SCJ,PSY,COM,Kensky
+13933800,Corrigan,Nolan,02,BIO,NEU,CHM,Cozine
+14082785,Chuong,Kevin,04,BIO,NEU,SPA,Cozine
+13802794,Soto Rabago,Claudia,03,PSY,ORG,HSS,Baker
+18688800,Cobb,Andy,03,EXP,,,LeMay-Lewis
+13523804,Finneman,Max,02,EXP,,,Barnett
+19568791,Hasselbacher,Joi-Damaris,03,PSY,,PHL,Recker
+13800778,Carviou,Carlin,04,BIO,,,Storer
+17267809,Hawbaker,Luke,01,EXP,,,Farrell
+11889788,Brunner,Patrick,03,PSY,BUS,,Brown
+17777803,Cobb,Jacob,02,CHM,NEU,,Bragatto
+18037794,Theriault,Jordan,02,EXP,,,Barnett
+15585805,Becher,Adin,02,SCJ,PSY,,Kelly
+10879793,Decker,Frank,03,PSY,,,Recker
+14955815,Baldwin,Eilish,02,EXP,,,Leonardo
+14774804,Wei,Toobejay,02,EXP,,,Nguyen
+14053796,Hensley,Tamara,02,SCJ,PSY,,Kensky
+14992787,White,Savannah,04,BIO,,CHM,Christensen
+11281804,Barreras,Brayden,01,EXP,,,Barnett
+16274786,Tillery,Julia,04,SCJ,PSY,,McNabb
+17046793,Webb,Brady,02,EXP,,,Recker
+PSY  235  01
+16384786,Seidel,Cameron,04,MUE,,,Falk
+16196805,Patton,Ella,01,EXP,,,Hatchell
+14533792,Hansen,Grace,03,BIO,,,Leonardo
+17047803,Maturo,Jennifer,01,EXP,,,Barnett
+10600802,Adelsberger,Katie,02,PSY,SCJ,SOC,Barnett
+12882804,Ratcliff,Avalynn,02,EXP,,,Christensen
+17327805,Martinez-Jimenez,Skye,01,EXP,,,Cozine
+11602815,Langley,Kei'Yona,02,NEU,BIO,,Baker
+18566780,Chada,Braden,03,SOC,,,Kress
+18726784,Arrigoni,Kathya,04,PHY,PSY,,Akgun
+PSY  250  01
+13802790,Ahmed,Fernanda,03,PSY,ENG,GS,Kelly
+15434790,Gienapp,Sofia,03,PSY,,HSS,Kelly
+19728799,Henderson,Fosia,02,PSY,SCJ,,Baker
+13792793,Chaney-Pruitt,Kelly,03,BIO,PSY,,Cozine
+18466780,Hyatt,Talia,04,PSY,KIN,,Rydze
+PSY  250  02
+12811794,Noel,Megan,03,PSY,SOC,,Rodgers
+17445786,Carter,Lauren,03,NEU,BIO,,Brown
+14374802,Nunez,Hailey,03,KIN,PSY,HSS,LeMay-Lewis
+PSY  295  01   W
+16064784,Epps,Jenna,03,PSY,NEU,,Kelly
+19478799,Akahrir,Alexa,02,PSY,SCJ,SOC,Kelly
+13652794,Imler,Abdullah,02,PSY,,,Chaimov
+16875795,Freeman,Kaitlyn,03,PSY,,,Farrell
+17436795,Cook,Emily,03,PSY,IS,,Brown
+PSY  300  01
+12760780,Hall,LaMia,04,BIO,NEU,,Duru
+13171781,Kelsey,Lauren,04,PSY,NEU,CHM,Kelly
+17747804,Justice,Reagan,02,EXP,,,Leonardo
+18377790,Thatcher,Olivia,04,PHY,BIO,MTH,Affatigato
+19617780,Klutts,Gloria,04,BIO,NEU,CHM,Cozine
+12861791,Grigsby,Patrick,03,BIO,NEU,HSS,St. Clair
+15063783,McLeod,Karen,04,BIO,NEU,CHM,Kelly
+17515783,Martinek,Destini,04,BIO,NEU,FRE,Christensen
+16474788,Altman,Ayshah,04,BIO,NEU,,Storer
+16714784,Kirk,Dawson,04,BIO,NEU,,Baker
+19548791,Zeonweh,Cornie,03,BIO,PSY,ASC,Christensen
+10988787,Blackmond,Josie,04,BIO,NEU,,Storer
+14104807,Slagle,Kaalyn,02,EXP,,,Chihak
+19007780,Karwowski,Mollie,04,BIO,NEU,CHM,Storer
+13901785,Patton,Pramisha,04,PSY,NEU,HSS,Brown
+19547782,Haufle,Jay,04,BIO,NEU,CHM,Cozine
+12850782,Goode,Natalie,04,BIO,NEU,CHM,Christensen
+13771781,Zambrano,Alexis,04,BIO,CHM,,Storer
+19168792,Baker,Piper,03,BIO,NEU,,Cozine
+19787782,Starmann,Coeburn,04,BIO,NEU,CHM,Storer
+13913802,Gosch,Haley,02,CHM,BCH,,Cozine
+15903785,Barreras,Ian,03,PSY,,,Brown
+12481793,Singleton,Qariah,03,PSY,,CRW,Kelly
+14192784,Swetlik,Karen,04,PSY,,GS,Brown
+13691782,Wyatt,Joshua,04,BIO,PSY,,Cozine
+PSY  300  02
+15443786,Noor,Avery,04,PSY,SCJ,,McNabb
+15074790,McCoy,Jordan,03,PSY,ORG,,Recker
+13471785,Fitzgerrel,Ella,04,PSY,SCJ,,Recker
+15073783,Madigan,Easton,04,PSY,SCJ,AAM,Westberg
+13221781,Ishimwe,Naomi,04,THE,PSY,SEC,Kelly
+13351785,Ekstrom,Analise,04,PSY,AAM,,Brown
+11220793,Dickerson,Abigail,03,PSY,,,Brown
+18506785,Velo,Carli,04,PSY,SPA,,Brown
+PSY  350  01
+15024790,Gray,Lolo,03,PSY,NEU,,Chihak
+15154796,Askew,Valerie,03,PSY,KIN,HSS,Brown
+14492787,Cargille,Simon,04,PSY,NEU,,Kelly
+PSY  415  01
+18837790,Frost,Madalyn,03,PSY,SCJ,CRW,Farrell
+15963784,Koenen,Dalton,03,PSY,NEU,,Baker
+17675781,Doty,Zachary,04,PSY,CRW,,Brown
+10608787,McBride,Jayla,03,PSY,,SPA,Farrell
+13591784,Westercamp,Trevor,03,PSY,SCJ,,Brown
+PSY  455  01
+17415783,Decker,Sydney,04,PSY,,CRW,Kelly
+19407787,Butali,Natalie,04,PSY,NEU,HSS,Baker
+12562803,Ely,Rubin,04,PSY,,HSS,Farrell
+PSY  464  01   W
+15764790,Fox,Hannah,03,PSY,ORG,COM,Farrell
+14612786,Meskell,Diate,03,PSY,ART,,Brown
+14932789,Goodyear,Bryn,03,PSY,,,Recker
+11689781,Hernandez,Enrique,04,BIO,PSY,,Baker
+12570789,Lynas,Kaleb,04,PSY,THE,,Brown
+11218772,Wilhelmi,Daniyal,04,PSY,AAM,,Kelly
+15443784,Torson,Tatelyn,04,PSY,SCJ,SOC,Kelly
+17624773,Corrigan,Chinasa,04,PSY,NEU,,Cozine
+10088787,Kuehner,Bryce,04,PSY,KIN,,Kelly
+PSY  465  01
+17335783,Miranda,Majad,03,PSY,,,Farrell
+REL  103  01   W
+12773814,Flores-Lopez,Shae,01,EXP,,,Farrell
+16195795,Koshikawa,Catherine,03,CRW,REL,SPA,Kensky
+16305790,Ye,Kyle,03,HIS,,SEC,Chaimov
+11280799,Olney,Rebecca,03,MOL,,ANT,Sanchini
+12180782,Cheek,Madison,04,ENG,,CRW,Sodeman
+12823813,Buck,Bianca,01,EXP,,,Chihak
+14174805,Kruse,Joey,01,,,,Cozine
+12992801,Norris,Anna,01,DS,BUS,ECO,Baranowski
+19218797,Lister,Allison,02,EXP,,,Rydze
+14614809,Watkins,Rachel,01,EXP,,,Herron
+17718812,Kittinger,Avery,01,EXP,,,Farrell
+13462795,Huitink,Jordan,03,ARH,REL,ART,Lueth
+16444788,Sutton,Damarcus,02,EXP,,,Kensky
+11182815,Northrop,Jack,01,EXP,,,Johnson
+11582811,Summerfield,Abby,01,EXP,,,Wolgast
+REL  105  01   W
+11311803,Washington,Haley,02,EXP,,,Atwater
+15996811,Dohms,Meghan,01,EXP,,,Rydze
+16697813,Casey,Ethan,01,EXP,,,St. Clair
+12452800,Lona Garcia,Charles,02,EXP,,,Westberg
+18145773,Martin,Valerie,04,POL,REL,,Chaimov
+11681801,Barnes,Myrna,03,KIN,,,Barnett
+14104807,Slagle,Kaalyn,02,EXP,,,Chihak
+17698811,Comparato,Abigail,01,EXP,,,Atwater
+15895801,Bliss,Karen,01,SCJ,,,Kensky
+14774804,Wei,Toobejay,02,EXP,,,Nguyen
+10580807,Vickers,Michaela,01,EXP,,,Chaimov
+14393793,Lawson,Melodie,03,SCJ,,,McNabb
+16875793,Duron,Julian,04,BIO,ENV,REL,Kensky
+19779802,Callahan,Charles,02,ACP,,,Perry
+REL  106  01
+18728807,Langerud,Jania,01,EXP,,,Lanegran
+15024790,Gray,Lolo,03,PSY,NEU,,Chihak
+17996790,Ramos,John,04,BIO,,,Ellis
+14294800,Sandfort,Joey,02,EXP,,,Hughes
+13092791,Hommowun,Allison,03,BUS,ACM,ECO,Perry
+11009784,Baker,Melodie,04,ACP,,POL,Melcher
+16246805,Piceno,Andy,01,EXP,,,Carson
+12841796,Rios,Graham,02,SCJ,REL,,Kensky
+19580815,Kirk,Seth,02,EXP,,,Kress
+18948803,Thomasson,Moet,01,SCJ,,,Hausknecht
+15606812,Canney,Bryce,02,EXP,,,Rydze
+12933810,Manternach,Allison,01,EXP,,,Libby
+12051793,Ahmed,Nitu,02,ECO,,REL,Westberg
+14514805,Ishioka,Cas,02,EXP,,,Barnett
+13751781,Collachia,Maiya,04,SOC,SCJ,,Barnett
+14893797,Patterson,Hunter,03,BIO,,,Storer
+14813793,Ybarra,Cassie,03,MOL,BIO,,Leonardo
+10129795,Webb,Samantha,03,EXP,,,Affatigato
+19998793,Mahler,Taryn,03,EXP,,,Ellis
+REL  116  01
+12073813,An,Bassel,01,EXP,,,St. Clair
+19578790,Doty,Taylor,03,EXP,,,Chaplin
+10169791,Lage,Alyse,03,BUS,,ECO,Affatigato
+12401791,Dylan,Greigh,02,MTH,,,Miller
+13751785,Austin,Brianda,04,PHY,CHM,,Akgun
+14932789,Goodyear,Bryn,03,PSY,,,Recker
+17415785,Ryder,Avery,03,FRE,IEC,,Chaimov
+19027783,Schott,Kayla,04,BIO,ENV,HSS,Singleton
+18817791,Saskowski,Gavin,03,EXP,,,Kensky
+12360788,Browne,Dolan,04,CS,ECO,,Eichhorn
+17617803,White,Kelly,02,EXP,,,Bursch
+18288805,Clinton,Trevor,02,BSN,,,Bursch
+16694785,Griest,Shae,03,REL,,HIS,Kensky
+12321792,Ball,Amber,03,MTH,,ART,Miller
+19769809,Jadkarim,Andrew,01,EXP,,,Johnson
+12971798,Gonzalez,Reagan,03,EXP,,,Akgun
+11731807,Ragins,Trenton,03,EXP,,,Storer
+14525811,Parenteau,Mark,01,EXP,,,Rydze
+15195804,Ausenhus,Jelica,02,EXP,,,Baranowski
+19768796,Glandt,Victoria,03,EXP,,,Eichhorn
+REL  217  01   W
+10398783,Dixon,Ashley,04,CHM,,PHY,St. Clair
+17935783,Calderon,Maya,04,SOC,ASC,REL,Donofrio
+14543794,Franzen,Nia,02,BIO,SCJ,,Sanchini
+16343776,Hodges,Alec,03,ARH,,ART,Lueth
+15793780,Villegas,Zachary,04,ECO,REL,,Westberg
+16405794,Kelley,Jared,03,POL,ART,,Thompson
+19757788,McMichael,Maria,04,POL,SCJ,REL,Westberg
+14732782,Rivera,Julia,04,BUS,POL,REL,Donofrio
+19787782,Starmann,Coeburn,04,BIO,NEU,CHM,Storer
+REL  385  01   W
+10359797,Hernandez,Trevor,03,POL,,REL,Rodgers
+SCJ  101  01
+11252815,Dillon,Bryce,01,EXP,,,Westberg
+19478799,Akahrir,Alexa,02,PSY,SCJ,SOC,Kelly
+11601808,Craig,Leah,01,EXP,,,Miller
+12073813,An,Bassel,01,EXP,,,St. Clair
+18789811,Gard,Gail,01,EXP,,,Miller
+13633800,Kolthoff,Carter,02,EXP,,,McNabb
+17577808,Valdivia Araya,Ningyuan,01,EXP,,,Hausknecht
+17667808,Kolpin,Melanie,01,EXP,,,Johnson
+16496800,Marcellus,Taylor,02,BIO,SCJ,,Cozine
+11102813,Carsrud,Lauren,01,EXP,,,Rydze
+11831803,Aitchison,Austin,02,EXP,,,Recker
+14554809,Sala,Alex,01,EXP,,,St. Clair
+11821804,Johnson,Ella,02,EXP,,,Carson
+18408809,Tillery,Katie,01,EXP,,,Libby
+18339814,Pohren,Robert,01,EXP,,,Kelley
+11218772,Wilhelmi,Daniyal,04,PSY,AAM,,Kelly
+15606812,Canney,Bryce,02,EXP,,,Rydze
+14275815,Gonzalez,Diana,01,EXP,,,Nesmith
+18307794,Eastman,Nijah,02,IBU,,,Bragatto
+10608787,McBride,Jayla,03,PSY,,SPA,Farrell
+17327805,Martinez-Jimenez,Skye,01,EXP,,,Cozine
+14514805,Ishioka,Cas,02,EXP,,,Barnett
+15756810,Soto Rabago,Isabelle,01,EXP,,,Brown
+16647812,Grewe,Zion,01,EXP,,,Johnson
+SCJ  101  02
+12701797,Weis,Jayden,03,EXP,,,Nguyen
+12773814,Flores-Lopez,Shae,01,EXP,,,Farrell
+12603811,Ausenhus,Jared,01,EXP,,,Miller
+12633811,Jung,Bassel,01,EXP,,,Chaplin
+16697813,Casey,Ethan,01,EXP,,,St. Clair
+14004808,Rowe,Gabe,01,EXP,,,Westberg
+14524808,Granderson,Crystal,01,EXP,,,Herron
+13634815,Tanghe,Ashari,,EXP,,,Cross
+17377808,Hagan,Reagan,01,EXP,,,Libby
+16567811,Jaiswal,Ella,01,EXP,,,Christensen
+12182809,Brockmeyer,Isabelle,01,EXP,,,Nesmith
+19880812,Sandfort,Morgan,01,EXP,,,Farrell
+18299812,Marshall,Megan,01,EXP,,,Miller
+15765801,Empen,Hannah,01,EXP,,,Hatchell
+12973813,Schmit,Jonathan,01,EXP,,,Nesmith
+12993813,Gary,Mckenzie,01,EXP,,,Brown
+18578809,Eckardt,Kiersten,01,EXP,,,Cross
+19689809,Meyer,Braden,01,EXP,,,Nesmith
+11031802,Campbell,Abdi,01,EXP,,,Stead
+11412814,Arnold,Calvin,01,EXP,,,Chaplin
+18479813,Kintopf,John,01,EXP,,,Chaimov
+13134813,Adams,Kayla,01,EXP,,,Kelley
+12743812,Manternach,Alex,01,EXP,,,Christensen
+19750810,Kohl,Sam,01,EXP,,,Farrell
+10928786,Flores-Lopez,Ausar,03,EXP,,,Atwater
+SCJ  190  01
+16916807,Bilkey,James,01,EXP,,,St. Clair
+17146799,Meyer,Murphy,02,COM,,PHL,Hausknecht
+18427799,Delgado,Chase,02,BIO,SCJ,,Sanchini
+17416790,Wilson,Cameron,03,SOC,SCJ,FRE,Barnett
+12642808,Rowell,Josie,01,EXP,,,Kelley
+13353808,Maas,Kaeli,01,EXP,,,Cross
+17415783,Decker,Sydney,04,PSY,,CRW,Kelly
+14584808,Jacobs,Sofia,01,EXP,,,Chihak
+15516814,Shapley,Tori,01,EXP,,,Rodriguez Moreno
+13393804,Decker,Brianda,02,PHL,POL,,Barnett
+11621809,Stiles,Adam,01,EXP,,,Miller
+17837806,Mills,Paige,01,EXP,,,Herron
+11632813,Bushbaum,Josabeth,01,EXP,,,Chen
+15635801,Hansen,Melodie,02,PSY,,,Lee
+17466794,Montalbano,Sarah,03,SCJ,SOC,,McNabb
+13064815,Bogart,Dylan,08,EXP,,,Chaimov
+13864810,Hanson,Linus,01,EXP,,,Chihak
+16046802,Carr,Brittany,01,THE,SCJ,SEC,Barrow
+17836796,Janavich,Delaney,03,ENV,CHM,,Singleton
+19730810,Hendrickson,Brianna,01,EXP,,,St. Clair
+SCJ  490  01
+10708783,Salmi-Perry,Cooper,04,PSY,SCJ,,Barnett
+14543794,Franzen,Nia,02,BIO,SCJ,,Sanchini
+14902784,Henderson,Michael,04,SCJ,,POL,Janca-Aji
+17855788,Leonard,Maxine,04,SCJ,,,McNabb
+17045786,Vandergriff,John,04,SCJ,SOC,,Hoover
+14223792,Maske,Isabella,03,POL,SCJ,SOC,Lanegran
+18636782,Deardorff,Fosia,04,SCJ,PSY,,McNabb
+SCJ  494  01
+15443786,Noor,Avery,04,PSY,SCJ,,McNabb
+13092794,Kim,Jack,03,SCJ,PSY,COM,Kensky
+13711784,Ball,Jasmine,03,SCJ,,,McNabb
+13471785,Fitzgerrel,Ella,04,PSY,SCJ,,Recker
+10448786,Peterson,Alexia,04,SOC,SCJ,SPA,Barnett
+13751781,Collachia,Maiya,04,SOC,SCJ,,Barnett
+16274786,Tillery,Julia,04,SCJ,PSY,,McNabb
+SOC  107  01
+12773814,Flores-Lopez,Shae,01,EXP,,,Farrell
+10320808,Reeves,Mitchell,01,EXP,,,Chaimov
+13611787,Godfrey,Yuser,04,PHY,,MTH,Akgun
+12073813,An,Bassel,01,EXP,,,St. Clair
+18789811,Gard,Gail,01,EXP,,,Miller
+13633800,Kolthoff,Carter,02,EXP,,,McNabb
+13472794,Robinson,Lauren,03,BCH,,,Stead
+12900787,Schreckengast,Brittany,04,KIN,,,Rydze
+12401791,Dylan,Greigh,02,MTH,,,Miller
+10590806,Lindgren,Will,01,EXP,,,Akgun
+11502815,Swain,Lewis,01,EXP,,,St. Clair
+15815803,Dahl,Samuel,02,EXP,,,Libby
+16987812,Mills,Kenidi,01,EXP,,,Christensen
+13800778,Carviou,Carlin,04,BIO,,,Storer
+18408809,Tillery,Katie,01,EXP,,,Libby
+18678809,Williams,Brianna,01,EXP,,,Nordmann
+16576809,Flatland,Brody,01,EXP,,,Farrell
+18828801,Olson,Madison,02,BSN,,,Siems
+10681810,Bohnen,Dolan,01,EXP,,,Libby
+10500804,Lampe,Philip,02,EXP,,,Brown
+16266804,Darling,Ra'niya,01,EXP,,,Kensky
+16266803,Wilson,Daniel,02,EXP,,,Chaimov
+17847803,Stebral,Alfredo,02,ACP,,,Baranowski
+14583793,Freeze,Keegan,04,BIO,NEU,SPA,Cozine
+16137815,Sanchez,Grifen,02,EXP,,,Rydze
+SOC  107  02
+19478799,Akahrir,Alexa,02,PSY,SCJ,SOC,Kelly
+11751808,Decker,Clayten,01,EXP,,,Brown
+11860795,Grech,Kyle,03,BUS,PSY,,Melcher
+14644808,Chaney-Pruitt,Piper,01,EXP,,,Libby
+10671814,Starmann,Aubrey,01,EXP,,,Rodriguez Moreno
+11141806,Chang,Jacob,02,EXP,,,Storer
+15914798,Plasek,Gabrielle,02,PSY,,,Drexler
+18309813,Capalbo,Harry,01,EXP,,,Herron
+11331809,Watkins,Jerry,01,EXP,,,Perry
+12312809,Doromal,Jonah,01,EXP,,,Westberg
+11131804,Martin,Dylan,02,EXP,,,Hughes
+14205811,Baney,Andrew,01,EXP,,,Libby
+14434801,Loza,Megan,01,KIN,,,Rydze
+15895801,Bliss,Karen,01,SCJ,,,Kensky
+17027809,Buckley,Max,01,EXP,,,Brown
+18689814,Hagan,Brady,01,EXP,,,Miller
+19249809,Carter,Gabe,01,EXP,,,Perry
+19689809,Meyer,Braden,01,EXP,,,Nesmith
+19889809,Gates,Christian,01,EXP,,,Perry
+16977810,Rausch,Hailee,01,EXP,,,Westberg
+13554815,Thurow,Xavier,02,BSN,,,Bursch
+18727792,Cargille,Caitlin,03,ELM,,,Kress
+13183807,Hougen,MyKeisha,03,CS,,,Hughes
+13884813,Mba,Genny,01,EXP,,,Libby
+19748796,Pinto,Brianna,03,PSY,,SPA,Recker
+14664805,Sipwoli,Lauden,02,EXP,,,Barnett
+11512811,Goodwin,Aaminah,01,EXP,,,Christensen
+SOC  107  03
+19159803,Newton,Abbey,01,EXP,,,Sodeman
+15024790,Gray,Lolo,03,PSY,NEU,,Chihak
+18687799,Shelby,Diedrich,01,EXP,,,Atwater
+15456812,Montoya,Savana,01,EXP,,,Chaimov
+19608799,Ropa,Hanna,02,EXP,,,Keenan
+14215812,Menakaya,Amanda,01,EXP,,,Johnson
+12823813,Buck,Bianca,01,EXP,,,Chihak
+14314800,Williams,Jordan,01,ELM,AAM,SPA,Johnson
+17577808,Valdivia Araya,Ningyuan,01,EXP,,,Hausknecht
+18498808,Dukuly,Rush,01,EXP,,,Chaplin
+13393804,Decker,Brianda,02,PHL,POL,,Barnett
+11411801,Marinelli,Patrick,02,EXP,,,Chaimov
+17718812,Kittinger,Avery,01,EXP,,,Farrell
+12252805,Joselit,Brendan,01,EXP,,,Akgun
+19689806,Frias,Elli,01,EXP,,,Akgun
+19339809,Partain,Victoria,01,EXP,,,Nordmann
+15926813,South,Trevor,01,EXP,,,Carr
+13554810,Inuzuka,Jayla,01,EXP,,,Nordmann
+18907794,Ridgway,Meagan,02,EXP,,,Storer
+12241793,Pazour,Molly,02,ACP,BUS,,Chen
+15946810,Haufle,John,01,EXP,,,Johnson
+11602815,Langley,Kei'Yona,02,NEU,BIO,,Baker
+14393793,Lawson,Melodie,03,SCJ,,,McNabb
+17437802,Dohms,Shannon,02,MTH,,ART,Miller
+13183806,Henderson,Sydney,02,ACP,DS,,Rodgers
+SOC  107  04
+12583811,Krob,James,01,EXP,,,Nesmith
+19889807,Petzold,Jayla,01,EXP,,,Hausknecht
+15996811,Dohms,Meghan,01,EXP,,,Rydze
+16576805,Gienapp,Laura,02,EXP,,,Barnett
+12833813,Jang,Caelan,01,EXP,,,Carr
+11242812,Esposito,Emma,01,EXP,,,Libby
+17158814,Plesha,Amaia,01,EXP,,,Rodriguez Moreno
+10020809,Lister,Daniela,01,EXP,,,Johnson
+10740809,Meyer,Alexander,01,EXP,,,Lanegran
+14114809,Samuels,Haley,01,EXP,,,Chaimov
+10631813,Booker,Simon,01,EXP,,,Chen
+18288803,Madigan,Kalynn,01,EXP,,,Recker
+13314814,Gorden Mercer,Laina,01,EXP,,,Cross
+19369809,Kurimski,Myah,01,EXP,,,Atwater
+17777803,Cobb,Jacob,02,CHM,NEU,,Bragatto
+16444788,Sutton,Damarcus,02,EXP,,,Kensky
+13774810,Hardman,Nia,01,EXP,,,Johnson
+15596812,Morris,Abdi,01,EXP,,,Keenan
+16207810,Dreismeier,Jp,01,EXP,,,Hausknecht
+13154813,Sheldon,Judas,01,EXP,,,Rodriguez Moreno
+10361814,Alzuwaini,Anne,01,EXP,,,Chaimov
+17778810,Wever,Jack,01,EXP,,,Kelley
+14624805,Arrigoni,Maya,02,BIO,,,Storer
+12483812,Wendt,Monét,01,EXP,,,Carr
+19678797,Piceno,Sami,03,COM,PR,ART,Carstens
+SOC  217  01
+17935783,Calderon,Maya,04,SOC,ASC,REL,Donofrio
+15533788,Miki,Chase,04,SCJ,SOC,,McNabb
+12811794,Noel,Megan,03,PSY,SOC,,Rodgers
+19578790,Doty,Taylor,03,EXP,,,Chaplin
+11491803,Dugan,Matt,01,SCJ,IS,SOC,McNabb
+16196805,Patton,Ella,01,EXP,,,Hatchell
+12291791,Ford,Joel,03,SOC,,,McNabb
+13832794,Mau,Shotaro,02,EXP,,,Chaimov
+12501792,Hamm,Adin,03,FLM,,THE,Hausknecht
+17045786,Vandergriff,John,04,SCJ,SOC,,Hoover
+14223792,Maske,Isabella,03,POL,SCJ,SOC,Lanegran
+10600802,Adelsberger,Katie,02,PSY,SCJ,SOC,Barnett
+12162802,Lenz,Austin,02,PHY,SOC,,Bragatto
+10789793,Barnes,Alexsia,03,EXP,,,Nesmith
+10879793,Decker,Frank,03,PSY,,,Recker
+13723802,Cummins,Fiona,02,EXP,,,Shaw
+18566780,Chada,Braden,03,SOC,,,Kress
+16975793,Dahl,Eric,02,SOC,ENV,,Rodgers
+17496793,Richards,Josie,03,SCJ,,SOC,McNabb
+15163786,Bradshaw,Brock,03,SCJ,,,McNabb
+19739802,Mahler,Tory,02,EXP,,,Leonardo
+SOC  235  01   W
+15443786,Noor,Avery,04,PSY,SCJ,,McNabb
+13992790,Hanrahan,Philip,03,SCJ,,PHL,Rodgers
+19869804,Daynuah,Megan,02,POL,SCJ,PHL,Lanegran
+18837790,Frost,Madalyn,03,PSY,SCJ,CRW,Farrell
+14894804,Clinton,Paola,02,SCJ,SPA,SOC,McNabb
+12862803,Villarreal,Kennedy,02,POL,,,Nesmith
+13092794,Kim,Jack,03,SCJ,PSY,COM,Kensky
+14034800,Biegger,Mariam,02,SCJ,PSY,,McNabb
+12841796,Rios,Graham,02,SCJ,REL,,Kensky
+12383814,McCrary,Ellinor,01,EXP,,,Affatigato
+13523804,Finneman,Max,02,EXP,,,Barnett
+10839792,Kepros Caballero,Eva,04,SCJ,ENG,SEC,McNabb
+16686804,Comparato,Shar,01,EXP,,,Chaimov
+16975796,Keppler,Jazmin,03,SCJ,BUS,,Recker
+11848773,Schumacher,Barron,04,SOC,SCJ,,Barnett
+18307794,Eastman,Nijah,02,IBU,,,Bragatto
+14053796,Hensley,Tamara,02,SCJ,PSY,,Kensky
+18636782,Deardorff,Fosia,04,SCJ,PSY,,McNabb
+16274786,Tillery,Julia,04,SCJ,PSY,,McNabb
+SOC  417  01
+10848787,Sievers,Abigail,03,SOC,GSS,FLM,Rodgers
+17416790,Wilson,Cameron,03,SOC,SCJ,FRE,Barnett
+13711784,Ball,Jasmine,03,SCJ,,,McNabb
+19727787,Lansing,Logan,04,SOC,CRW,,Aspengren
+16565792,Wells,Kalei,03,SOC,SCJ,GSS,Barnett
+17466794,Montalbano,Sarah,03,SCJ,SOC,,McNabb
+SOC  450  01   W
+10448786,Peterson,Alexia,04,SOC,SCJ,SPA,Barnett
+19547782,Haufle,Jay,04,BIO,NEU,CHM,Cozine
+15443784,Torson,Tatelyn,04,PSY,SCJ,SOC,Kelly
+SOC  464  01   W
+13751781,Collachia,Maiya,04,SOC,SCJ,,Barnett
+SPA  115  01
+10581814,Hewitt,Kiersten,01,EXP,,,Farrell
+18547790,Lueken,Michael,02,ELM,,,Kress
+13683808,Niyirukundo,Connor,01,EXP,,,Wolgast
+13493800,Voltaire,Karen,02,EXP,,,Tobin
+12552806,Frazier,Gracey,01,EXP,,,Chen
+12592806,Rieser,Cornie,02,MOL,,,Leonardo
+11281805,Noor,Luke,01,EXP,,,Atwater
+14384803,Coleman,Jasmine,02,ECO,,,Barrow
+10268788,Neppl,Duy,03,POL,ECO,,Lanegran
+13983806,Buckley,Taylor,01,EXP,,,Chaimov
+18588809,Cook,Camille,01,EXP,,,Chaimov
+11502810,Vroman,Maxine,01,EXP,,,Libby
+11982815,Sar,Milinda,02,EXP,,,Cozine
+12912802,Valdivia Araya,Stone,02,EXP,,,Bragatto
+16747810,Auen,Chance,01,EXP,,,St. Clair
+17488815,Arduser,Madeline,07,,,,Drexler
+17498815,Smith,Nikki,07,,,,Drexler
+10170804,Meehan,Slade,02,EXP,,,Chaimov
+SPA  215  01
+18958807,Fowler,Ryan,01,EXP,,,Kelley
+12623811,Nido,Patrick,01,EXP,,,Westberg
+18279811,Leotte da Silva,Skyler,01,EXP,,,Christensen
+13353808,Maas,Kaeli,01,EXP,,,Cross
+12502809,Kinsler,Christal,01,EXP,,,Westberg
+16736809,Walker,Jonathan,01,EXP,,,Herron
+17318815,Goeke,Madalyn,06,,,,Ashton
+17728810,Powers,Isabelle,01,EXP,,,Cross
+10901815,Eichhorn,Ali,01,EXP,,,Kelley
+15855805,Christiansen,Mackenzie,02,POL,IS,,Chaimov
+SPA  225  01
+19718799,Becher,Jack,02,EXP,,,Melcher
+10330801,Finneman,Ethan,02,EXP,,,Baranowski
+13223809,Verchimak,Jazmin,01,EXP,,,Miller
+11831803,Aitchison,Austin,02,EXP,,,Recker
+11662810,Aucutt,Allie,01,EXP,,,Nordmann
+SPA  315  01
+17627807,Kuehner,John,01,EXP,,,Chihak
+19817785,Dey,Heath,09,,,,Ashton
+11102813,Carsrud,Lauren,01,EXP,,,Rydze
+10448786,Peterson,Alexia,04,SOC,SCJ,SPA,Barnett
+16226809,Krambeer,Lauren,01,EXP,,,Miller
+19369809,Kurimski,Myah,01,EXP,,,Atwater
+10689796,Fleck,Sarah,02,ACM,,,Melcher
+17046793,Webb,Brady,02,EXP,,,Recker
+19299802,Brown,Kayla,02,ACP,BUS,SPA,Melcher
+SPA  315  02
+16125799,Calix,Elsie,02,PSY,,,Shaw
+14894804,Clinton,Paola,02,SCJ,SPA,SOC,McNabb
+15475808,Carey,Victoria,01,EXP,,,St. Clair
+19880812,Sandfort,Morgan,01,EXP,,,Farrell
+18158805,Yuma,Erica,02,EXP,,,Stead
+17567809,Shipman,Moet,01,EXP,,,Affatigato
+12263813,Zheng,Katie,01,EXP,,,Westberg
+14445813,Duran-Montero,Jennifer,01,EXP,,,Carr
+16266804,Darling,Ra'niya,01,EXP,,,Kensky
+10879793,Decker,Frank,03,PSY,,,Recker
+15555802,Moody,Trystin,02,BIO,ENV,,St. Clair
+17437802,Dohms,Shannon,02,MTH,,ART,Miller
+SPA  339  01
+10990804,Ortega,Berrigan,01,POL,,,Lanegran
+14693790,Sutton,Noah,03,BIO,MOL,,Ellis
+12693815,Ge,Geoffrey,02,EXP,,,Bursch
+17747804,Justice,Reagan,02,EXP,,,Leonardo
+15455808,Alzuwaini,Josh,01,EXP,,,Rydze
+15963784,Koenen,Dalton,03,PSY,NEU,,Baker
+13402791,Noel,Dolan,03,EXP,,,Singleton
+19457780,Edwards,Carley,04,PHY,MTH,SPA,Akgun
+18378804,Lopez,Ashley,02,EXP,,,Barnett
+14574801,Zeonweh,Gad,02,EXP,,,Atwater
+16466809,McCrary,Jay,01,EXP,,,Chaimov
+18828801,Olson,Madison,02,BSN,,,Siems
+18037794,Theriault,Jordan,02,EXP,,,Barnett
+14583793,Freeze,Keegan,04,BIO,NEU,SPA,Cozine
+19548794,Kilburg,Hunter,04,EXP,,,St. Clair
+11961805,Brown,Aaron,01,EXP,,,Chaimov
+SPA  345  01
+15446813,Moran,Shae,01,EXP,,,Carr
+10119791,Hougen,Adam,03,IBU,SPA,ECO,Affatigato
+13413800,Schroeder,Daphne,02,BIO,SPA,CHM,Stead
+15994794,Deaton,Madison,03,EXP,,,Chen
+18718801,Goode,Graham,02,BIO,ENV,SPA,Stead
+16665795,Sloth,Ta’sje’,02,ECO,,,Lensing
+SPA  416  01
+16195795,Koshikawa,Catherine,03,CRW,REL,SPA,Kensky
+13681785,Rajkarnikar,Jordyn,03,SPA,,SEC,Johnson
+19377782,Hanrahan,Bennett,04,HIS,SPA,,Arnold
+19428795,Morgan,Trisan,02,PHY,SPA,,Bragatto
+13841782,Ferrie,Kaleb,04,MTH,,SPA,Hoover
+12850782,Goode,Natalie,04,BIO,NEU,CHM,Christensen
+11061802,Browne,Emily,02,COM,,SPA,Donofrio
+10608787,McBride,Jayla,03,PSY,,SPA,Farrell
+11102814,Budhwani,Alexis,02,SPA,IS,,Chaimov
+18506785,Velo,Carli,04,PSY,SPA,,Brown
+SPA  476  01   W
+18688804,Kolade,Mitchel,02,EXP,,,Nguyen
+STA  100  01
+17935783,Calderon,Maya,04,SOC,ASC,REL,Donofrio
+16454784,Urbatsch,Sarah,03,BIO,,ANT,Cozine
+11399782,Koch,Will,04,BUS,,,Kuennen
+11301803,Rockwell,Shaylee,02,EXP,,,Umbarger-Mackey
+15533788,Miki,Chase,04,SCJ,SOC,,McNabb
+13493800,Voltaire,Karen,02,EXP,,,Tobin
+13401782,Velez,Mikel,04,BUS,,,Eichhorn
+16936804,Schultz,Eva,02,EXP,,,Atwater
+19749800,Batey,Grant,02,BIO,,HSS,Storer
+14462783,Petzold,Calvin,03,BUS,,,Atwater
+18837791,Nguyen,Alexander,03,EXP,,,Chen
+12012801,Kerns,Shelby,02,EXP,,,Brown
+18719812,Guyton,Garrett,01,EXP,,,Christensen
+17617803,White,Kelly,02,EXP,,,Bursch
+18288805,Clinton,Trevor,02,BSN,,,Bursch
+17947804,Martin,Toby,02,BIO,NEU,HSS,Storer
+18566786,Roireau,David,04,REL,,HIS,Kensky
+10839792,Kepros Caballero,Eva,04,SCJ,ENG,SEC,McNabb
+14694801,Mahler,Allesyn,02,EXP,,,Bursch
+12000788,Rashed,Aaron,04,ACP,BUS,,Nguyen
+18216780,Linder,Nigel,04,ENG,CRW,HIS,Aspengren
+16054782,Fedrick,Xavier,04,ACM,BUS,ECO,Melcher
+19727787,Lansing,Logan,04,SOC,CRW,,Aspengren
+19737787,Newell,Will,04,BIO,,FRE,Cozine
+15183789,Burkhart,Daion,04,BUS,COM,,Baranowski
+13681789,Wilhelmi,Damarcus,04,BIO,,,Storer
+15343787,Jackson,Easton,04,ACP,BUS,,Nguyen
+17445788,Stallman,Natalie,04,BUS,,,Barnett
+18916786,Mills,Isabella,04,BUS,,ECO,Atwater
+14482788,Seymour,Guy, III,04,BUS,,,Duru
+11981805,Thomasson,Jackie,02,BSN,,,Siems
+STA  100  02
+12603811,Ausenhus,Jared,01,EXP,,,Miller
+10581814,Hewitt,Kiersten,01,EXP,,,Farrell
+19148799,Lister,Adin,02,EXP,,,Hayes
+17707804,Partain,Adam,02,ECO,FLM,,Nguyen
+18789811,Gard,Gail,01,EXP,,,Miller
+14844808,Hasselbacher,Madalynn,01,EXP,,,Christensen
+10739791,Aitchison,Cornie,03,BIO,,,Christensen
+16384786,Seidel,Cameron,04,MUE,,,Falk
+13681785,Rajkarnikar,Jordyn,03,SPA,,SEC,Johnson
+17667808,Kolpin,Melanie,01,EXP,,,Johnson
+16035791,Gonzalez,Slade,03,HIS,KIN,,Nordmann
+11281805,Noor,Luke,01,EXP,,,Atwater
+18788803,Thao,Jp,02,BSN,,,Siems
+18309813,Capalbo,Harry,01,EXP,,,Herron
+19580815,Kirk,Seth,02,EXP,,,Kress
+13223809,Verchimak,Jazmin,01,EXP,,,Miller
+19548791,Zeonweh,Cornie,03,BIO,PSY,ASC,Christensen
+18299812,Marshall,Megan,01,EXP,,,Miller
+19168792,Baker,Piper,03,BIO,NEU,,Cozine
+11031802,Campbell,Abdi,01,EXP,,,Stead
+19700812,Kilpatrick,Jorge,01,EXP,,,Chaplin
+13214810,Brosius,Will,01,EXP,,,Christensen
+18516788,Sykes-Brooks,Noah,04,BUS,,,Eichhorn
+19357780,Morgan,Allison,04,EVS,PHL,SPA,St. Clair
+18526786,Menke,Julia,04,ELM,,,Kress
+11961805,Brown,Aaron,01,EXP,,,Chaimov
+18918802,Corcoran,Faith,02,ELM,,SPA,Russell
+16137815,Sanchez,Grifen,02,EXP,,,Rydze
+STA  100  03
+13893806,Pazour,Julie,02,BSN,,,Siems
+16117815,Schipper,Skyler,02,EXP,,,Storer
+19869804,Daynuah,Megan,02,POL,SCJ,PHL,Lanegran
+11491803,Dugan,Matt,01,SCJ,IS,SOC,McNabb
+13423803,Escalante,Cassie,01,EXP,,,Nguyen
+17997800,Hodges,Oyin,02,EXP,,,Christensen
+14543794,Franzen,Nia,02,BIO,SCJ,,Sanchini
+15516814,Shapley,Tori,01,EXP,,,Rodriguez Moreno
+12032801,Vroman,Tamara,02,COM,,MUS,Donofrio
+19569803,Ramirez,Brayden,02,EXP,,,Baranowski
+14434801,Loza,Megan,01,KIN,,,Rydze
+12731792,Palmer,Mouyseang,02,POL,,,Nesmith
+17775785,Frost,Bridget,03,SCJ,HIS,,Arnold
+16686804,Comparato,Shar,01,EXP,,,Chaimov
+18168809,Ridgway,Chrissy,01,EXP,,,Cross
+17047803,Maturo,Jennifer,01,EXP,,,Barnett
+15526812,Sanchez,Cassi,10,EXP,,,Umbarger-Mackey
+19559801,Butler,Mikayla,02,EXP,,,Bragatto
+19497783,Lloyd,Avery,04,BIO,,CHM,Cozine
+18617792,Barnes,Casey,02,FLM,,,Nesmith
+11832810,Godfrey,Moet,01,EXP,,,Kelley
+12693814,McLean,Christian,01,EXP,,,Nesmith
+16306804,Oware,Ella,02,EXP,,,Baranowski
+10610804,Kolker,Sofia,01,EXP,,,Sodeman
+17996796,Vaughn,Garrison,02,EXP,,,Recker
+17818814,Sosa,Xavier,01,EXP,,,Nesmith
+STA  110  02
+10848787,Sievers,Abigail,03,SOC,GSS,FLM,Rodgers
+STA  110  03
+18728807,Langerud,Jania,01,EXP,,,Lanegran
+13353808,Maas,Kaeli,01,EXP,,,Cross
+19339805,Heath,Alexander,04,BUS,,,Kuennen
+19587787,Empen,Ben,03,BUS,,,Lensing
+STA  315  01
+14895815,Hower,Theo,08,EXP,,,Chaimov
+19578790,Doty,Taylor,03,EXP,,,Chaplin
+11459787,Alzuwaini,Lucas,04,ECO,ENV,,Eichhorn
+10889791,Valdivia Araya,Katie,04,ECO,,MTH,Eichhorn
+11500791,Strong,Jacquelyne,03,EXP,,,Affatigato
+12401791,Dylan,Greigh,02,MTH,,,Miller
+12880781,Finneman,Logan,04,ECO,,SPA,Baranowski
+19888791,Bogart,Marissa,04,ECO,BUS,MTH,Eichhorn
+13841782,Ferrie,Kaleb,04,MTH,,SPA,Hoover
+12321792,Ball,Amber,03,MTH,,ART,Miller
+16666801,Gienapp,Amanda,03,EXP,,,Akgun
+13721786,Almarales,Caitlin,04,MTH,CS,,Herron
+18377792,Akahrir,Gracie,04,ECO,MTH,,Westberg
+14282789,Heath,Carlin,04,CS,PHY,,Barnett
+17336793,Shelley,Maddie,03,ECO,,MTH,Lensing
+16914788,Kuehner,Michelle,03,PHY,MTH,,White
+10788785,Fagans,Brian,04,MTH,ECO,PHY,Baranowski
+19768796,Glandt,Victoria,03,EXP,,,Eichhorn
+THE  100  01
+16635799,Washington,Katie,02,EXP,,,Leonardo
+17476799,La Ronge,Camille,02,BSN,,,Umbarger-Mackey
+19539807,Griswold,Jill,01,EXP,,,Nesmith
+12693815,Ge,Geoffrey,02,EXP,,,Bursch
+10998781,Collins,Adrianna,04,PHY,CHM,,Akgun
+13493800,Voltaire,Karen,02,EXP,,,Tobin
+15974796,Panduro Orellana,Paul,04,BUS,,,Kuennen
+11281805,Noor,Luke,01,EXP,,,Atwater
+19749800,Batey,Grant,02,BIO,,HSS,Storer
+15234794,Gobeli,Daniel,02,ELM,,,Hayes
+11351801,Mau,Harry,02,EXP,,,Baranowski
+11561801,Camargo,Nicholas,02,EXP,,,Atwater
+15654794,Costello,Valerie,02,EXP,,,Kensky
+15336811,Goldsmith,Jay,01,EXP,,,Herron
+17947804,Martin,Toby,02,BIO,NEU,HSS,Storer
+18378804,Lopez,Ashley,02,EXP,,,Barnett
+14614809,Watkins,Rachel,01,EXP,,,Herron
+16186809,Goode,Tory,01,EXP,,,Chaimov
+17667801,Kim,Breeana,02,EXP,,,Perry
+10510805,Brockmeyer,Haley,02,EXP,,,Barnett
+10580807,Vickers,Michaela,01,EXP,,,Chaimov
+12991798,Meehan,Heather,02,ELM,,,Russell
+17778810,Wever,Jack,01,EXP,,,Kelley
+11961805,Brown,Aaron,01,EXP,,,Chaimov
+19318795,Wilson,Amanda,02,EXP,,,Lee
+19220811,Lunkley,Kinsie,01,EXP,,,Lanegran
+12753812,Whaley,Madison,01,EXP,,,Carr
+10660804,Hower,Hailey,02,BUS,,,Baranowski
+11981805,Thomasson,Jackie,02,BSN,,,Siems
+19769804,Meehan,Tori,03,KIN,,,Atwater
+THE  102  02
+13221781,Ishimwe,Naomi,04,THE,PSY,SEC,Kelly
+11909788,Doromal,Trevor,04,FLM,THE,,Barnett
+10308781,Brown,Myrna,04,THE,,,Wolverton
+18756786,Huston,Sienna,04,THE,CRW,,Aspengren
+THE  102  03
+19029807,Clarke,Kiily,01,EXP,,,Chaimov
+14735813,Stitt,Lydia,01,EXP,,,Herron
+13763800,Billings,Tyler,02,EXP,,,Hausknecht
+10287779,Winn,Francine,04,FLM,CS,MUS,Hughes
+19259808,Marshall,Sage,01,EXP,,,St. Clair
+10520801,Newell,Mia,02,THE,ENG,,Hayes
+12030782,Selfridge,Jacob,04,CS,,FLM,Hughes
+18779812,Menakaya,Kayla,01,EXP,,,Nordmann
+11922810,Amezcua,Jason,01,EXP,,,Hausknecht
+14475810,Mouring,Jarad,01,EXP,,,Hausknecht
+16587814,Nowobilski,Sydney,01,EXP,,,Hausknecht
+THE  102  04
+13952790,Varner,Haley,02,EXP,,,Johnson
+18877799,Gary,Tracy,01,EXP,,,Barnett
+16027815,Pazour,Alexa,08,EXP,,,Chaimov
+18547790,Lueken,Michael,02,ELM,,,Kress
+15036812,Lukombo,Madison,01,EXP,,,Rydze
+12171795,Shrestha,Addie,02,CS,MTH,,Barnett
+11181809,Gonzalez,Sydney,01,EXP,,,Farrell
+19007780,Karwowski,Mollie,04,BIO,NEU,CHM,Storer
+17718812,Kittinger,Avery,01,EXP,,,Farrell
+18588809,Cook,Camille,01,EXP,,,Chaimov
+18497792,Mahler,Caden,03,CRW,,THE,Ziskowski
+10450802,Williams,Katherine,02,CRW,,MUS,Barnett
+17847803,Stebral,Alfredo,02,ACP,,,Baranowski
+16667810,Tatum,Ashley,01,EXP,,,Rodriguez Moreno
+10268787,Freese,Genny,04,HIS,,SEC,Keenan
+THE  102  05
+11311803,Washington,Haley,02,EXP,,,Atwater
+13690776,Carrasco,Amanda,04,THE,EVS,,White
+11280799,Olney,Rebecca,03,MOL,,ANT,Sanchini
+14314800,Williams,Jordan,01,ELM,AAM,SPA,Johnson
+14434803,Marshall,Savannah,01,SCJ,PSY,THE,Wolverton
+16965796,Aller,Maya,03,PHY,,,Bragatto
+18617792,Barnes,Casey,02,FLM,,,Nesmith
+14382784,Robinson,Olivia,04,ENG,,ASC,Shaw
+11229781,Almarales,Vinh,04,CRW,THE,,Aspengren
+13133802,Appleby-Sparrow,Alayna,02,EXP,,,Hausknecht
+13591784,Westercamp,Trevor,03,PSY,SCJ,,Brown
+16746803,Benson,Jaxon,02,PSY,,SOC,Kelly
+THE  102  09
+16576805,Gienapp,Laura,02,EXP,,,Barnett
+14294802,Collachia,Brady,02,EXP,,,Barnett
+16046802,Carr,Brittany,01,THE,SCJ,SEC,Barrow
+THE  130  01
+13113805,Mba,Mckenzie,01,EXP,,,Johnson
+13641788,Fleck,Hunter,04,ACM,PSY,,Melcher
+11261800,Hall,Landen,02,ART,,SEC,Rogers
+10840806,Garcia,Kei'Yona,02,SCJ,,AAM,Rodgers
+19957780,Brazell,Mark,04,HIS,,ARH,Keenan
+16565792,Wells,Kalei,03,SOC,SCJ,GSS,Barnett
+10780802,Corcoran,Anna,01,MTH,,,Miller
+10237778,Harrelson,Eric,04,ARH,,GS,Lueth
+THE  150  01
+19806772,DeTombe,Will,04,ENG,THE,SEC,Hayes
+12570789,Lynas,Kaleb,04,PSY,THE,,Brown
