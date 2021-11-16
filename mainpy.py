@@ -269,8 +269,38 @@ def courseByProf(mydb,prof): # prof in FI Lastname format
     print(results)
     return results
 
+## task 3 : course registration
+def createStudentEnrollTable(mydb):
+    q = '''CREATE TABLE student (
+    studentID INT PRIMARY KEY NOT NULL AUTO_INCREMENT,
+    studentNum VARCHAR(10),
+    fname VARCHAR(20),
+    lname VARCHAR(20),
+    classYear VARCHAR(4),
+    major1 VARCHAR(20),
+    major2 VARCHAR(20),
+    minor1 VARCHAR(20),
+    advisor VARCHAR(20)
+    )
+    
+    CREATE TABLE enrollment (
+    studentID INT NOT NULL,
+    courseID INT NOT NULL,
+    status ENUM("Active","Waitlist"),
+    FOREIGN KEY (studentID) references student(studentID), FOREIGN KEY (courseID) references schedule(CourseID));
+    '''
+
+    myc = mydb.cursor()
+    try:
+        myc.execute(q, multi= True)
+        print('success')
+    except mysql.connector.Error as e:
+        print(e)
+
+
+
 mydb = connectDB()
 dropTables(mydb)
 createSchTable(mydb)
 loadSQL(mydb)
-courseByProf(mydb,'C Stead')
+createStudentEnrollTable(mydb)
