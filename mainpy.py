@@ -15,7 +15,7 @@ import csv
 
 file = 'F21CourseSchedule.csv' #keep in same folder
 
-def createDB():
+def connectDB():
     try:
         mydb = mysql.connector.connect(
         host = 'localhost',
@@ -82,8 +82,6 @@ def cleanFile(filelist):
             ultlist.append(line)
 
     return ultlist
-
-
 
 def splitCourseCodes(courseItem): # input - a row (note: all items extracted are in one list item originally
     courseinfo = courseItem[0]
@@ -218,7 +216,7 @@ def loadSQL(db):
 
 
 def taskpt1():
-    mydb = createDB()
+    mydb = connectDB()
     dropTables(mydb)
     createSchTable(mydb)
     loadSQL(mydb)
@@ -226,8 +224,53 @@ def taskpt1():
 ### task 2
 # simple queries w/ schedule
 
-def courseDept():
-    q = '''SELECT 
-    '''
+def executeQuery(mydb,query):
+    mycursor = mydb.cursor()
+    try:
+        mycursor.execute(query)
+        result = mycursor.fetchall() # thanks w3schools (https://www.w3schools.com/python/python_mysql_select.asp)
 
-taskpt1()
+    except mysql.connector.Error as e:
+        print(e)
+        print('error: is there an error in your syntax?')
+        result = None
+    return result
+
+def courseDept(mydb,dept): # enter department as 3 letter code
+    q = 'SELECT * FROM schedule WHERE Dept = "' + dept + '";'
+    results = executeQuery(mydb,q)
+    print(results)
+    return results
+
+def timeBlock():
+    pass
+
+def socialSciClasses(mydb,**chosendepts): # optional argument to override course dept list
+    ssDepts = ['ANT',"ECO","POL","PSY","SOC"]
+    if chosendepts:
+        ssDepts = chosendepts
+    q = 'SELECT * from schedule where Dept = "'
+    for s in ssDepts[:-1]:
+         q+= s + '" OR Dept = "'
+    q+= ssDepts[-1] + '";'
+    results = executeQuery(mydb,q)
+    print(results)
+    return results
+
+def dcpCourses(mydb):
+    q = 'SELECT * from schedule WHERE RIGHT(Num,1) IN ("6","7","8");'
+    results = executeQuery(mydb,q)
+    print(results)
+    return results
+
+def courseByProf(mydb,prof): # prof in FI Lastname format
+    q = 'SELECT * from schedule WHERE Instructor LIKE "' + prof + '";'
+    results = executeQuery(mydb, q)
+    print(results)
+    return results
+
+mydb = connectDB()
+dropTables(mydb)
+createSchTable(mydb)
+loadSQL(mydb)
+courseByProf(mydb,'C Stead')
