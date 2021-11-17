@@ -271,6 +271,8 @@ def courseByProf(mydb,prof): # prof in FI Lastname format
 
 ## task 3 : course registration
 def createStudentEnrollTable(mydb):
+    drop = """ DROP TABLE student; DROP TABLE enrollment;"""
+
     q = '''CREATE TABLE student (
     studentID INT PRIMARY KEY NOT NULL AUTO_INCREMENT,
     studentNum VARCHAR(10),
@@ -281,7 +283,7 @@ def createStudentEnrollTable(mydb):
     major2 VARCHAR(20),
     minor1 VARCHAR(20),
     advisor VARCHAR(20)
-    )
+    );
     
     CREATE TABLE enrollment (
     studentID INT NOT NULL,
@@ -290,12 +292,21 @@ def createStudentEnrollTable(mydb):
     FOREIGN KEY (studentID) references student(studentID), FOREIGN KEY (courseID) references schedule(CourseID));
     '''
 
+    mycd = mydb.cursor()
+    try:
+        mycd.execute(drop, multi = True)
+        print('prior tables dropped')
+    except mysql.connector.Error as e:
+        print(e)
+
     myc = mydb.cursor()
     try:
         myc.execute(q, multi= True)
         print('success')
     except mysql.connector.Error as e:
         print(e)
+
+def fillRegistration(mydb):
 
 
 
