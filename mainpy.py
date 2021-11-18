@@ -114,8 +114,7 @@ def readToSQL(listlines):
         print(breakdown)
 
 def dropTables(db):
-    drop =  """DROP TABLE schedule;
-    DROP TABLE meeting;"""
+    drop =  """DROP TABLE schedule, meeting;"""
 
     myc = db.cursor()
     try:
@@ -191,7 +190,10 @@ def fillTable(db,row): #row is a list of all the items in a row
     try:
         print('attempt:', q1)
         res = mycursor.execute(q1)
+        results = res.fetchall()
+
         db.commit()
+        print(results[1])
         print('successful meeting insert')
     except mysql.connector.Error as e:
         print(e)
@@ -308,6 +310,7 @@ def createStudentEnrollTable(mydb):
     except mysql.connector.Error as e:
         print(e)
 
+
 def registrationRow(mydb,row):
     pass
 
@@ -315,16 +318,14 @@ def findCourseID(courseinfo,mydb):
     dept, code, sect = courseinfo
     query = 'SELECT courseID FROM schedule WHERE Dept = "' + dept + \
      '" AND Num = "' + code + '" AND section = "' + sect + '";'
-    mycursor = mydb.cursor()
+
     try:
-        mycursor.execute(query)
-        courseID = mycursor.fetchall()
+        courseID = executeQuery(mydb,query)
+        print(courseID)
         return courseID
     except mysql.connector.Error as e:
         print(e)
         return None
-
-
 
 
 def fillRegistration(mydb):
@@ -333,27 +334,31 @@ def fillRegistration(mydb):
     for t in filecontents[1:]: #header with col names in 1
         if len(t) == 1: #if it's a heading for a class...
             currentCourse = []
-            course = str(t)[2:-2].split("  ")
+            course = str(t)[2:-2].split()
+            print(course)
             if len(course) > 0:
                 if len(course) == 4:
 
                     course[2] = course[2]+(course[3].strip())
                     course.pop()
                    # dept, ccode, sect = course
-                currentcourseID = findCourseID(course,mydb)
+                if len(course) == 3:
+                    currentcourseID = findCourseID(course,mydb)
+                else:
+                    print('errpr with course:', course)
         else:
-
-            q = 'INSERT INTO enrollment VALUES (studentID "'
-
-
+            q = 'INSERT INTO enrollment VALUES ("' + '","'.join(t) + '");'
+            res = executeQuery(mydb,q)
 
 
 
 
 mydb = connectDB()
+
+#
+dropTables(mydb)
+createSchTable(mydb)
+
+loadSQL(mydb)
 createStudentEnrollTable(mydb)
 fillRegistration(mydb)
-#dropTables(mydb)
-#createSchTable(mydb)
-#loadSQL(mydb)
-#createStudentEnrollTable(mydb)
