@@ -15,6 +15,8 @@ import csv
 
 file = 'F21CourseSchedule.csv' #keep in same folder
 
+regisfile = 'F21 Registration.csv'
+
 def connectDB():
     try:
         mydb = mysql.connector.connect(
@@ -271,7 +273,7 @@ def courseByProf(mydb,prof): # prof in FI Lastname format
 
 ## task 3 : course registration
 def createStudentEnrollTable(mydb):
-    drop = """ DROP TABLE student; DROP TABLE enrollment;"""
+    drop = """ DROP TABLE student, enrollment;"""
 
     q = '''CREATE TABLE student (
     studentID INT PRIMARY KEY NOT NULL AUTO_INCREMENT,
@@ -306,12 +308,52 @@ def createStudentEnrollTable(mydb):
     except mysql.connector.Error as e:
         print(e)
 
+def registrationRow(mydb,row):
+    pass
+
+def findCourseID(courseinfo,mydb):
+    dept, code, sect = courseinfo
+    query = 'SELECT courseID FROM schedule WHERE Dept = "' + dept + \
+     '" AND Num = "' + code + '" AND section = "' + sect + '";'
+    mycursor = mydb.cursor()
+    try:
+        mycursor.execute(query)
+        courseID = mycursor.fetchall()
+        return courseID
+    except mysql.connector.Error as e:
+        print(e)
+        return None
+
+
+
+
 def fillRegistration(mydb):
+    filecontents = openFile(regisfile)
+
+    for t in filecontents[1:]: #header with col names in 1
+        if len(t) == 1: #if it's a heading for a class...
+            currentCourse = []
+            course = str(t)[2:-2].split("  ")
+            if len(course) > 0:
+                if len(course) == 4:
+
+                    course[2] = course[2]+(course[3].strip())
+                    course.pop()
+                   # dept, ccode, sect = course
+                currentcourseID = findCourseID(course,mydb)
+        else:
+
+            q = 'INSERT INTO enrollment VALUES (studentID "'
+
+
+
 
 
 
 mydb = connectDB()
-dropTables(mydb)
-createSchTable(mydb)
-loadSQL(mydb)
 createStudentEnrollTable(mydb)
+fillRegistration(mydb)
+#dropTables(mydb)
+#createSchTable(mydb)
+#loadSQL(mydb)
+#createStudentEnrollTable(mydb)
