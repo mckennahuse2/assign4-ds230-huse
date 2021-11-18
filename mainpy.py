@@ -292,8 +292,7 @@ def createStudentEnrollTable(mydb):
     CREATE TABLE enrollment (
     studentID INT NOT NULL,
     courseID INT NOT NULL,
-    status ENUM("Active","Waitlist"),
-    FOREIGN KEY (studentID) references student(studentID), FOREIGN KEY (courseID) references schedule(CourseID));
+    status ENUM("Active","Waitlist");
     '''
 
     mycd = mydb.cursor()
