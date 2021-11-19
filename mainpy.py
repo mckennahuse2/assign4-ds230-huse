@@ -233,12 +233,12 @@ def executeQuery(mydb,query):
     try:
         mycursor.execute(query)
         result = mycursor.fetchall() # thanks w3schools (https://www.w3schools.com/python/python_mysql_select.asp)
-
+        reslist = [r[0] for r in result]
     except mysql.connector.Error as e:
         print(e)
         print('error: is there an error in your syntax?')
-        result = None
-    return result
+        reslist = []
+    return reslist
 
 def courseDept(mydb,dept): # enter department as 3 letter code
     q = 'SELECT * FROM schedule WHERE Dept = "' + dept + '";'
@@ -274,9 +274,18 @@ def courseByProf(mydb,prof): # prof in FI Lastname format
     return results
 
 ## task 3 : course registration
-def createStudentEnrollTable(mydb):
-    drop = """ DROP TABLE student, enrollment;"""
 
+def dropEnrollment(mydb):
+    drop = """ DROP TABLE student; DROP TABLE enrollment;"""
+    mycd = mydb.cursor()
+    try:
+        mycd.execute(drop, multi = True)
+        print('prior tables dropped')
+    except mysql.connector.Error as e:
+        print(e)
+
+
+def createStudentEnrollTable(mydb):
     q = '''CREATE TABLE student (
     studentID INT PRIMARY KEY NOT NULL AUTO_INCREMENT,
     studentNum VARCHAR(10),
@@ -292,19 +301,14 @@ def createStudentEnrollTable(mydb):
     CREATE TABLE enrollment (
     studentID INT NOT NULL,
     courseID INT NOT NULL,
-    status ENUM("Active","Waitlist");
+    status ENUM("Active","Waitlist"));
     '''
-
-    mycd = mydb.cursor()
-    try:
-        mycd.execute(drop, multi = True)
-        print('prior tables dropped')
-    except mysql.connector.Error as e:
-        print(e)
 
     myc = mydb.cursor()
     try:
-        myc.execute(q, multi= True)
+        res = myc.execute(q, multi= True)
+        for r in res:
+            print(r)
         print('success')
     except mysql.connector.Error as e:
         print(e)
@@ -321,7 +325,10 @@ def findCourseID(courseinfo,mydb):
     try:
         courseID = executeQuery(mydb,query)
         print(courseID)
-        return courseID
+        if courseID:
+            return courseID[0]
+        else:
+            return courseID
     except mysql.connector.Error as e:
         print(e)
         return None
@@ -344,11 +351,16 @@ def fillRegistration(mydb):
                 if len(course) == 3:
                     currentcourseID = findCourseID(course,mydb)
                 else:
-                    print('errpr with course:', course)
+                    print('error with course:', course)
         else:
-            q = 'INSERT INTO enrollment VALUES ("' + '","'.join(t) + '");'
-            res = executeQuery(mydb,q)
-
+            #strT = '","'.join(t)
+            q = 'INSERT INTO enrollment (studentID, courseID) VALUES (' + str(t[0]) + ', ' + str(currentcourseID) + ');'
+            print(q)
+            try:
+                res = executeQuery(mydb,q)
+                print('success insert enroll')
+            except mysql.connector.Error as e:
+                print(e)
 
 
 
@@ -359,5 +371,6 @@ dropTables(mydb)
 createSchTable(mydb)
 
 loadSQL(mydb)
+dropEnrollment(mydb)
 createStudentEnrollTable(mydb)
 fillRegistration(mydb)
