@@ -343,10 +343,16 @@ def findStudentID(courseinfo,mydb):
     else:
         return None
 
-def fillEnrollment(mydb):
-    filecontents = openFile(regisfile)
+
+
+def fillEnrollment(mydb,*rows): #rows are optional entries, manual entry of rows
+    if rows:
+        data = rows[0]
+    else:
+        filecontents = openFile(regisfile)
+        data = filecontents[1:] #don't use header
     listStudentNums = []
-    for t in filecontents[1:]: #header with col names in 1
+    for t in data: #header with col names in 1
         if len(t) == 1: #if it's a heading for a class...
             currentCourse = []
             course = str(t)[2:-2].split()
@@ -361,7 +367,12 @@ def fillEnrollment(mydb):
                     currentcourseID = findCourseID(course,mydb)
                 else:
                     print('error with course:', course)
-        elif len(t) == 8 and t[0] not in listStudentNums:
+        elif not t[3].isnumeric() and len(t) == 9:
+            before = t[:2]
+            after = t[4:]
+            mid = [str(t[2]) + " " + str(t[3])]
+            t = before + mid + after
+        if len(t) == 8 and t[0] not in listStudentNums:
             q1 = 'INSERT INTO student (studentNum,lname,fname,classYear,major1,major2,minor1,advisor) VALUES ("' \
                     + '","'.join(t) + '");'
             try:
@@ -373,14 +384,16 @@ def fillEnrollment(mydb):
                 print(e)
 
             studentID = findStudentID(t,mydb)
-            q2 = 'INSERT INTO enrollment (studentID, courseID) VALUES ("' + \
-                    str(studentID) + '","' + str(currentcourseID) + '");'
             try:
-                enr = executeQuery(mydb,q2)
-                mydb.commit()
-            except mysql.connector.Error as e:
-                print(e)
-
+                q2 = 'INSERT INTO enrollment (studentID, courseID) VALUES ("' + \
+                        str(studentID) + '","' + str(currentcourseID) + '");'
+                try:
+                    enr = executeQuery(mydb,q2)
+                    mydb.commit()
+                except mysql.connector.Error as e:
+                    print(e)
+            except:
+                pass
 
 
 
@@ -392,5 +405,11 @@ createSchTable(mydb)
 
 loadSQL(mydb)
 dropEnrollment(mydb)
+
+sampleStudents = [['1231231','Scotty','Scott','01','EXP','','','Stoudt'],
+                  ['1234231','Scott', 'Michael','05','BUS','HIS','','Burger'],
+                  ['1233212','McFlurry','Mack','02','PSY','','BIO','Storer']]
+
 createStudentEnrollTable(mydb)
 fillEnrollment(mydb)
+fillEnrollment(mydb,sampleStudents)
