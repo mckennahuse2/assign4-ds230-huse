@@ -183,24 +183,18 @@ def fillTable(db,row): #row is a list of all the items in a row
             results = mycursor.execute(q, multi=True)
             db.commit()
             print('successful insert')
-
     except:
         print('error:', mysql.connector.Error)
-
     try:
         print('attempt:', q1)
         res = mycursor.execute(q1)
         results = res.fetchall()
-
         db.commit()
         print(results[1])
         print('successful meeting insert')
     except mysql.connector.Error as e:
         print(e)
         print('failed meeting insert')
-
-
-
 
 def loadSQL(db):
     filecontents = openFile(file)
@@ -233,7 +227,14 @@ def executeQuery(mydb,query):
     try:
         mycursor.execute(query)
         result = mycursor.fetchall() # thanks w3schools (https://www.w3schools.com/python/python_mysql_select.asp)
-        reslist = [r[0] for r in result]
+        if len(result) > 1:
+            reslist = [r[0] for r in result]
+        elif len(result) == 1:
+            reslist = result[0]
+        else:
+            print('no query result: ', query)
+            print(result)
+            reslist = None
     except mysql.connector.Error as e:
         print(e)
         print('error: is there an error in your syntax?')
@@ -280,7 +281,7 @@ def dropEnrollment(mydb):
     mycd = mydb.cursor()
     try:
         mycd.execute(drop, multi = True)
-        print('prior tables dropped')
+        print('stu/enroll tables dropped')
     except mysql.connector.Error as e:
         print(e)
 
@@ -324,7 +325,6 @@ def findCourseID(courseinfo,mydb):
 
     try:
         courseID = executeQuery(mydb,query)
-        print(courseID)
         if courseID:
             return courseID[0]
         else:
@@ -333,15 +333,24 @@ def findCourseID(courseinfo,mydb):
         print(e)
         return None
 
+def findStudentID(courseinfo,mydb):
+    studentNum = courseinfo[0]
+    q2 = 'SELECT studentID from student where studentNum = "' + studentNum + '";'
+    res = executeQuery(mydb,q2)
+    print(res)
+    if len(res) >= 1:
+        return res[0]
+    else:
+        return None
 
-def fillRegistration(mydb):
+def fillEnrollment(mydb):
     filecontents = openFile(regisfile)
-
+    listStudentNums = []
     for t in filecontents[1:]: #header with col names in 1
         if len(t) == 1: #if it's a heading for a class...
             currentCourse = []
             course = str(t)[2:-2].split()
-            print(course)
+            #print(course)
             if len(course) > 0:
                 if len(course) == 4:
 
@@ -352,16 +361,26 @@ def fillRegistration(mydb):
                     currentcourseID = findCourseID(course,mydb)
                 else:
                     print('error with course:', course)
-        else:
-            #strT = '","'.join(t)
-            q = 'INSERT INTO enrollment (studentID, courseID) VALUES (' + str(t[0]) + ', ' + str(currentcourseID) + ');'
-            print(q)
+        elif len(t) == 8 and t[0] not in listStudentNums:
+            q1 = 'INSERT INTO student (studentNum,lname,fname,classYear,major1,major2,minor1,advisor) VALUES ("' \
+                    + '","'.join(t) + '");'
             try:
-                res = executeQuery(mydb,q)
+                stu = executeQuery(mydb,q1)
                 mydb.commit()
-                print('success insert enroll')
+                listStudentNums.append(t[0])
+                #print('success insert enroll')
             except mysql.connector.Error as e:
                 print(e)
+
+            studentID = findStudentID(t,mydb)
+            q2 = 'INSERT INTO enrollment (studentID, courseID) VALUES ("' + \
+                    str(studentID) + '","' + str(currentcourseID) + '");'
+            try:
+                enr = executeQuery(mydb,q2)
+                mydb.commit()
+            except mysql.connector.Error as e:
+                print(e)
+
 
 
 
@@ -374,4 +393,4 @@ createSchTable(mydb)
 loadSQL(mydb)
 dropEnrollment(mydb)
 createStudentEnrollTable(mydb)
-fillRegistration(mydb)
+fillEnrollment(mydb)
