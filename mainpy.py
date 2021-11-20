@@ -408,7 +408,9 @@ dropEnrollment(mydb)
 
 sampleStudents = [['1231231','Scotty','Scott','01','EXP','','','Stoudt'],
                   ['1234231','Scott', 'Michael','05','BUS','HIS','','Burger'],
-                  ['1233212','McFlurry','Mack','02','PSY','','BIO','Storer']]
+                  ['1233212','McFlurry','Mack','02','PSY','','BIO','Storer'],
+                  ['22222322','Storm','Snow','04','CHM','BIO','','Stead'],
+                  ['33334322', 'Brown','Will','01','EXP','','','Christensen']]
 
 createStudentEnrollTable(mydb)
 fillEnrollment(mydb)
