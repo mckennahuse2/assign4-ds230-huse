@@ -358,6 +358,7 @@ def fillRegistration(mydb):
             print(q)
             try:
                 res = executeQuery(mydb,q)
+                mydb.commit()
                 print('success insert enroll')
             except mysql.connector.Error as e:
                 print(e)
