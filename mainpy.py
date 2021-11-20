@@ -1,6 +1,8 @@
 ## McKenna Huse
 ## Assignment 4 - SQL/Course Catalog
 ## DS230 FA21
+import random
+
 import mysql.connector
 import pandas as pd
 import os
@@ -8,6 +10,7 @@ import requests
 import json
 import regex
 import csv
+import numpy as np
 
 
 
@@ -394,6 +397,28 @@ def fillEnrollment(mydb,*rows): #rows are optional entries, manual entry of rows
                     print(e)
             except:
                 pass
+
+def numAnonPattern(number):
+    old = np.array(int(str(number).split()))
+    new = (2*(old + 2)) % 10
+    return new
+
+def nameAnon(mydb, fname,lname):
+    q = 'SELECT count(*) FROM students;'
+    mycur = mydb.cursor()
+    count = mycur.execute(q)
+    randID1, randID2 = random.randint(0,int(count)), random.randint(0,int(count))
+
+    q2 = 'SELECT fname from students where studentID = "' + randID1 + '"); '\
+      +  'SELECT lname from students where studentID = "' + randID2 + '");'
+    mycur.execute(q2, multi= True)
+    randnames = mycur.fetchall()
+    newf = randnames[0]
+    newl = randnames[1]
+    return [newf,newl]
+
+
+def anonymizeData(mydb,name,idnum):
 
 
 
